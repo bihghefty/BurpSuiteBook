@@ -215,7 +215,7 @@ Just read it.
 
 The more familiar HTTP becomes, the more confident you'll become as a cybersecurity professional.
 
-I'll meet you in the next chapter.
+I'll see you in the next chapter.
 
 — Henry Uwaezuoke
 
