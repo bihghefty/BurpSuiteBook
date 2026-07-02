@@ -1,19 +1,29 @@
 # About the Author
 
-Henry Uwaezuoke is a cybersecurity educator, SOC analyst, penetration tester, and technical author dedicated to helping beginners build practical, real-world cybersecurity skills.
+Hello, I'm Henry Uwaezuoke.
 
-His teaching philosophy is simple: cybersecurity is best learned by doing. Rather than relying solely on theory, Henry believes students develop confidence through hands-on laboratories, practical exercises, and understanding how security tools work in real environments.
+Like many people who begin their cybersecurity journey, I started with curiosity, plenty of questions, and a determination to keep learning. I quickly discovered that reading alone wasn't enough. The real lessons came when I opened the tools, built my own lab, made mistakes, and learned from them.
 
-His work focuses on Linux, web application security, network security, ethical hacking, and defensive security. Through detailed guides and step-by-step training materials, he aims to make complex technical topics approachable without sacrificing technical accuracy.
+That experience shaped the way I teach today.
 
-Every book in the Henry Uwaezuoke Cybersecurity Series is designed to bridge the gap between theory and practice, helping readers move from curiosity to competence through structured learning and real examples.
+I believe cybersecurity should be practical. It's one thing to understand a concept in theory, but it's something completely different to apply it yourself. That's why every book I write is built around hands-on learning, real examples, and step-by-step guidance that helps you build confidence as you practise.
 
-When he is not writing or researching cybersecurity topics, Henry continues building practical labs, developing educational resources, and exploring new technologies to help aspiring cybersecurity professionals prepare for successful careers.
+My areas of interest include Linux, web application security, network security, penetration testing, ethical hacking, and defensive security. More importantly, I'm passionate about helping beginners understand these topics without making them feel overwhelmed.
+
+If this is your first cybersecurity book, I want you to know that you're in the right place.
+
+You don't need to know everything before you begin. You simply need the willingness to learn, practise consistently, and keep asking questions. Every expert was once a beginner, and every skill you develop today becomes part of the foundation you'll build on tomorrow.
+
+Thank you for choosing this book and allowing me to be part of your learning journey.
+
+I hope the knowledge you gain here inspires you to keep growing, keep practising, and one day help someone else begin their own journey into cybersecurity.
+
+See you in the first chapter.
+
+— **Henry Uwaezuoke**
 
 ---
 
-## Henry Uwaezuoke Cybersecurity Series
+# Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
-
-Building practical cybersecurity skills through hands-on learning.

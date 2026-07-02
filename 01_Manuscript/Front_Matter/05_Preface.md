@@ -1,17 +1,35 @@
 # Preface
 
-When I first started learning cybersecurity, one lesson became clear very quickly: reading about security is not enough. Real understanding comes from seeing how systems behave and then asking why they behave that way.
+If you're holding this book, there's a good chance you're curious about cybersecurity and you're ready to move beyond just watching videos or reading articles online.
 
-That idea shaped this book.
+That was exactly where I started.
 
-Rather than presenting Burp Suite as a collection of buttons and menus, this guide follows a practical workflow built around a controlled DVWA laboratory. Every request captured, every response examined, and every screenshot included comes from hands-on practice in an authorized learning environment.
+One lesson became clear to me very early: reading about cybersecurity is helpful, but real understanding comes from getting your hands dirty. You have to open the tools, make mistakes, ask questions, and keep practising.
 
-You won't find unnecessary jargon or assumptions that you already know web application security. Instead, we'll build your understanding step by step.
+Burp Suite was one of those tools that looked overwhelming at first. I remember opening it for the first time and wondering where to begin. There were so many tabs, windows and options that it felt impossible to know what everything did.
 
-My goal is simple: when you finish this book, Burp Suite should feel like a familiar tool rather than an intimidating one.
+The good news is that you don't need to understand everything on your first day.
 
-Whether your goal is to become a SOC analyst, a penetration tester, a secure software developer, or simply to understand how web applications communicate, I hope this guide helps you build a strong foundation.
+You just need someone to guide you through it, one step at a time.
 
-Welcome to the journey.
+That's why I wrote this book.
+
+Instead of overwhelming you with technical language, I'll walk with you through the same practical exercises that helped me understand Burp Suite. We'll use DVWA as our practice environment, examine real HTTP requests and responses, and gradually build the confidence to use Burp Suite effectively.
+
+Don't worry if you've never tested a web application before.
+
+You don't need years of experience to follow this guide.
+
+All you need is curiosity, a willingness to practise, and the patience to keep learning.
+
+Whether your goal is to become a penetration tester, a SOC analyst, an application security engineer, or simply to understand how web applications work, I hope this book gives you a strong foundation to build on.
+
+Thank you for trusting me to be part of your cybersecurity journey.
+
+Now, let's open Burp Suite and get started.
 
 — Henry Uwaezuoke
+
+*Henry Uwaezuoke Cybersecurity Series*
+
+**Learn. Practice. Secure.**

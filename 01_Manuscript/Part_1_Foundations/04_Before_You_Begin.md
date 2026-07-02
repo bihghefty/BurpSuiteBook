@@ -2,97 +2,115 @@
 
 # Before You Begin
 
-## Learning Objectives
+Before we start working with Burp Suite, I'd like us to spend a few minutes preparing our lab.
 
-By the end of this chapter, you will:
+I know this isn't the most exciting part of the book, but it's one of the most important.
 
-- Understand the ethical responsibilities of a cybersecurity professional.
-- Learn why authorization is essential before testing any system.
-- Develop the mindset needed to become a trusted security practitioner.
+A well-prepared lab allows you to practise with confidence, make mistakes safely, and repeat exercises whenever you need to. That's exactly how real skills are built.
 
----
-
-## More Than Just a Tool
-
-Learning Burp Suite is not simply about understanding software.
-
-It is about understanding responsibility.
-
-Every request you intercept, every response you inspect, and every vulnerability you discover should be approached with professionalism and respect.
-
-Cybersecurity professionals are trusted because they protect systems—not because they know how to break them.
+Think of this chapter as setting the foundation for everything that follows.
 
 ---
 
-## Ethical Hacking
+## Learning in a Safe Environment
 
-The word "hacking" often creates the wrong impression.
+Throughout this book, we'll use **Damn Vulnerable Web Application (DVWA)** as our practice target.
 
-Ethical hacking means identifying weaknesses with permission so they can be fixed before malicious actors exploit them.
+DVWA was created specifically for learning web application security. It contains intentional vulnerabilities that allow you to practise safely without attacking real systems.
 
-Throughout this book, every demonstration takes place inside an authorized laboratory using DVWA.
+That's an important distinction.
 
-This approach ensures that your learning remains both practical and responsible.
+Everything you do in this book should be performed only in environments that you own or have permission to test.
 
----
+Ethical hacking begins with permission.
 
-## Why Permission Matters
-
-Testing a system without authorization can violate laws, organizational policies, or contractual agreements.
-
-Always obtain permission before assessing any application or network that you do not own.
-
-Responsible security professionals document their findings, communicate clearly, and help organizations improve their defenses.
+Professional cybersecurity is built on responsibility.
 
 ---
 
-## Building Good Habits
+## Figure 4.1 – DVWA Login Page
 
-As you progress through this guide, make these habits part of your routine:
+**Screenshot Reference:** Screenshot 005
 
-- Think before you test.
-- Understand before you exploit.
-- Document your observations.
-- Learn from every mistake.
-- Respect privacy and confidentiality.
+📸 *Insert the DVWA login page here.*
 
-These habits will serve you throughout your cybersecurity career.
+If your DVWA page looks similar to this screenshot, you're ready to continue.
+
+Don't worry if it isn't perfect yet. We'll verify everything before moving on.
 
 ---
 
-## A Message From the Author
+## Organising Your Workspace
 
-When I began learning cybersecurity, I quickly realized that mastering tools was only one part of the journey.
+Before opening Burp Suite, make sure you have:
 
-Developing discipline, patience, and integrity proved to be just as important.
+- Burp Suite Community Edition installed.
+- DVWA running correctly.
+- Firefox available for testing.
+- A notebook or digital document for taking notes.
 
-Those qualities continue to guide my work today, and I encourage you to develop them alongside your technical skills.
+You'll be surprised how often a small observation during a lab becomes useful later.
 
-Remember:
-
-Learning never stops.
-
-Every expert was once a beginner.
-
----
-
-## Key Takeaways
-
-- Ethics are the foundation of professional cybersecurity.
-- Always obtain authorization before testing.
-- Practical skills should always be used responsibly.
-- Professionalism is as important as technical knowledge.
+I still keep notes from my own practice sessions because every experiment teaches something new.
 
 ---
 
-## Chapter Summary
+## Lessons I Learned
 
-This book is designed to help you become more than someone who knows how to operate Burp Suite.
+When I first started building cybersecurity labs, I was always eager to jump straight into testing.
 
-It is intended to help you become a cybersecurity professional who understands both the technical and ethical responsibilities that come with the role.
+More than once, I forgot to check whether my lab was properly configured.
+
+Sometimes DVWA wasn't running.
+
+Other times, Burp Suite wasn't listening on the correct port.
+
+Those small oversights taught me an important lesson.
+
+Spending a few minutes preparing your environment can save you a lot of time later.
+
+Preparation is part of the learning process.
 
 ---
 
-**Henry Uwaezuoke Cybersecurity Series**
+## Before We Move Forward
+
+Take a few minutes to confirm that everything is working.
+
+Open DVWA.
+
+Launch Burp Suite.
+
+Open Firefox.
+
+If all three are ready, you're in a great position to begin the practical chapters that follow.
+
+There's no need to rush.
+
+We'll build your confidence one exercise at a time.
+
+---
+
+## One Last Thought
+
+One of the habits that has helped me most in cybersecurity is taking my time.
+
+Not because I'm slow, but because understanding is more valuable than speed.
+
+As you work through this book, don't measure your progress by how many chapters you finish.
+
+Measure it by how much you understand.
+
+If a chapter takes an extra day because you repeated the lab several times, that's not falling behind.
+
+That's learning.
+
+I'll see you in the next chapter.
+
+— **Henry Uwaezuoke**
+
+---
+
+# Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**

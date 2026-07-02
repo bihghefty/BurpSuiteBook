@@ -1,17 +1,41 @@
 # A Promise to the Reader
 
-If you are completely new to Burp Suite, this book was written for you.
+Before we begin, I'd like to make you a promise.
 
-I will never assume you already know something that has not yet been explained.
+This book isn't here to impress you with complicated terminology or make cybersecurity feel harder than it needs to be.
 
-Whenever a technical concept appears, we will explore it together, step by step, using practical examples and real laboratory exercises.
+It's here to help you understand.
 
-My goal is not simply to help you finish this book.
+As we work through Burp Suite together, there will be moments when something doesn't make sense straight away. That's completely normal. Learning cybersecurity is a process, and every professional you admire today once faced the same challenges.
 
-My goal is to help you understand the ideas behind every request, every response, and every security concept you encounter.
+My promise is that I'll explain each topic as clearly as I can, using practical examples instead of unnecessary theory. We'll take one step at a time, build your confidence gradually, and focus on understanding rather than memorising.
 
-If you remain curious, continue practicing, and complete the exercises in this guide, you will finish with a stronger foundation than when you began.
+I also encourage you to be patient with yourself.
 
-Let's build that foundation together.
+Don't worry if you make mistakes during the labs. In fact, some of the most valuable lessons come from fixing things that didn't work the first time. I've made those mistakes myself, and they've helped me become a better security professional.
 
-— Henry Uwaezuoke
+This book was written to be used, not just read.
+
+Open Burp Suite.
+
+Test the examples.
+
+Repeat the exercises.
+
+Ask questions.
+
+Practise often.
+
+If you do that, you'll finish this book with much more than knowledge—you'll leave with practical experience and the confidence to keep learning.
+
+Thank you for allowing me to be part of your journey.
+
+Now, let's begin.
+
+— **Henry Uwaezuoke**
+
+---
+
+# Henry Uwaezuoke Cybersecurity Series
+
+**Learn. Practice. Secure.**
