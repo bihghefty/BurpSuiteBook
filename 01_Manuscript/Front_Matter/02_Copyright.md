@@ -11,3 +11,13 @@ The demonstrations in this book were performed in an authorized laboratory using
 The author and publisher accept no responsibility for misuse of the information contained in this book.
 
 Always obtain written authorization before testing any system you do not own or explicitly have permission to assess.
+
+---
+
+First Edition — July 2026
+
+Published by
+
+Henry Uwaezuoke Cybersecurity Series
+
+Learn. Practice. Secure.
