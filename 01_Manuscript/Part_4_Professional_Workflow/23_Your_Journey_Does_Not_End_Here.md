@@ -167,7 +167,7 @@ Most importantly...
 
 Enjoy the journey.
 
-I'll see you again in another book.
+I'll see you in the next chapter.
 
 — **Henry Uwaezuoke**
 
