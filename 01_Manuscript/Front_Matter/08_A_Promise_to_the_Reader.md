@@ -1,34 +1,42 @@
 # A Promise to the Reader
 
-Before we begin, I'd like to make you a promise.
+Before you turn the page and begin Chapter One, I'd like to make you a promise.
 
-This book isn't here to impress you with complicated terminology or make cybersecurity feel harder than it needs to be.
+This book will not assume you already know web application security.
 
-It's here to help you understand.
+It will not overwhelm you with unnecessary jargon or expect you to memorise technical terms without understanding them.
 
-As we work through Burp Suite together, there will be moments when something doesn't make sense straight away. That's completely normal. Learning cybersecurity is a process, and every professional you admire today once faced the same challenges.
+Instead, we'll learn together—one concept, one tool, and one practical exercise at a time.
 
-My promise is that I'll explain each topic as clearly as I can, using practical examples instead of unnecessary theory. We'll take one step at a time, build your confidence gradually, and focus on understanding rather than memorising.
+Everything in this book has been written with one goal in mind:
 
-I also encourage you to be patient with yourself.
+To help you build genuine confidence through practical learning.
 
-Don't worry if you make mistakes during the labs. In fact, some of the most valuable lessons come from fixing things that didn't work the first time. I've made those mistakes myself, and they've helped me become a better security professional.
+You'll find explanations before demonstrations.
 
-This book was written to be used, not just read.
+You'll understand the "why" before the "how."
 
-Open Burp Suite.
+You'll be encouraged to practise, think critically, and develop the mindset of a cybersecurity professional rather than simply following instructions.
 
-Test the examples.
+Most importantly, I promise to be honest with you.
 
-Repeat the exercises.
+Cybersecurity isn't something you master overnight.
 
-Ask questions.
+Like any worthwhile skill, it takes patience, consistency, curiosity, and practice.
 
-Practise often.
+Some chapters may challenge you.
 
-If you do that, you'll finish this book with much more than knowledge—you'll leave with practical experience and the confidence to keep learning.
+Some concepts may require you to pause and revisit them.
 
-Thank you for allowing me to be part of your journey.
+That's perfectly normal.
+
+Keep going.
+
+Every page you read, every lab you complete, and every question you ask is another step forward.
+
+By the time you reach the final chapter, my hope is that Burp Suite will no longer feel like an intimidating application, but a familiar tool that you can confidently use as part of your cybersecurity journey.
+
+Thank you for placing your trust in me.
 
 Now, let's begin.
 
@@ -38,4 +46,4 @@ Now, let's begin.
 
 # Henry Uwaezuoke Cybersecurity Series
 
-**Learn. Practice. Secure.**
+## Learn. Practice. Secure.

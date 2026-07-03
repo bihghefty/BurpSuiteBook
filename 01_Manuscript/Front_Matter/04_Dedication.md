@@ -1,13 +1,23 @@
 # Dedication
 
-This book is dedicated to every beginner who opened Burp Suite for the first time and wondered where to begin.
+This book is dedicated to every beginner who has ever looked at cybersecurity and thought,
 
-Cybersecurity can seem overwhelming at first. Every professional once stood exactly where you are now—trying to understand unfamiliar tools, confusing terminology, and complex concepts.
+*"Can I really do this?"*
 
-I hope this guide gives you the confidence to keep learning, to ask questions, and to practice with curiosity and integrity.
+The answer is **yes**.
 
-Remember that expertise is built one lab, one chapter, and one lesson at a time.
+With patience, consistency, and a willingness to keep learning, today's beginner can become tomorrow's cybersecurity professional.
 
-To every future cybersecurity professional, this book is for you.
+I also dedicate this book to the mentors, educators, and professionals who generously share their knowledge, making this field stronger with every person they inspire.
 
-— Henry Uwaezuoke
+Finally, to my family, friends, and everyone who has supported my journey—thank you for believing in me, encouraging me, and reminding me that meaningful work is built one day at a time.
+
+May this book inspire you to learn, practise, and build a career founded on knowledge, integrity, and service.
+
+— **Henry Uwaezuoke**
+
+---
+
+# Henry Uwaezuoke Cybersecurity Series
+
+## Learn. Practice. Secure.
