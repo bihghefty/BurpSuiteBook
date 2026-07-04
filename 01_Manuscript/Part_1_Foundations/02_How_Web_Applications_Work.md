@@ -43,9 +43,9 @@ Understanding this simple process is one of the most important lessons in web ap
 
 ## Figure 2.1 – How a Browser Communicates with a Web Server
 
-**Screenshot Reference:** Screenshot 002
+![Figure 2.1 – How a Browser Communicates with a Web Server](../images/001-browser-server-communication.png)
 
-📸 *Insert your browser-to-server communication diagram here.*
+*Figure 2.1: A web browser sends an HTTP request to a web server. The server processes the request and returns an HTTP response containing the requested content, such as HTML, images, CSS, or JavaScript. This request–response cycle forms the foundation of all web communication.*
 
 As you study this diagram, notice the direction of the request and the response.
 

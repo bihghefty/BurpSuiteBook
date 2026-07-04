@@ -81,9 +81,9 @@ That simple question has helped me grow far more than copying ever did.
 
 ## Figure 21.1 – Taking Time to Understand
 
-**Screenshot Reference:** Screenshot 033
+![Figure 21.1 – Taking Time to Understand](../images/133-taking-time-to-understand.png)
 
-📸 *Insert a screenshot of Burp Suite with notes beside it or a terminal showing careful lab work.*
+*Figure 21.1: Effective security testing is more than clicking buttons. Keeping detailed notes while analyzing requests in Burp Suite encourages careful observation, helps track findings, and builds good habits for professional penetration testing.*
 
 ---
 

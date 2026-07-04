@@ -63,9 +63,9 @@ That habit will save you time and make you a better tester.
 
 ## Figure 17.1 – Editing a Single Parameter
 
-**Screenshot Reference:** Screenshot 027
+![Figure 17.1 – Editing a Single Parameter](../images/127-editing-a-single-parameter.png)
 
-📸 *Insert a screenshot showing one parameter being changed in Repeater.*
+*Figure 17.1: A single parameter in the login request is modified before the request is sent. In this example, only the password value is changed, demonstrating how even a small modification can produce a completely different server response and reveal how the application processes user input.*
 
 Notice that only one value has changed.
 
@@ -99,9 +99,9 @@ These questions are more valuable than rushing to find a vulnerability.
 
 ## Figure 17.2 – Comparing the Responses
 
-**Screenshot Reference:** Screenshot 028
+![Figure 17.2 – Comparing the Responses](../images/128-comparing-responses.png)
 
-📸 *Insert a screenshot showing the original response beside the modified response.*
+*Figure 17.2: After sending the modified request, Burp Suite displays the server's response. Comparing the results demonstrates how a single change to the request can influence the application's behavior and helps identify how user input is validated.*
 
 Take your time.
 

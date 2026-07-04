@@ -32,17 +32,11 @@ For anyone learning web application security, this is one of the most valuable t
 
 ---
 
-## Figure 6.1 – Proxy Tab
+## Figure 6.1 – Burp Suite Proxy Tab
 
-**Screenshot Reference:** Screenshot 007
+![Figure 6.1 – Burp Suite Proxy Tab](../images/13-burp-burp-intercept-on.png)
 
-📸 *Insert your Proxy tab screenshot here.*
-
-Take a moment to look around the Proxy tab.
-
-Don't worry about understanding every option yet.
-
-Today, we're simply becoming familiar with the tool that we'll use throughout the rest of this book.
+*Figure 6.1: The Proxy tab is where Burp Suite captures and displays HTTP requests between your browser and the target web application. This is the starting point for intercepting, inspecting, and modifying traffic during a security assessment.*
 
 ---
 

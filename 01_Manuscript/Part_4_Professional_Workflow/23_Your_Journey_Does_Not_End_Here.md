@@ -60,9 +60,9 @@ It's a lifelong journey of learning.
 
 ## Figure 23.1 – Planning Your Next Learning Steps
 
-**Screenshot Reference:** Screenshot 035
+![Figure 23.1 – Planning Your Next Learning Steps](../images/135-learning-roadmap.png)
 
-📸 *Insert a simple learning roadmap showing Burp Suite leading into Linux, Networking, Python, Web Security, Cloud Security and Penetration Testing.*
+*Figure 23.1: Burp Suite is an excellent starting point, but it is only one step in a broader cybersecurity journey. Expanding your knowledge of Linux, networking, Python, web security, cloud security, and penetration testing will help you build a strong foundation for a professional career.*
 
 ---
 

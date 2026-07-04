@@ -30,13 +30,9 @@ Professional cybersecurity is built on responsibility.
 
 ## Figure 4.1 – DVWA Login Page
 
-**Screenshot Reference:** Screenshot 005
+![Figure 4.1 – DVWA Login Page](../images/20-dvwa-credentials.png)
 
-📸 *Insert the DVWA login page here.*
-
-If your DVWA page looks similar to this screenshot, you're ready to continue.
-
-Don't worry if it isn't perfect yet. We'll verify everything before moving on.
+*Figure 4.1: The DVWA login page confirms that your practice environment is running correctly. Throughout this book, we'll use DVWA as our primary target application to demonstrate Burp Suite's features safely and legally.*
 
 ---
 

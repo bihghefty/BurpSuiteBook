@@ -81,9 +81,9 @@ Your future self will thank you for doing the same.
 
 ## Figure 18.1 – Example Lab Notes
 
-**Screenshot Reference:** Screenshot 029
+![Figure 18.1 – Example Lab Notes](../images/129-example-lab-notes.png)
 
-📸 *Insert a screenshot of your notebook or digital notes from a Burp Suite practice session.*
+*Figure 18.1: Keeping structured notes during a Burp Suite session helps document observations, testing steps, and important findings. Organized notes make it easier to reproduce results, write professional reports, and improve future security assessments.*
 
 ---
 

@@ -38,9 +38,9 @@ That makes your job much easier.
 
 ## Figure 12.1 – Sending Items to Comparer
 
-**Screenshot Reference:** Screenshot 016
+![Figure 12.1 – Sending Items to Comparer](../images/120-comparer-items-loaded.png)
 
-📸 *Insert the screenshot showing **Send to Comparer**.*
+*Figure 12.1: Burp Suite Comparer allows you to load two or more requests or responses for comparison. This is useful when identifying subtle differences in application behavior, authentication tokens, headers, or server responses.*
 
 Choose two requests from HTTP History.
 
@@ -72,9 +72,9 @@ That's the question that helps you understand how an application works.
 
 ## Figure 12.2 – Comparer Results
 
-**Screenshot Reference:** Screenshot 017
+![Figure 12.2 – Comparer Results](../images/121-comparer-results.png)
 
-📸 *Insert the comparison results window.*
+*Figure 12.2: Comparer highlights the differences between the selected items, making it easier to identify changes that might be difficult to notice during manual inspection.*
 
 Spend a few minutes studying the highlighted areas.
 

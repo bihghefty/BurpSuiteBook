@@ -58,11 +58,11 @@ Simply explore.
 
 ---
 
-## Figure 14.1 — DVWA Home Page
+## Figure 14.1 – DVWA Home Page
 
-**Screenshot Reference:** Screenshot 020
+![Figure 14.1 – DVWA Home Page](../images/20-dvwa-credentials.png)
 
-📸 Insert the DVWA home page here.
+*Figure 14.1: DVWA ready for testing. Before beginning the practical lab, verify that the application is running and that you can successfully log in using the provided credentials.*
 
 ---
 
@@ -84,11 +84,11 @@ That's one of its greatest strengths.
 
 ---
 
-## Figure 14.2 — HTTP History After Browsing
+## Figure 14.2 – HTTP History After Browsing
 
-**Screenshot Reference:** Screenshot 021
+![Figure 14.2 – HTTP History After Browsing](../images/23-send-to-repeater.png)
 
-📸 Insert HTTP History after browsing DVWA.
+*Figure 14.2: After browsing DVWA, Burp Suite captures the application's HTTP traffic. From HTTP History, individual requests can be reviewed and sent to other tools such as Repeater for further analysis.*
 
 ---
 
@@ -112,11 +112,11 @@ Learning to observe is just as important as learning to modify.
 
 ---
 
-## Figure 14.3 — Request in Repeater
+## Figure 14.3 – Request in Repeater
 
-**Screenshot Reference:** Screenshot 022
+![Figure 14.3 – Request in Repeater](../images/24-repeater-request.png)
 
-📸 Insert Repeater screenshot.
+*Figure 14.3: The selected request has been sent to Repeater, where it can be modified and resent multiple times. This allows you to safely test how the application responds to different inputs without repeatedly interacting with the browser.*
 
 ---
 

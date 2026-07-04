@@ -38,9 +38,9 @@ Understanding what's happening is far more important than memorising the differe
 
 ## Figure 11.1 – Decoder Tool
 
-**Screenshot Reference:** Screenshot 014
+![Figure 11.1 – Decoder Tool](../images/115-decoder-input.png)
 
-📸 *Insert the Decoder window here.*
+*Figure 11.1: The Decoder tool allows you to paste encoded or decoded data for analysis. It supports multiple encoding formats, making it useful when examining web requests, cookies, tokens, and application data.*
 
 Spend a minute looking around the Decoder interface.
 
@@ -70,9 +70,9 @@ It takes information that looks confusing and makes it understandable.
 
 ## Figure 11.2 – Decoding Base64 Data
 
-**Screenshot Reference:** Screenshot 015
+![Figure 11.2 – Decoding Base64 Data](../images/116-decoder-encoded.png)
 
-📸 *Insert the Base64 decoding example here.*
+*Figure 11.2: Burp Suite Decoder converts Base64-encoded data into its original readable form. This helps you understand how applications encode information and inspect values that may otherwise appear unreadable.*
 
 Notice how the output immediately becomes easier to understand.
 

@@ -38,9 +38,9 @@ It simply gives you more time to focus on analysing the application's behaviour.
 
 ## Figure 10.1 – Sending a Request to Intruder
 
-**Screenshot Reference:** Screenshot 012
+![Figure 10.1 – Sending a Request to Intruder](../images/112-intruder-positions.png)
 
-📸 *Insert the screenshot showing **Send to Intruder**.*
+*Figure 10.1: After capturing a request, send it to Intruder to begin automated testing. Intruder allows you to identify which parts of the request will be modified during an attack.*
 
 Start by capturing a request.
 
@@ -68,11 +68,11 @@ Learning how positions work is more important than memorising buttons.
 
 ---
 
-## Figure 10.2 – Intruder Positions
+## Figure 10.2 – Configuring Intruder Payloads
 
-**Screenshot Reference:** Screenshot 013
+![Figure 10.2 – Configuring Intruder Payloads](../images/113-intruder-payloads.png)
 
-📸 *Insert the Intruder Positions screen.*
+*Figure 10.2: After defining the attack positions, configure the payloads that Intruder will use. Burp Suite substitutes each payload into the selected positions, making it possible to automate repetitive testing tasks efficiently.*
 
 Take your time exploring the highlighted positions.
 

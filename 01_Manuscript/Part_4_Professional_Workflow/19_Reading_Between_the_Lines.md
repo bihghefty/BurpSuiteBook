@@ -79,11 +79,11 @@ Before long, those confusing requests started making sense.
 
 ---
 
-## Figure 19.1 – A Complete HTTP Request
+## Figure 19.1 – Complete HTTP Request
 
-**Screenshot Reference:** Screenshot 030
+![Figure 19.1 – Complete HTTP Request](../images/130-complete-http-request.png)
 
-📸 *Insert a screenshot showing a complete HTTP request in Burp Suite.*
+*Figure 19.1: A complete HTTP request captured by Burp Suite. Every request contains valuable information that helps security testers understand how a web application communicates with the server.*
 
 Take a few minutes to study the request.
 
@@ -126,9 +126,9 @@ These questions help you think like an analyst instead of simply reading text on
 
 ## Figure 19.2 – Identifying Important Sections
 
-**Screenshot Reference:** Screenshot 031
+![Figure 19.2 – Identifying Important Sections](../images/131-http-request-sections.png)
 
-📸 *Insert a screenshot highlighting the request line, headers, cookies and body.*
+*Figure 19.2: A typical HTTP request consists of four key components: the request line, HTTP headers, cookies, and the request body. Learning to identify each section helps security testers understand how browsers communicate with web applications and where user-supplied data is transmitted.*
 
 Focus on understanding the purpose of each section.
 

@@ -40,9 +40,9 @@ They simply answer different questions.
 
 ## Figure 13.1 – Target Site Map
 
-**Screenshot Reference:** Screenshot 018
+![Figure 13.1 – Target Site Map](../images/122-target-site-map.png)
 
-📸 *Insert the Target Site Map screenshot here.*
+*Figure 13.1: The Target Site Map displays the application's discovered structure after browsing through DVWA. It helps testers understand the application's layout before beginning security testing.*
 
 Spend a few moments looking at the folders and pages.
 
@@ -64,11 +64,11 @@ Good organisation saves time.
 
 ---
 
-## Figure 13.2 – Expanding the Site Map
+## Figure 13.2 – Expanded Target Site Map
 
-**Screenshot Reference:** Screenshot 019
+![Figure 13.2 – Expanded Target Site Map](../images/123-target-site-map-expanded.png)
 
-📸 *Insert a screenshot showing expanded folders in the Site Map.*
+*Figure 13.2: Expanding the Site Map reveals additional directories, pages, and endpoints, making it easier to identify areas that require further testing.*
 
 Notice how expanding the folders reveals more pages and resources.
 

@@ -88,9 +88,9 @@ Congratulations! You've just intercepted and released your first HTTP request.
 
 ## Figure 7.1 – Intercept Waiting for a Request
 
-**Insert Screenshot Here**
+![Figure 7.1 – Intercept Waiting for a Request](../images/17-first-request-intercepted.png)
 
-**Screenshot Reference:** *(Use the screenshot you captured showing "Intercept is on" with the request waiting.)*
+*Figure 7.1: Burp Suite has intercepted an HTTP request before it reaches the target web application. At this point, the request is paused, allowing you to inspect its headers and parameters, make changes if necessary, then click **Forward** to continue or **Drop** to discard it.*
 
 As you look at the screenshot, notice these areas:
 

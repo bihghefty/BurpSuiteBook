@@ -38,15 +38,11 @@ Doing so helps ensure you're using authentic software and receiving the latest u
 
 ---
 
-## Figure 3.1 – Burp Suite Download Page
+## Figure 3.1 – Downloading Burp Suite Community Edition
 
-**Screenshot Reference:** Screenshot 003
+![Figure 3.1 – Downloading Burp Suite Community Edition](../images/04-burp-download-page.png)
 
-📸 *Insert the Burp Suite download page here.*
-
-Take a moment to look at the available editions.
-
-For this book, choose **Community Edition**.
+*Figure 3.1: Download the latest Burp Suite Community Edition from the official PortSwigger website before beginning the installation.*
 
 ---
 
@@ -64,15 +60,11 @@ That's perfectly normal.
 
 ---
 
-## Figure 3.2 – Burp Suite Launch Screen
+## Figure 3.2 – Burp Suite Installer
 
-**Screenshot Reference:** Screenshot 004
+![Figure 3.2 – Burp Suite Installer](../images/08-installer-wizard.png)
 
-📸 *Insert the Burp Suite startup screen here.*
-
-Don't worry if the interface feels unfamiliar.
-
-We'll explore every major section together throughout this book.
+*Figure 3.2: Launch the installer and follow the setup wizard.*
 
 ---
 

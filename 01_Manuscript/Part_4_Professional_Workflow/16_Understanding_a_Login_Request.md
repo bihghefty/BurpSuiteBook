@@ -69,9 +69,9 @@ That simple habit has helped me countless times.
 
 ## Figure 16.1 – DVWA Login Page
 
-**Screenshot Reference:** Screenshot 025
+![Figure 16.1 – DVWA Login Page](../images/19-dvwa-login-page.png)
 
-📸 *Insert the DVWA login page.*
+*Figure 16.1: The DVWA login page before authentication. Burp Suite can capture the HTTP request generated when the login form is submitted, making it an excellent example for understanding how web applications process user credentials.*
 
 Before clicking **Login**, pause for a moment.
 
@@ -103,9 +103,9 @@ Every line has a purpose.
 
 ## Figure 16.2 – Login Request in Proxy
 
-**Screenshot Reference:** Screenshot 026
+![Figure 16.2 – Login Request in Proxy](../images/18-dvwa-login-page.png)
 
-📸 *Insert the intercepted login request.*
+*Figure 16.2: The login request captured in Burp Suite's Proxy tool. The intercepted request contains the submitted credentials and other HTTP parameters, allowing security testers to inspect, modify, and forward the request for analysis.*
 
 This is one of the most valuable screenshots in the book.
 

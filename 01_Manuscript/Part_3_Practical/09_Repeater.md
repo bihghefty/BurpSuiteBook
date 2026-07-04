@@ -36,9 +36,9 @@ That makes Repeater an excellent learning tool because you can immediately see h
 
 ## Figure 9.1 – Sending a Request to Repeater
 
-**Screenshot Reference:** Screenshot 010
+![Figure 9.1 – Sending a Request to Repeater](../images/84-repeater-response.png)
 
-📸 *Insert the screenshot showing **Right-click → Send to Repeater**.*
+*Figure 9.1: After capturing a request in Burp Suite, you can send it to Repeater for manual testing. Repeater allows you to modify the request and resend it multiple times without generating additional traffic from the browser.*
 
 Once you've captured a request in Proxy or HTTP History, right-click it and choose **Send to Repeater**.
 
@@ -66,9 +66,9 @@ The more familiar these become, the more comfortable you'll feel analysing web t
 
 ## Figure 9.2 – Repeater Interface
 
-**Screenshot Reference:** Screenshot 011
+![Figure 9.2 – Repeater Interface](../images/56-request-body.png)
 
-📸 *Insert the Repeater window showing both the request and response.*
+*Figure 9.2: The Repeater interface displays the complete HTTP request and the corresponding server response. You can edit headers, parameters, or the request body before sending the request again to observe how the application responds.*
 
 One of the things I appreciate most about Repeater is that it displays the request and the response side by side.
 

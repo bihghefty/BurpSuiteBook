@@ -42,9 +42,9 @@ This makes HTTP History incredibly useful when you're trying to understand how a
 
 ## Figure 8.1 – HTTP History
 
-**Screenshot Reference:** Screenshot 008
+![Figure 8.1 – HTTP History](../images/29-http-history.png)
 
-📸 *Insert your HTTP History screenshot here.*
+*Figure 8.1: The HTTP History tab records every request and response that passes through Burp Suite, providing a complete view of your interaction with the target application.*
 
 Take a minute to look at the list of requests.
 
@@ -82,11 +82,11 @@ You've just captured your first browsing session.
 
 ---
 
-## Figure 8.2 – Multiple Requests in HTTP History
+## Figure 8.2 – Analyzing a GET Request in HTTP History
 
-**Screenshot Reference:** Screenshot 009
+![Figure 8.2 – Analyzing a GET Request](../images/32-get-request-analysis.png)
 
-📸 *Insert the screenshot showing multiple requests.*
+*Figure 8.2: Selecting an entry from HTTP History allows you to inspect the complete HTTP request and response. This example shows a captured GET request, helping you understand how browsers communicate with web applications.*
 
 Notice how every page you visited appears in the history.
 

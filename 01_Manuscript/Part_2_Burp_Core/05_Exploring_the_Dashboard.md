@@ -44,15 +44,9 @@ Curiosity is one of the most valuable skills in cybersecurity.
 
 ## Figure 5.1 – Burp Suite Dashboard
 
-**Screenshot Reference:** Screenshot 006
+![Figure 5.1 – Burp Suite Dashboard](../images/10-burp-dashboard.png)
 
-📸 *Insert the Burp Suite dashboard screenshot here.*
-
-Spend a minute looking at the interface.
-
-Notice the row of tabs across the top.
-
-These tabs are where you'll spend most of your time as you learn Burp Suite.
+*Figure 5.1: The Burp Suite Dashboard is the central workspace of the application. From here, you can monitor project activity, review issues, and access the various tools used throughout your web application security assessment.*
 
 ---
 

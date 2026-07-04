@@ -1,4 +1,4 @@
-`# Chapter 20
+# Chapter 20
 
 > **"The best place to make mistakes is in a lab you built for learning."**
 >
@@ -63,9 +63,9 @@ That's where real learning begins.
 
 ## Figure 20.1 – Example Practice Lab
 
-**Screenshot Reference:** Screenshot 032
+![Figure 20.1 – Example Practice Lab](../images/132-safe-practice-lab.png)
 
-📸 *Insert a screenshot showing Kali Linux, DVWA and Burp Suite running together.*
+*Figure 20.1: A safe practice environment consisting of Kali Linux, Burp Suite, and DVWA running locally. Using an isolated lab allows you to practice web application security testing without affecting production systems or unauthorized targets.*
 
 This doesn't have to look perfect.
 
