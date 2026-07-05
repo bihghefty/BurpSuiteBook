@@ -10,11 +10,11 @@ Instead, we'll learn together—one concept, one tool, and one practical exercis
 
 Everything in this book has been written with one goal in mind:
 
-To help you build genuine confidence through practical learning.
+**To help you build genuine confidence through practical learning.**
 
 You'll find explanations before demonstrations.
 
-You'll understand the "why" before the "how."
+You'll understand the *why* before the *how*.
 
 You'll be encouraged to practise, think critically, and develop the mindset of a cybersecurity professional rather than simply following instructions.
 
@@ -26,7 +26,7 @@ Like any worthwhile skill, it takes patience, consistency, curiosity, and practi
 
 Some chapters may challenge you.
 
-Some concepts may require you to pause and revisit them.
+Some concepts may require you to pause, revisit them, and try again.
 
 That's perfectly normal.
 

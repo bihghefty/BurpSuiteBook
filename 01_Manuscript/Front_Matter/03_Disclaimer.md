@@ -2,7 +2,7 @@
 
 This book has been written for educational and ethical purposes.
 
-The techniques, tools, demonstrations, and practical exercises presented throughout this book are intended to help readers understand web application security, penetration testing, and defensive security concepts in authorized environments.
+The techniques, tools, demonstrations, and practical exercises presented throughout this book are intended to help readers understand web application security, penetration testing, and ethical hacking in a safe and responsible manner.
 
 Always obtain explicit permission before testing any system, application, or network that you do not own or manage.
 
@@ -12,7 +12,7 @@ The examples in this book were performed in controlled laboratory environments c
 
 Neither the author nor the publisher accepts responsibility for any misuse of the information provided in this book.
 
-Cybersecurity is a profession built on trust, integrity, and responsibility. As you continue your learning journey, I encourage you to use your knowledge to protect systems, strengthen security, and contribute positively to the cybersecurity community.
+Cybersecurity is more than technical skill—it is a profession built on trust, integrity, and responsibility. As you continue your learning journey, I encourage you to use your knowledge to protect systems, help organizations, and make the internet a safer place for everyone.
 
 Remember:
 

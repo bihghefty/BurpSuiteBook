@@ -8,7 +8,7 @@ You've decided to move beyond simply reading about cybersecurity and start learn
 
 I'm genuinely excited for you because that's exactly how I began my own journey.
 
-When I first heard about Burp Suite, I knew it was an important tool for web application security, but opening it for the first time was intimidating. There were tabs, buttons, and features that I didn't understand. Like many beginners, I wondered where to start.
+When I first heard about Burp Suite, I knew it was an important tool for web application security, but opening it for the first time was intimidating. There were tabs everywhere, panels I didn't understand, and features I had never heard of.
 
 The good news is that you don't have to learn everything today.
 
@@ -30,7 +30,7 @@ My goal is different.
 
 I want to show you how to use it.
 
-Every chapter in this book is based on practical exercises that you can repeat in your own lab. Instead of rushing through features, we'll focus on understanding what each tool does and why it matters.
+Every chapter in this book is based on practical exercises that you can repeat in your own lab. Instead of rushing through features, we'll focus on understanding what each tool does, why it matters, and how you can apply it in real-world scenarios.
 
 If something isn't clear the first time, that's perfectly fine.
 
@@ -44,9 +44,9 @@ The more you practise, the more confident you'll become.
 
 ## Figure 1.1 – Burp Suite Community Edition
 
-**Screenshot Reference:** Screenshot 001
+![Figure 1.1 – Burp Suite Community Edition](../images/11-burp-burp-defaults.png)
 
-📸 *Insert your Burp Suite home screen here.*
+*Figure 1.1: Burp Suite Community Edition showing the default interface after launching the application. Take a moment to become familiar with the layout and the main navigation tabs before we begin exploring each tool.*
 
 Before clicking anything, spend a minute looking around the interface.
 
@@ -68,7 +68,9 @@ Progress came from opening the tools, trying things for myself, making mistakes,
 
 Don't be afraid to experiment in your lab.
 
-Some of your best learning moments will come from asking, "Why did that happen?"
+Some of your best learning moments will come from asking,
+
+*"Why did that happen?"*
 
 ---
 
@@ -80,7 +82,7 @@ Don't worry if the interface looks unfamiliar.
 
 By the time you finish this book, you'll know exactly what each major tool is used for.
 
-We'll build that understanding together.
+We'll build that understanding together, one step at a time.
 
 ---
 
