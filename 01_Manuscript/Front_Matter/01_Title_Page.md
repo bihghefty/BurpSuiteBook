@@ -6,20 +6,20 @@
 
 ---
 
-**Henry Uwaezuoke**
+## Henry Uwaezuoke
 
-Cybersecurity Educator | SOC Analyst | Penetration Tester | Technical Author
+Cybersecurity Educator • SOC Analyst • Penetration Tester • Technical Author
 
 ---
 
-**Henry Uwaezuoke Cybersecurity Series**
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 
 ---
 
-**First Edition**
+### First Edition
 
 © 2026 Henry Uwaezuoke
 
-All Rights Reserved.
+All rights reserved.
