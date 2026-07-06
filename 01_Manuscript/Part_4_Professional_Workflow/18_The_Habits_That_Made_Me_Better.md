@@ -28,9 +28,9 @@ That's what I want to share with you in this chapter.
 
 Not shortcuts.
 
-Not secrets.
+Not secret techniques.
 
-Just the habits that genuinely helped me become a better learner.
+Just the habits that genuinely helped me become a better cybersecurity learner.
 
 ---
 
@@ -83,7 +83,7 @@ Your future self will thank you for doing the same.
 
 ![Figure 18.1 – Example Lab Notes](../images/129-example-lab-notes.png)
 
-*Figure 18.1: Keeping structured notes during a Burp Suite session helps document observations, testing steps, and important findings. Organized notes make it easier to reproduce results, write professional reports, and improve future security assessments.*
+*Figure 18.1: Keeping structured notes during a Burp Suite session helps document observations, testing steps, and important findings. Organised notes make it easier to review previous exercises and build practical cybersecurity knowledge over time.*
 
 ---
 
@@ -121,7 +121,7 @@ Later, I realised that half hour had taught me more than several rushed practice
 
 That experience reminded me that understanding always comes before speed.
 
-— Henry Uwaezuoke
+— **Henry Uwaezuoke**
 
 ---
 
@@ -143,7 +143,7 @@ Imagine practising for thirty minutes every day for the next six months.
 
 How much would you improve?
 
-Now imagine waiting for the "perfect time" to study.
+Now imagine waiting for the "perfect time" to start.
 
 Small, consistent effort almost always wins.
 
@@ -190,17 +190,15 @@ It's measured by how much you learn while you're there.
 
 ---
 
-Take a moment to appreciate how far you've come.
+## Looking Ahead
 
-Every chapter you've completed has added another layer to your understanding.
+The habits you've built so far will help you far beyond Burp Suite.
 
-Keep building those layers.
+In the next chapter, we'll learn one of the most valuable skills in web application security—how to read between the lines.
 
-One lesson.
+You'll discover that understanding an application's behaviour often depends not only on what you see, but also on what you don't see.
 
-One habit.
-
-One practice session at a time.
+Sometimes the smallest detail reveals the biggest lesson.
 
 I'll see you in the next chapter.
 
@@ -210,4 +208,4 @@ I'll see you in the next chapter.
 
 # Henry Uwaezuoke Cybersecurity Series
 
-## Learn. Practice. Secure.
+**Learn. Practice. Secure.**

@@ -40,7 +40,7 @@ That makes your job much easier.
 
 ![Figure 12.1 – Sending Items to Comparer](../images/120-comparer-items-loaded.png)
 
-*Figure 12.1: Burp Suite Comparer allows you to load two or more requests or responses for comparison. This is useful when identifying subtle differences in application behavior, authentication tokens, headers, or server responses.*
+*Figure 12.1: Burp Suite Comparer allows you to load two or more requests or responses for comparison. This is useful when identifying subtle differences in application behaviour that might otherwise be difficult to notice.*
 
 Choose two requests from HTTP History.
 

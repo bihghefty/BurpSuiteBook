@@ -68,7 +68,7 @@ Click several different pages.
 
 Log in if necessary.
 
-Open the Instructions page.
+Open the **Instructions** page.
 
 Return to Burp Suite.
 
@@ -82,11 +82,11 @@ You've just captured your first browsing session.
 
 ---
 
-## Figure 8.2 – Analyzing a GET Request in HTTP History
+## Figure 8.2 – Analysing a GET Request in HTTP History
 
-![Figure 8.2 – Analyzing a GET Request](../images/32-get-request-analysis.png)
+![Figure 8.2 – Analysing a GET Request](../images/32-get-request-analysis.png)
 
-*Figure 8.2: Selecting an entry from HTTP History allows you to inspect the complete HTTP request and response. This example shows a captured GET request, helping you understand how browsers communicate with web applications.*
+*Figure 8.2: Selecting an entry from HTTP History allows you to inspect the complete HTTP request and response. This example shows a captured GET request, helping you understand how the browser communicates with the web server.*
 
 Notice how every page you visited appears in the history.
 

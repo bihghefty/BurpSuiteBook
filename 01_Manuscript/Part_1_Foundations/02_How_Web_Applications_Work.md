@@ -45,7 +45,7 @@ Understanding this simple process is one of the most important lessons in web ap
 
 ![Figure 2.1 – How a Browser Communicates with a Web Server](../images/001-browser-server-communication.png)
 
-*Figure 2.1: A web browser sends an HTTP request to a web server. The server processes the request and returns an HTTP response containing the requested content, such as HTML, images, CSS, or JavaScript. This request–response cycle forms the foundation of all web communication.*
+*Figure 2.1: A web browser sends an HTTP request to a web server. The server processes the request and returns an HTTP response containing the requested content, such as a webpage, image, or other resource. Burp Suite allows you to observe this entire conversation.*
 
 As you study this diagram, notice the direction of the request and the response.
 
@@ -101,7 +101,7 @@ Don't worry about remembering every technical term in this chapter.
 
 Right now, I simply want you to remember one idea:
 
-Every action you perform on a website creates a request and a response.
+**Every action you perform on a website creates a request and a response.**
 
 Burp Suite helps you see that conversation.
 

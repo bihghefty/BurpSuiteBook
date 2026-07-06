@@ -14,7 +14,7 @@ Then repeat the same process again.
 
 After doing that several times, I found myself thinking:
 
-"There has to be a better way."
+*"There has to be a better way."*
 
 That's exactly why Burp Suite includes **Intruder**.
 
@@ -40,7 +40,7 @@ It simply gives you more time to focus on analysing the application's behaviour.
 
 ![Figure 10.1 – Sending a Request to Intruder](../images/112-intruder-positions.png)
 
-*Figure 10.1: After capturing a request, send it to Intruder to begin automated testing. Intruder allows you to identify which parts of the request will be modified during an attack.*
+*Figure 10.1: After capturing a request, send it to Intruder to begin automated testing. Intruder allows you to identify which parts of the request will be modified during an attack by defining attack positions.*
 
 Start by capturing a request.
 
@@ -60,7 +60,7 @@ These highlighted areas are called **positions**.
 
 A position tells Burp Suite:
 
-"This is the part of the request I want to change."
+*"This is the part of the request I want to change."*
 
 For example, you might choose to test different usernames, search terms, or other values in your own practice lab.
 
@@ -72,7 +72,7 @@ Learning how positions work is more important than memorising buttons.
 
 ![Figure 10.2 – Configuring Intruder Payloads](../images/113-intruder-payloads.png)
 
-*Figure 10.2: After defining the attack positions, configure the payloads that Intruder will use. Burp Suite substitutes each payload into the selected positions, making it possible to automate repetitive testing tasks efficiently.*
+*Figure 10.2: After defining the attack positions, configure the payloads that Intruder will use. Burp Suite substitutes each payload into the selected positions, making it possible to automate repetitive testing while observing the application's responses.*
 
 Take your time exploring the highlighted positions.
 
@@ -135,7 +135,7 @@ Capture a request.
 
 Send it to Intruder.
 
-Explore the Positions tab.
+Explore the **Positions** tab.
 
 Don't worry about running large automated tests yet.
 

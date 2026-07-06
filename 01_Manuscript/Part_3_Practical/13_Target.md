@@ -42,7 +42,7 @@ They simply answer different questions.
 
 ![Figure 13.1 – Target Site Map](../images/122-target-site-map.png)
 
-*Figure 13.1: The Target Site Map displays the application's discovered structure after browsing through DVWA. It helps testers understand the application's layout before beginning security testing.*
+*Figure 13.1: The Target Site Map displays the application's discovered structure after browsing through DVWA. It helps testers understand the application's layout by organising pages, directories, and resources into a clear hierarchical view.*
 
 Spend a few moments looking at the folders and pages.
 

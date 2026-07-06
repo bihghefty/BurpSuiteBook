@@ -2,7 +2,7 @@
 
 > **"A tool doesn't make someone an ethical hacker. Character does."**
 >
-> — Henry Uwaezuoke
+> — **Henry Uwaezuoke**
 
 # Where Burp Suite Fits into Ethical Hacking
 
@@ -16,25 +16,19 @@ Burp Suite is one of the most powerful tools used by penetration testers around 
 
 But over the years, I've learned something important.
 
-Tools don't create professionals.
-
-People do.
-
-Burp Suite is only one part of a much bigger picture.
+**Tools don't create professionals. People do.**
 
 Learning how to intercept requests is valuable.
 
 Understanding how web applications work is valuable.
 
-But what truly separates a good ethical hacker is the ability to think carefully, act responsibly and keep learning.
+But what truly separates a good ethical hacker is the ability to think carefully, act responsibly, and keep learning.
 
 Burp Suite is one of the tools you'll carry in your toolbox.
 
 It isn't the toolbox itself.
 
-As your cybersecurity journey continues, you'll learn networking, Linux, programming, operating systems, cloud security and many other skills.
-
-Each one will strengthen the others.
+As your cybersecurity journey continues, you'll learn networking, Linux, programming, operating systems, cloud security, and many other skills.
 
 That's why I always encourage beginners to see Burp Suite as a foundation rather than a destination.
 
@@ -61,7 +55,7 @@ Learning when and how to use it does.
 
 Burp Suite works the same way.
 
-It helps you inspect, analyse and test web applications.
+It helps you inspect, analyse, and test web applications.
 
 But successful ethical hacking also requires knowledge of:
 
@@ -82,7 +76,7 @@ The more these skills grow together, the more effective you become.
 
 ![Figure 22.1 – Burp Suite Within the Ethical Hacking Process](../images/134-burp-suite-ethical-hacking-process.png)
 
-*Figure 22.1: Burp Suite is one component of the ethical hacking workflow. It is primarily used during web application testing to intercept, inspect, and modify HTTP traffic before findings are validated and documented in a professional security report.*
+*Figure 22.1: Burp Suite is one component of the ethical hacking workflow. It is primarily used during web application testing to intercept, inspect, and modify HTTP requests and responses while working alongside other essential cybersecurity skills.*
 
 ---
 
@@ -90,7 +84,7 @@ The more these skills grow together, the more effective you become.
 
 One lesson I hope every reader remembers is this:
 
-Permission matters.
+**Permission matters.**
 
 No matter how skilled you become, testing systems without authorisation is wrong.
 
@@ -122,7 +116,7 @@ It reminded me that cybersecurity isn't about mastering one tool.
 
 It's about connecting many different skills together.
 
-— Henry Uwaezuoke
+— **Henry Uwaezuoke**
 
 ---
 
@@ -163,7 +157,7 @@ Some beginners believe:
 
 Avoid these misunderstandings.
 
-Great cybersecurity professionals never stop learning.
+The best cybersecurity professionals never stop learning.
 
 ---
 
@@ -201,7 +195,25 @@ Stay humble.
 
 Keep learning.
 
-Every new skill you develop will make the others even stronger.
+Every new skill you develop will strengthen the others and make you a more capable cybersecurity professional.
+
+---
+
+## A Final Thought
+
+As you close Burp Suite today, remember this:
+
+No tool will ever replace curiosity.
+
+No certification will ever replace integrity.
+
+And no shortcut will ever replace consistent practice.
+
+Keep building your skills one step at a time.
+
+The journey doesn't end here.
+
+In many ways, it's only just beginning.
 
 I'll see you in the next chapter.
 
@@ -211,4 +223,4 @@ I'll see you in the next chapter.
 
 # Henry Uwaezuoke Cybersecurity Series
 
-## Learn. Practice. Secure.
+## **Learn. Practice. Secure.**

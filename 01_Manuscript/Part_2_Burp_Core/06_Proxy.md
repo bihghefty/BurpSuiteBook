@@ -4,11 +4,11 @@
 
 This is the chapter where Burp Suite starts to come alive.
 
-Up to this point, we've prepared our lab, explored the interface, and learned how web applications communicate. Now it's time to use one of the most important features in Burp Suite—the Proxy tool.
+Up to this point, we've prepared our lab, explored the interface, and learned how web applications communicate. Now it's time to use one of the most important features in Burp Suite.
 
 The Proxy tool is the heart of Burp Suite.
 
-Every request your browser sends and every response the server returns can pass through it. Once you understand how the Proxy works, the rest of Burp Suite becomes much easier to learn.
+Every request your browser sends and every response the server returns can pass through it. Once you understand how the Proxy works, the rest of Burp Suite becomes much easier to understand.
 
 Let's take our first real look at it together.
 
@@ -36,7 +36,7 @@ For anyone learning web application security, this is one of the most valuable t
 
 ![Figure 6.1 – Burp Suite Proxy Tab](../images/13-burp-burp-intercept-on.png)
 
-*Figure 6.1: The Proxy tab is where Burp Suite captures and displays HTTP requests between your browser and the target web application. This is the starting point for intercepting, inspecting, and modifying traffic during a security assessment.*
+*Figure 6.1: The Proxy tab is where Burp Suite captures and displays HTTP requests between your browser and the target web application. This is the starting point for observing web traffic.*
 
 ---
 

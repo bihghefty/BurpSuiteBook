@@ -1,8 +1,8 @@
-# Chapter 19
-
 > **"The application is always communicating. The question is whether we're paying attention."**
 >
-> — Henry Uwaezuoke
+> — **Henry Uwaezuoke**
+
+# Chapter 19
 
 # Reading Between the Lines
 
@@ -128,7 +128,7 @@ These questions help you think like an analyst instead of simply reading text on
 
 ![Figure 19.2 – Identifying Important Sections](../images/131-http-request-sections.png)
 
-*Figure 19.2: A typical HTTP request consists of four key components: the request line, HTTP headers, cookies, and the request body. Learning to identify each section helps security testers understand how browsers communicate with web applications and where user-supplied data is transmitted.*
+*Figure 19.2: A typical HTTP request consists of four key components: the request line, HTTP headers, cookies, and the request body. Learning to identify each section makes analysing web traffic much easier.*
 
 Focus on understanding the purpose of each section.
 
@@ -160,7 +160,7 @@ Each time I looked at it, I understood a little more.
 
 That's when I realised observation is a skill that grows with practice.
 
-— Henry Uwaezuoke
+— **Henry Uwaezuoke**
 
 ---
 
@@ -240,17 +240,13 @@ That's how progress happens.
 
 ---
 
-Take a moment to appreciate how your perspective has changed.
+## Looking Ahead
 
-Earlier in your journey, HTTP requests probably looked confusing.
+In the next chapter, we'll shift our attention from reading requests to building the environment where real learning happens.
 
-Today, they're beginning to tell a story.
+A safe practice lab is one of the greatest investments you can make in your cybersecurity journey.
 
-Keep reading.
-
-Keep asking questions.
-
-Keep learning.
+When you have a place to experiment without fear of breaking anything important, you'll learn faster, practise more confidently, and develop skills that last.
 
 I'll see you in the next chapter.
 
@@ -260,4 +256,4 @@ I'll see you in the next chapter.
 
 # Henry Uwaezuoke Cybersecurity Series
 
-## Learn. Practice. Secure.
+**Learn. Practice. Secure.**

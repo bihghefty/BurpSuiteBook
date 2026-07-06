@@ -71,7 +71,7 @@ That simple habit has helped me countless times.
 
 ![Figure 16.1 – DVWA Login Page](../images/19-dvwa-login-page.png)
 
-*Figure 16.1: The DVWA login page before authentication. Burp Suite can capture the HTTP request generated when the login form is submitted, making it an excellent example for understanding how web applications process user credentials.*
+*Figure 16.1: The DVWA login page before authentication. When the login form is submitted, Burp Suite can capture the resulting HTTP request, making this page an excellent starting point for understanding how web application authentication works.*
 
 Before clicking **Login**, pause for a moment.
 
@@ -105,7 +105,7 @@ Every line has a purpose.
 
 ![Figure 16.2 – Login Request in Proxy](../images/18-dvwa-login-page.png)
 
-*Figure 16.2: The login request captured in Burp Suite's Proxy tool. The intercepted request contains the submitted credentials and other HTTP parameters, allowing security testers to inspect, modify, and forward the request for analysis.*
+*Figure 16.2: Burp Suite intercepts the login request before it reaches the web server. The request contains the submitted credentials, HTTP method, headers, cookies, and other parameters that help explain how the authentication process works.*
 
 This is one of the most valuable screenshots in the book.
 
@@ -131,7 +131,7 @@ I checked the cookies.
 
 I checked the headers.
 
-Eventually, I realised the only difference was that I had logged out and back in again.
+Eventually, I realised the only difference was that I had logged out and logged back in again.
 
 The application had issued a new session cookie.
 
@@ -139,7 +139,9 @@ That experience taught me something simple.
 
 Before looking for complicated explanations, always check the basics.
 
-— Henry Uwaezuoke
+Small details often explain big differences.
+
+— **Henry Uwaezuoke**
 
 ---
 
@@ -155,13 +157,15 @@ Ask:
 
 Curiosity will always take you further than impatience.
 
+The better you understand normal behaviour, the easier it becomes to recognise something unusual later.
+
 ---
 
 ## Stop and Think
 
 Close your eyes for a moment.
 
-Imagine your browser sending a letter to the server.
+Imagine your browser writing a letter to the server.
 
 What information would that letter contain?
 
@@ -169,7 +173,7 @@ Now open the intercepted request again.
 
 That's the letter.
 
-You're reading it for yourself.
+You're reading that conversation for yourself.
 
 ---
 
@@ -191,6 +195,10 @@ Little by little, everything started making sense.
 
 Learning cybersecurity is a marathon, not a sprint.
 
+Take your time.
+
+Progress comes from consistency, not speed.
+
 ---
 
 ## Lab Challenge
@@ -198,6 +206,14 @@ Learning cybersecurity is a marathon, not a sprint.
 Repeat this exercise three times.
 
 Each time, write down one thing you noticed that you didn't notice before.
+
+It could be a new header.
+
+A cookie.
+
+A parameter.
+
+Or even the order in which the information appears.
 
 You'll be surprised how much your observation skills improve after just a few practice sessions.
 
@@ -213,11 +229,15 @@ Don't modify it.
 
 Just read it.
 
-The more familiar HTTP becomes, the more confident you'll become as a cybersecurity professional.
+Become familiar with it.
+
+The more comfortable you become reading HTTP requests, the more confident you'll become as a cybersecurity professional.
+
+Every expert started exactly where you are today—by learning to understand one request at a time.
 
 I'll see you in the next chapter.
 
-— Henry Uwaezuoke
+— **Henry Uwaezuoke**
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **"Making mistakes isn't the problem. Refusing to learn from them is."**
 >
-> — Henry Uwaezuoke
+> — **Henry Uwaezuoke**
 
 # Common Beginner Mistakes (and How I Overcame Them)
 
@@ -55,7 +55,7 @@ I confused speed with progress.
 
 Eventually, I realised something important.
 
-Understanding one exercise completely is worth more than finishing ten exercises you barely remember.
+Understanding one exercise completely is worth far more than finishing ten exercises you barely remember.
 
 Slow down.
 
@@ -69,7 +69,7 @@ There were times when I copied commands without fully understanding what they di
 
 The command worked.
 
-But I hadn't learned anything.
+But I hadn't really learned anything.
 
 Now, whenever I use a command, I ask myself:
 
@@ -83,7 +83,7 @@ That simple question has helped me grow far more than copying ever did.
 
 ![Figure 21.1 – Taking Time to Understand](../images/133-taking-time-to-understand.png)
 
-*Figure 21.1: Effective security testing is more than clicking buttons. Keeping detailed notes while analyzing requests in Burp Suite encourages careful observation, helps track findings, and builds good habits for professional penetration testing.*
+*Figure 21.1: Effective security testing is more than clicking buttons. Keeping detailed notes while analysing requests in Burp Suite encourages careful observation, deeper understanding, and continuous improvement.*
 
 ---
 
@@ -96,6 +96,8 @@ I made that mistake too.
 Ironically, the more experience I gained, the more I appreciated the basics.
 
 Strong foundations make advanced topics much easier to understand.
+
+Never underestimate the value of mastering the fundamentals.
 
 ---
 
@@ -111,7 +113,7 @@ That experience reminded me that paying attention to the basics often solves pro
 
 It's a lesson I still carry into every lab.
 
-— Henry Uwaezuoke
+— **Henry Uwaezuoke**
 
 ---
 
@@ -121,7 +123,7 @@ Don't be embarrassed by beginner mistakes.
 
 Every experienced cybersecurity professional has made them.
 
-The difference is that they learned from them instead of giving up.
+The difference is that they learned from those mistakes instead of giving up.
 
 ---
 
@@ -134,6 +136,8 @@ Did it teach you something?
 If it did, then it wasn't wasted time.
 
 It was part of your growth.
+
+Every mistake contains a lesson if you're willing to look for it.
 
 ---
 
@@ -159,7 +163,9 @@ Repeat it slowly.
 
 As you work, write down three things you understand now that you didn't understand the first time.
 
-You'll be surprised by how much you've grown.
+You'll probably be surprised by how much you've grown.
+
+That's one of the best ways to measure real progress.
 
 ---
 
@@ -181,6 +187,28 @@ Keep learning.
 
 Keep moving forward.
 
+---
+
+## A Final Thought
+
+One of the biggest changes in my own journey wasn't becoming someone who never made mistakes.
+
+It was becoming someone who learned from them.
+
+That's a habit I hope you'll develop too.
+
+The goal isn't perfection.
+
+The goal is progress.
+
+Every request you analyse...
+
+Every lab you complete...
+
+Every mistake you correct...
+
+Brings you one step closer to becoming the cybersecurity professional you want to be.
+
 I'll see you in the next chapter.
 
 — **Henry Uwaezuoke**
@@ -189,4 +217,4 @@ I'll see you in the next chapter.
 
 # Henry Uwaezuoke Cybersecurity Series
 
-## Learn. Practice. Secure.
+**Learn. Practice. Secure.**
