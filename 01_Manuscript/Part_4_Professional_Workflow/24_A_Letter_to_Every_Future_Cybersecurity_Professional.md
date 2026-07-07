@@ -180,4 +180,5 @@ And keep building.
 
 # Henry Uwaezuoke Cybersecurity Series
 
-## **Learn. Practice. Secure.**
+**Learn. Practice. Secure.**
+

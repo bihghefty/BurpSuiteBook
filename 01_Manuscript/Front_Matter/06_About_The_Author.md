@@ -43,4 +43,5 @@ Henryeuwaezuoke@gmail.com
 
 # Henry Uwaezuoke Cybersecurity Series
 
-## Learn. Practice. Secure.
+**Learn. Practice. Secure.**
+

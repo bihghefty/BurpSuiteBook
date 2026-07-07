@@ -30,4 +30,5 @@ Now let's open Burp Suite and get to work.
 
 # Henry Uwaezuoke Cybersecurity Series
 
-## Learn. Practice. Secure.
+**Learn. Practice. Secure.**
+

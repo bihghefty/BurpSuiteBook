@@ -161,4 +161,5 @@ I'll meet you there.
 
 # Henry Uwaezuoke Cybersecurity Series
 
-## **Learn. Practice. Secure.**
+**Learn. Practice. Secure.**
+

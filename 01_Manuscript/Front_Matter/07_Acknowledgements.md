@@ -20,4 +20,5 @@ Thank you for allowing me to be part of your journey.
 
 # Henry Uwaezuoke Cybersecurity Series
 
-## Learn. Practice. Secure.
+**Learn. Practice. Secure.**
+

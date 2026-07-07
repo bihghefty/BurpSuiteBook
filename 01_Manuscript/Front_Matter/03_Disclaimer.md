@@ -28,4 +28,5 @@ Thank you for choosing to learn cybersecurity the right way.
 
 # Henry Uwaezuoke Cybersecurity Series
 
-## Learn. Practice. Secure.
+**Learn. Practice. Secure.**
+

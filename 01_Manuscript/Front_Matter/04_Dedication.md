@@ -20,4 +20,6 @@ May this book inspire you to learn, practise, and build a career founded on know
 
 # Henry Uwaezuoke Cybersecurity Series
 
-## Learn. Practice. Secure.
+**Learn. Practice. Secure.**
+
+
