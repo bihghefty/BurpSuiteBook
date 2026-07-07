@@ -44,7 +44,7 @@ Curiosity is one of the most valuable skills in cybersecurity.
 
 ## Figure 5.1 – Burp Suite Dashboard
 
-![Figure 5.1 – Burp Suite Dashboard](../images/10-burp-dashboard.png)
+![Figure 5.1 – Burp Suite Dashboard](../images/12-burp-burp-dashboard.png)
 
 *Figure 5.1: The Burp Suite Dashboard is the central workspace of the application. From here, you can monitor project activity, review issues, and access the various tools available within Burp Suite.*
 
