@@ -1,6 +1,6 @@
 # Chapter 8
 
-# Looking Back with HTTP History
+## Looking Back with HTTP History
 
 Have you ever visited a website, clicked several pages, and then wished you could go back and see exactly what happened?
 
@@ -50,7 +50,7 @@ Take a minute to look at the list of requests.
 
 Notice that each row represents one interaction between your browser and the server.
 
-At first it may look like a lot of information.
+At first, it may look like a lot of information.
 
 Don't worry.
 
@@ -86,7 +86,7 @@ You've just captured your first browsing session.
 
 ![Figure 8.2 – Analysing a GET Request](../images/32-get-request-analysis.png)
 
-*Figure 8.2: Selecting an entry from HTTP History allows you to inspect the complete HTTP request and response. This example shows a captured GET request, helping you understand how the browser communicates with the web server.*
+*Figure 8.2: Selecting an entry from HTTP History allows you to inspect the complete HTTP request and response. This example shows a captured GET request, helping you understand how a browser communicates with a web application.*
 
 Notice how every page you visited appears in the history.
 
@@ -122,7 +122,7 @@ Imagine you're testing a website with twenty different pages.
 
 Would it be easier to repeat every action...
 
-or simply open HTTP History and review what Burp Suite already recorded?
+or simply open HTTP History and review what Burp Suite has already recorded?
 
 That's why experienced testers rely on HTTP History so often.
 
@@ -178,7 +178,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

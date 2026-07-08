@@ -10,7 +10,7 @@ Instead, we'll learn together—one concept, one tool, and one practical exercis
 
 Everything in this book has been written with one goal in mind:
 
-**To help you build genuine confidence through practical learning.**
+**To help you build genuine confidence through practical, hands-on learning.**
 
 You'll find explanations before demonstrations.
 
@@ -44,7 +44,7 @@ Now, let's begin.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

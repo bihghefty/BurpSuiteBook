@@ -4,7 +4,7 @@
 >
 > — **Henry Uwaezuoke**
 
-# A Letter to Every Future Cybersecurity Professional
+## A Letter to Every Future Cybersecurity Professional
 
 Dear Reader,
 
@@ -168,17 +168,17 @@ I'll see you again in the next book.
 
 Until then...
 
-Stay curious.
+Stay focused.
 
 Stay ethical.
 
-And keep building.
+Keep building.
 
 — **Henry Uwaezuoke**
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

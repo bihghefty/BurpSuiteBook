@@ -1,12 +1,12 @@
 # Chapter 5
 
-# Exploring the Burp Suite Dashboard
+## Exploring the Burp Suite Dashboard
 
 Congratulations.
 
 You've installed Burp Suite, prepared your lab, and you're finally ready to explore the application itself.
 
-The first time I opened Burp Suite, I stared at the screen for a while without clicking anything.
+The first time I opened Burp Suite, I spent a few moments simply looking at the interface before clicking anything.
 
 There were tabs across the top, panels everywhere, and I honestly wasn't sure where to begin.
 
@@ -16,7 +16,7 @@ You don't have to understand every button today.
 
 By the end of this chapter, you'll know what each major section is for and, more importantly, you'll know where to go when you need it.
 
-Let's take a tour together.
+Let's take a tour of the interface together.
 
 ---
 
@@ -44,9 +44,9 @@ Curiosity is one of the most valuable skills in cybersecurity.
 
 ## Figure 5.1 – Burp Suite Dashboard
 
-![Figure 5.1 – Burp Suite Dashboard](../images/12-burp-burp-dashboard.png)
+![Figure 5.1 – Burp Suite Dashboard](../images/12-burp-dashboard.png)
 
-*Figure 5.1: The Burp Suite Dashboard is the central workspace of the application. From here, you can monitor project activity, review issues, and access the various tools available within Burp Suite.*
+*Figure 5.1: The Burp Suite Dashboard serves as the central workspace of the application. From here, you can monitor project activity, review issues, and access the various tools available throughout Burp Suite.*
 
 ---
 
@@ -112,7 +112,7 @@ Then Intruder started to make sense.
 
 Don't put pressure on yourself to learn everything today.
 
-Small, consistent progress always beats trying to learn everything at once.
+Small, consistent progress will always beat trying to learn everything at once.
 
 ---
 
@@ -158,7 +158,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

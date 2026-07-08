@@ -1,10 +1,10 @@
-> **"The application is always communicating. The question is whether we're paying attention."**
+# Chapter 19
+
+> **"The application is always communicating. The real question is whether we're paying attention."**
 >
 > — **Henry Uwaezuoke**
 
-# Chapter 19
-
-# Reading Between the Lines
+## Reading Between the Lines
 
 When I first started using Burp Suite, I believed that understanding an HTTP request meant memorising every header and every line.
 
@@ -128,7 +128,7 @@ These questions help you think like an analyst instead of simply reading text on
 
 ![Figure 19.2 – Identifying Important Sections](../images/131-http-request-sections.png)
 
-*Figure 19.2: A typical HTTP request consists of four key components: the request line, HTTP headers, cookies, and the request body. Learning to identify each section makes analysing web traffic much easier.*
+*Figure 19.2: A typical HTTP request consists of four key components: the request line, HTTP headers, cookies, and the request body. Learning to identify each section makes reading web traffic much easier.*
 
 Focus on understanding the purpose of each section.
 
@@ -254,7 +254,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

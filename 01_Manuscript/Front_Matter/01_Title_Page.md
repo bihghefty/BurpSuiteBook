@@ -1,22 +1,28 @@
 # Mastering Burp Suite
 
-## A Practical Beginner's Guide to Web Application Security Testing
+## A Beginner's Practical Guide to Web Application Security
 
 ### Learn to Intercept, Analyze, and Test Web Applications with Confidence
 
----
+
 
 ## Henry Uwaezuoke
 
-Cybersecurity Educator • SOC Analyst • Penetration Tester • Technical Author
+Cybersecurity Educator
 
----
+SOC Analyst
+
+Penetration Tester
+
+Technical Author
+
+
 
 ### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 
----
+
 
 ### First Edition
 

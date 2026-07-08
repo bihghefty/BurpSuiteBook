@@ -1,6 +1,6 @@
 # Chapter 12
 
-# Spotting Small Differences with Comparer
+## Spotting Small Differences with Comparer
 
 One lesson cybersecurity has taught me is that the smallest difference can sometimes explain the biggest problem.
 
@@ -40,7 +40,7 @@ That makes your job much easier.
 
 ![Figure 12.1 – Sending Items to Comparer](../images/120-comparer-items-loaded.png)
 
-*Figure 12.1: Burp Suite Comparer allows you to load two or more requests or responses for comparison. This is useful when identifying subtle differences in application behaviour that might otherwise be difficult to notice.*
+*Figure 12.1: Burp Suite Comparer allows you to load two or more requests or responses for comparison. This is useful when identifying subtle differences in application behaviour.*
 
 Choose two requests from HTTP History.
 
@@ -54,7 +54,7 @@ We'll compare them together.
 
 Once both items are loaded, Burp Suite displays them side by side.
 
-Immediately your eyes are drawn to the highlighted differences.
+Immediately, your eyes are drawn to the highlighted differences.
 
 Those highlights save time.
 
@@ -152,7 +152,7 @@ You've now explored many of Burp Suite's core tools.
 
 In the next chapter, we'll look at the **Target** tab and learn how Burp Suite organises the applications you're testing.
 
-By now you may have noticed something.
+By now, you may have noticed something.
 
 Every Burp Suite tool has a different purpose, but they all work together.
 
@@ -164,7 +164,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

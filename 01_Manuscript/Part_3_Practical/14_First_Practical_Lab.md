@@ -1,20 +1,24 @@
 # Chapter 14
 
-# Your First Complete Burp Suite Lab
+## Your First Complete Burp Suite Lab
 
 Congratulations.
 
-This is the chapter where everything you've learned finally comes together.
+This is the chapter where everything you've learned begins to come together.
 
 Up to this point, we've explored Burp Suite one tool at a time.
 
-Now we're going to use those tools together during a simple practice session in DVWA.
+You've learned how to capture requests, inspect them, replay them, automate repetitive tasks, decode data, compare responses, and explore an application's structure.
+
+Now it's time to put those skills together in one practical exercise.
 
 Don't think of this as an exam.
 
 Think of it as your first complete walkthrough.
 
 I'll guide you through each step.
+
+By the end of this chapter, you'll have completed a simple Burp Suite workflow that mirrors the way many security professionals begin analysing web applications.
 
 ---
 
@@ -23,17 +27,17 @@ I'll guide you through each step.
 During this exercise, you'll:
 
 - Browse DVWA.
-- Capture requests.
+- Capture HTTP requests.
 - Review HTTP History.
 - Send a request to Repeater.
-- Compare responses when necessary.
-- Observe how Burp Suite helps you understand what your browser is doing.
+- Make a small change.
+- Observe how the server responds.
 
 Notice something important.
 
 We're not attacking anything.
 
-We're learning.
+We're learning how applications communicate.
 
 Professional cybersecurity always begins with understanding.
 
@@ -45,11 +49,13 @@ Launch DVWA in Firefox.
 
 Log in using your lab credentials.
 
-Browse to a few different pages.
+Browse through a few different pages.
 
-Don't rush.
+Take your time.
 
-Simply explore.
+Don't worry about testing anything yet.
+
+Simply explore the application.
 
 ---
 
@@ -57,7 +63,7 @@ Simply explore.
 
 ![Figure 14.1 – DVWA Home Page](../images/20-dvwa-credentials.png)
 
-*Figure 14.1: DVWA ready for testing. Before beginning the practical lab, verify that the application is running and that you can successfully log in using the provided lab credentials.*
+*Figure 14.1: DVWA ready for testing. Before beginning the practical lab, verify that the application is running correctly and that you can successfully log in using your lab credentials.*
 
 ---
 
@@ -73,17 +79,19 @@ You'll immediately notice something.
 
 Every page you visited has been recorded.
 
-Without doing anything extra, Burp Suite has already documented your browsing session.
+Without doing anything extra, Burp Suite has quietly documented your browsing session.
 
-That's one of its greatest strengths.
+That's one of the reasons HTTP History is so valuable.
+
+Even if you forget where a request came from, Burp Suite remembers it for you.
 
 ---
 
 ## Figure 14.2 – HTTP History After Browsing
 
-![Figure 14.2 – HTTP History After Browsing](../images/23-send-to-repeater.png)
+![Figure 14.2 – HTTP History After Browsing](../images/29-http-history.png)
 
-*Figure 14.2: After browsing DVWA, Burp Suite captures the application's HTTP traffic. From HTTP History, individual requests can be reviewed and sent to other Burp Suite tools for further analysis.*
+*Figure 14.2: After browsing DVWA, Burp Suite records every request and response inside HTTP History, making it easy to review your activity later.*
 
 ---
 
@@ -97,9 +105,9 @@ Select:
 
 **Send to Repeater**
 
-Open the Repeater tab.
+Now open the Repeater tab.
 
-Read the request carefully.
+Spend a few moments reading the request.
 
 Don't edit anything yet.
 
@@ -111,13 +119,13 @@ Learning to observe is just as important as learning to modify.
 
 ![Figure 14.3 – Request in Repeater](../images/24-repeater-request.png)
 
-*Figure 14.3: The selected request has been sent to Repeater, where it can be modified and resent multiple times. This allows you to safely test how the application responds to small changes.*
+*Figure 14.3: The selected request has been copied into Repeater, where it can be edited and resent multiple times without returning to the browser.*
 
 ---
 
 ## Step 4 — Make One Small Change
 
-Now change only one value.
+Now edit a single value.
 
 Maybe a parameter.
 
@@ -127,7 +135,7 @@ Maybe part of the URL.
 
 Click **Send**.
 
-Now compare the response.
+Study the response carefully.
 
 Did anything change?
 
@@ -135,27 +143,31 @@ If it did...
 
 Ask yourself why.
 
-That's how security professionals think.
+That's exactly how security professionals think.
+
+Rather than looking for quick answers, they look for explanations.
 
 ---
 
 ## Lessons I Learned
 
-One mistake I made as a beginner was trying to do everything at once.
+One mistake I made as a beginner was trying to use every Burp Suite tool at the same time.
 
 I'd intercept requests...
 
-edit them...
+send them to Repeater...
 
-run Intruder...
+open Intruder...
 
 check Decoder...
 
-all within a few minutes.
+and compare responses within just a few minutes.
 
-I learned very little because I was moving too quickly.
+I thought I was making fast progress.
 
-Eventually I slowed down.
+In reality, I was learning very little because I was moving too quickly.
+
+Eventually I changed my approach.
 
 One request.
 
@@ -163,58 +175,58 @@ One observation.
 
 One lesson.
 
-Ironically, slowing down made me learn much faster.
+Ironically, slowing down helped me improve much faster.
+
+That lesson has stayed with me ever since.
 
 ---
 
 ## Stop and Think
 
-Close Burp Suite for a moment.
+Imagine trying to understand how a car engine works while driving at full speed.
 
-Now ask yourself:
+It would be difficult.
 
-**Without Burp Suite...**
+Now imagine stopping the car, opening the bonnet, and examining one component at a time.
 
-Would I have known exactly what my browser was sending?
+That's exactly what Burp Suite allows you to do.
 
-Probably not.
-
-That's why Burp Suite is such an important learning tool.
-
-It reveals conversations that normally stay hidden.
+Instead of watching requests disappear in an instant, you can slow everything down and understand what's happening.
 
 ---
 
 ## Common Beginner Mistakes
 
-During this lab, beginners often:
+During this exercise, beginners often:
 
-- Click too quickly.
-- Ignore the server response.
+- Click through pages too quickly.
+- Ignore the server's response.
 - Forget which request they're analysing.
-- Try multiple tools at the same time.
+- Try to use multiple Burp Suite tools at once.
 
-My advice?
+My advice is simple.
 
 Slow down.
 
-Understand one request completely before moving to the next.
+Understand one request completely before moving on to the next.
+
+Quality always beats speed.
 
 ---
 
 ## Lab Challenge
 
-Repeat this exercise again tomorrow.
+Repeat this exercise tomorrow.
 
-Then repeat it next week.
+Then repeat it again next week.
 
-Each time, you'll notice details you missed before.
+Each time, you'll notice details you didn't see before.
 
-That's how practical cybersecurity skills develop.
+That's how practical cybersecurity skills are built.
 
 Not through memorisation...
 
-Through repetition.
+But through consistent practice.
 
 ---
 
@@ -222,11 +234,13 @@ Through repetition.
 
 You've now completed your first complete Burp Suite workflow.
 
-From this point onward, every new feature you learn will build on this foundation.
+From this point forward, every new concept you learn will build on this foundation.
 
 Take a moment to appreciate how far you've come.
 
-The Burp Suite interface probably feels much less intimidating now than it did when you opened it for the first time.
+When you first opened Burp Suite, the interface probably looked overwhelming.
+
+Now you know what many of those tools do and, more importantly, why they exist.
 
 That's real progress.
 
@@ -234,7 +248,7 @@ Keep practising.
 
 Stay curious.
 
-Keep asking questions.
+Never stop asking why an application behaves the way it does.
 
 Every lab you complete brings you one step closer to thinking like a cybersecurity professional.
 
@@ -244,7 +258,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

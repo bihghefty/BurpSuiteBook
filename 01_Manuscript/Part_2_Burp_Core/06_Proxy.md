@@ -1,10 +1,10 @@
 # Chapter 6
 
-# Meeting the Proxy Tool
+## Meeting the Proxy Tool
 
-This is the chapter where Burp Suite starts to come alive.
+This is the chapter where Burp Suite truly starts to come alive.
 
-Up to this point, we've prepared our lab, explored the interface, and learned how web applications communicate. Now it's time to use one of the most important features in Burp Suite.
+Up to this point, we've prepared our lab, explored the interface, and learned how web applications communicate. Now it's time to begin using one of the most important features in Burp Suite.
 
 The Proxy tool is the heart of Burp Suite.
 
@@ -34,9 +34,9 @@ For anyone learning web application security, this is one of the most valuable t
 
 ## Figure 6.1 – Burp Suite Proxy Tab
 
-![Figure 6.1 – Burp Suite Proxy Tab](../images/13-burp-burp-intercept-on.png)
+![Figure 6.1 – Burp Suite Proxy Tab](../images/13-burp-intercept-on.png)
 
-*Figure 6.1: The Proxy tab is where Burp Suite captures and displays HTTP requests between your browser and the target web application. This is the starting point for observing web traffic.*
+*Figure 6.1: The Proxy tab captures and displays HTTP requests between your browser and the target web application. This is the starting point for observing and analysing web traffic.*
 
 ---
 
@@ -44,10 +44,10 @@ For anyone learning web application security, this is one of the most valuable t
 
 Every time you:
 
-- Open a webpage,
-- Submit a login form,
-- Search for information,
-- Upload a file,
+- Open a webpage
+- Submit a login form
+- Search for information
+- Upload a file
 
 your browser sends a request to the server.
 
@@ -71,7 +71,7 @@ That taught me an important lesson.
 
 Security tools don't create activity on their own—they help you observe activity that's already happening.
 
-Once I understood that, everything started making more sense.
+Once I understood that, everything started to make sense.
 
 ---
 
@@ -81,7 +81,7 @@ Before moving on, ask yourself this question:
 
 **If Burp Suite wasn't acting as a proxy, would it be able to see your browser's requests?**
 
-The answer is no.
+The answer is **no**.
 
 That's why configuring your browser to send traffic through Burp Suite is such an important step.
 
@@ -136,7 +136,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

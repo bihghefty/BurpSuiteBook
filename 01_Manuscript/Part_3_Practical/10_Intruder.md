@@ -1,6 +1,6 @@
 # Chapter 10
 
-# Let Burp Suite Do the Repetitive Work
+## Let Burp Suite Do the Repetitive Work
 
 When I first started testing web applications, I quickly realised that some tasks became repetitive.
 
@@ -12,7 +12,7 @@ Wait for the response.
 
 Then repeat the same process again.
 
-After doing that several times, I found myself thinking:
+After doing that several times, I found myself thinking,
 
 *"There has to be a better way."*
 
@@ -40,7 +40,7 @@ It simply gives you more time to focus on analysing the application's behaviour.
 
 ![Figure 10.1 – Sending a Request to Intruder](../images/112-intruder-positions.png)
 
-*Figure 10.1: After capturing a request, send it to Intruder to begin automated testing. Intruder allows you to identify which parts of the request will be modified during an attack by defining attack positions.*
+*Figure 10.1: After capturing a request, send it to Intruder to begin automated testing. Intruder allows you to identify which parts of the request will be modified during an attack.*
 
 Start by capturing a request.
 
@@ -58,7 +58,7 @@ One of the first things you'll notice is that Intruder highlights parts of the r
 
 These highlighted areas are called **positions**.
 
-A position tells Burp Suite:
+A position tells Burp Suite,
 
 *"This is the part of the request I want to change."*
 
@@ -72,7 +72,7 @@ Learning how positions work is more important than memorising buttons.
 
 ![Figure 10.2 – Configuring Intruder Payloads](../images/113-intruder-payloads.png)
 
-*Figure 10.2: After defining the attack positions, configure the payloads that Intruder will use. Burp Suite substitutes each payload into the selected positions, making it possible to automate repetitive testing while observing the application's responses.*
+*Figure 10.2: After defining the attack positions, configure the payloads that Intruder will use. Burp Suite substitutes each payload into the selected positions, making repetitive testing much faster.*
 
 Take your time exploring the highlighted positions.
 
@@ -88,7 +88,7 @@ When I first used Intruder, I selected far too many positions.
 
 The results were confusing because I had changed several things at once.
 
-Eventually I learned to keep my testing simple.
+Eventually, I learned to keep my testing simple.
 
 Choose one position.
 
@@ -159,7 +159,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

@@ -1,6 +1,6 @@
 # Chapter 18
 
-# The Habits That Made Me Better
+## The Habits That Made Me Better
 
 People sometimes ask me how I became comfortable using Burp Suite.
 
@@ -83,7 +83,7 @@ Your future self will thank you for doing the same.
 
 ![Figure 18.1 – Example Lab Notes](../images/129-example-lab-notes.png)
 
-*Figure 18.1: Keeping structured notes during a Burp Suite session helps document observations, testing steps, and important findings. Organised notes make it easier to review previous exercises and build practical cybersecurity knowledge over time.*
+*Figure 18.1: Keeping structured notes during a Burp Suite session helps document observations, testing steps, and important findings. Organised notes make it easier to review previous exercises and monitor your progress over time.*
 
 ---
 
@@ -102,6 +102,8 @@ Sometimes I'm wrong.
 That's okay.
 
 Trying to reason through the problem helps me grow.
+
+Over time, you'll discover that asking good questions is often more valuable than finding quick answers.
 
 ---
 
@@ -151,7 +153,7 @@ Small, consistent effort almost always wins.
 
 ## Common Beginner Mistakes
 
-Avoid these habits:
+As you continue learning, try to avoid these habits:
 
 - Practising only when you feel motivated.
 - Skipping the basics because they seem too simple.
@@ -180,7 +182,7 @@ Repeat this exercise until careful observation becomes a habit.
 
 Before ending today's session, ask yourself one simple question:
 
-*"What did I understand today that I didn't understand yesterday?"*
+**"What did I understand today that I didn't understand yesterday?"**
 
 If you can answer that question, you've made progress.
 
@@ -206,7 +208,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

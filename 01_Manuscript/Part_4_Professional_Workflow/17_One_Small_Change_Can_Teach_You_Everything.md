@@ -1,18 +1,18 @@
 # Chapter 17
 
-# One Small Change Can Teach You Everything
+## One Small Change Can Teach You Everything
 
 When I first started practising with Burp Suite, I made a mistake that many beginners make.
 
 I was so eager to see results that I changed everything at once.
 
-If a request had five parameters, I edited all five.
+If a request contained five different parameters, I edited all five.
 
-If the server responded differently, I had no idea which change had made the difference.
+If the server responded differently, I had no idea which change had caused it.
 
 Instead of learning, I was creating confusion for myself.
 
-One afternoon, while practising in DVWA, I decided to try a different approach.
+One afternoon, while practising in DVWA, I decided to slow down.
 
 I changed just one value.
 
@@ -57,7 +57,7 @@ Web application testing works exactly the same way.
 
 When you change only one value, the server's response becomes much easier to understand.
 
-That simple habit will save you time, reduce confusion, and make you a better tester.
+That simple habit saves time, reduces confusion, and helps you build a much stronger understanding of how applications behave.
 
 ---
 
@@ -65,13 +65,15 @@ That simple habit will save you time, reduce confusion, and make you a better te
 
 ![Figure 17.1 – Editing a Single Parameter](../images/127-editing-a-single-parameter.png)
 
-*Figure 17.1: A single parameter in the login request is modified before the request is sent. In this example, only the password value is changed, demonstrating how changing one parameter at a time makes it easier to understand the application's behaviour.*
+*Figure 17.1: A single parameter in the HTTP request is modified before the request is sent. Changing one value at a time makes it much easier to understand how the application responds.*
 
 Notice that only one value has changed.
 
 Everything else remains exactly the same.
 
 That's intentional.
+
+By limiting your changes, you also limit the number of possible explanations for the server's response.
 
 ---
 
@@ -105,7 +107,7 @@ That's the foundation of professional web application testing.
 
 ![Figure 17.2 – Comparing the Responses](../images/128-comparing-responses.png)
 
-*Figure 17.2: After sending the modified request, Burp Suite displays the server's response. Comparing the original and modified responses helps you understand how a single change can affect an application's behaviour.*
+*Figure 17.2: After sending the modified request, Burp Suite displays the updated server response. Comparing the original and modified responses helps you understand how a single change affects application behaviour.*
 
 Take your time.
 
@@ -115,17 +117,17 @@ Sometimes the smallest difference teaches the biggest lesson.
 
 ---
 
-## From My Lab
+## Lessons I Learned
 
 One evening, I spent almost twenty minutes trying to understand why an application behaved differently after I modified a request.
 
-Eventually, I realised I had changed two parameters instead of one.
+Eventually, I realised I had accidentally changed two parameters instead of one.
 
 I repeated the exercise, changing only a single value each time.
 
 Everything suddenly became much clearer.
 
-That experience changed the way I practise.
+That experience completely changed the way I practise.
 
 Even today, I still remind myself:
 
@@ -136,8 +138,6 @@ Even today, I still remind myself:
 **One lesson.**
 
 That simple habit has taught me far more than rushing through dozens of requests.
-
-— **Henry Uwaezuoke**
 
 ---
 
@@ -150,6 +150,8 @@ Measure it by how much you understand from each request.
 Good cybersecurity isn't about moving quickly.
 
 It's about learning deeply.
+
+The strongest testers are usually the most patient ones.
 
 ---
 
@@ -174,7 +176,7 @@ When practising with Repeater, beginners often:
 - Change multiple parameters at once.
 - Ignore the original response.
 - Rush to the next request without understanding the previous one.
-- Assume every different response means they've found a vulnerability.
+- Assume every different response means they've discovered a vulnerability.
 
 Avoid these habits.
 
@@ -219,7 +221,7 @@ They're the ones who observe the most carefully.
 
 You've now seen how a single change can reveal valuable information about an application's behaviour.
 
-In the next chapter, I'll share some of the habits that helped me become a better security tester—habits that had nothing to do with memorising tools and everything to do with developing the right mindset.
+In the next chapter, I'll share some of the habits that helped me become a better security tester—habits that had very little to do with memorising tools and everything to do with developing the right mindset.
 
 Sometimes the biggest improvements don't come from learning a new feature.
 
@@ -231,7 +233,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

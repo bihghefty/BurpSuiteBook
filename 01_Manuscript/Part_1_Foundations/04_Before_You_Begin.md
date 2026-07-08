@@ -1,14 +1,16 @@
 # Chapter 4
 
-# Before You Begin
+## Before You Begin
 
 Before we start working with Burp Suite, I'd like us to spend a few minutes preparing our lab.
 
 I know this isn't the most exciting part of the book, but it's one of the most important.
 
-A well-prepared lab allows you to practise with confidence, make mistakes safely, and repeat exercises whenever you need to. That's exactly how real skills are built.
+A well-prepared lab allows you to practise with confidence, make mistakes safely, and repeat exercises whenever you need to.
 
-Think of this chapter as setting the foundation for everything that follows.
+That's exactly how real skills are built.
+
+Think of this chapter as laying the foundation for everything that follows.
 
 ---
 
@@ -16,11 +18,13 @@ Think of this chapter as setting the foundation for everything that follows.
 
 Throughout this book, we'll use **Damn Vulnerable Web Application (DVWA)** as our practice target.
 
-DVWA was created specifically for learning web application security. It contains intentional vulnerabilities that allow you to practise safely without attacking real systems.
+DVWA was created specifically for learning web application security.
+
+It contains intentionally vulnerable features that allow you to practise safely without attacking real systems.
 
 That's an important distinction.
 
-Everything you do in this book should be performed only in environments that you own or have permission to test.
+Everything you do in this book should be performed only in environments that you own or have explicit permission to test.
 
 Ethical hacking begins with permission.
 
@@ -32,7 +36,7 @@ Professional cybersecurity is built on responsibility.
 
 ![Figure 4.1 – DVWA Login Page](../images/20-dvwa-credentials.png)
 
-*Figure 4.1: The DVWA login page confirms that your practice environment is running correctly. Throughout this book, we'll use DVWA as our primary target application to demonstrate Burp Suite's features safely and legally.*
+*Figure 4.1: The DVWA login page confirms that your practice environment is running correctly. Throughout this book, we'll use DVWA as our primary target application for hands-on exercises.*
 
 ---
 
@@ -47,7 +51,7 @@ Before opening Burp Suite, make sure you have:
 
 You'll be surprised how often a small observation during a lab becomes useful later.
 
-I still keep notes from my own practice sessions because every experiment teaches something new.
+I still keep notes from my own practice sessions because every experiment teaches me something new.
 
 ---
 
@@ -107,7 +111,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

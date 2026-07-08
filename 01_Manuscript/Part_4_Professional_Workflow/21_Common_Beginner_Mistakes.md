@@ -4,7 +4,7 @@
 >
 > — **Henry Uwaezuoke**
 
-# Common Beginner Mistakes (and How I Overcame Them)
+## Common Beginner Mistakes (and How I Overcame Them)
 
 When I look back at the beginning of my cybersecurity journey, I smile.
 
@@ -83,7 +83,7 @@ That simple question has helped me grow far more than copying ever did.
 
 ![Figure 21.1 – Taking Time to Understand](../images/133-taking-time-to-understand.png)
 
-*Figure 21.1: Effective security testing is more than clicking buttons. Keeping detailed notes while analysing requests in Burp Suite encourages careful observation, deeper understanding, and continuous improvement.*
+*Figure 21.1: Effective security testing is more than clicking buttons. Keeping detailed notes while analysing requests in Burp Suite encourages careful observation, helping you understand each step instead of simply following instructions.*
 
 ---
 
@@ -215,7 +215,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

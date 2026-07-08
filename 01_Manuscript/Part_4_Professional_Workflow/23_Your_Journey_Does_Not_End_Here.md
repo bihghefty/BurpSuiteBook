@@ -4,7 +4,7 @@
 >
 > — **Henry Uwaezuoke**
 
-# Your Journey Doesn't End Here
+## Your Journey Doesn't End Here
 
 If you've made it this far, take a moment to appreciate how much you've learned.
 
@@ -17,6 +17,8 @@ You've learned how browsers communicate with servers.
 You've learned how HTTP requests and responses work.
 
 You've intercepted traffic, modified requests, analysed responses, and built practical experience that many beginners never take the time to develop.
+
+More importantly, you've begun developing the mindset of a cybersecurity professional.
 
 That's something to be proud of.
 
@@ -64,7 +66,7 @@ It's a lifelong journey of learning.
 
 ![Figure 23.1 – Planning Your Next Learning Steps](../images/135-learning-roadmap.png)
 
-*Figure 23.1: Burp Suite is an excellent starting point, but it is only one step in a broader cybersecurity journey. Expanding your knowledge of Linux, networking, Python, and web application security will help you grow into a well-rounded cybersecurity professional.*
+*Figure 23.1: Burp Suite is an excellent starting point, but it is only one step in a broader cybersecurity journey. Expanding your knowledge of Linux, networking, Python, and web security will help you grow into a well-rounded cybersecurity professional.*
 
 ---
 
@@ -143,8 +145,6 @@ You've completed the technical journey this book was designed to take you throug
 
 You've built a solid foundation in Burp Suite.
 
-More importantly, you've begun developing the mindset of a cybersecurity professional.
-
 But before we close this book together, I'd like to share one final message with you.
 
 It's not about Burp Suite.
@@ -159,7 +159,7 @@ I'll meet you there.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

@@ -1,6 +1,6 @@
 # Chapter 3
 
-# Installing Burp Suite
+## Installing Burp Suite
 
 Before we can explore Burp Suite, we need to get it running on our computer.
 
@@ -62,7 +62,7 @@ That's perfectly normal.
 
 ## Figure 3.2 – Burp Suite Installer
 
-![Figure 3.2 – Burp Suite Installer](../images/08-installer-wizard.png)
+![Figure 3.2 – Burp Suite Installer](../images/08-installation-wizard.png)
 
 *Figure 3.2: Launch the installer and follow the setup wizard.*
 
@@ -114,7 +114,7 @@ See you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

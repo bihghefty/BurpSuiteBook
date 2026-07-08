@@ -1,6 +1,6 @@
 # Chapter 16
 
-# Every Login Tells a Story
+## Every Login Tells a Story
 
 There was a time when a login page looked ordinary to me.
 
@@ -69,9 +69,9 @@ That simple habit has helped me countless times.
 
 ## Figure 16.1 – DVWA Login Page
 
-![Figure 16.1 – DVWA Login Page](../images/19-dvwa-login-page.png)
+![Figure 16.1 – DVWA Login Page](../images/20-dvwa-credentials.png)
 
-*Figure 16.1: The DVWA login page before authentication. When the login form is submitted, Burp Suite can capture the resulting HTTP request, making this page an excellent starting point for understanding how web application authentication works.*
+*Figure 16.1: The DVWA login page before authentication. When the login form is submitted, Burp Suite can capture the resulting HTTP request, making this page an excellent starting point for understanding how login requests work.*
 
 Before clicking **Login**, pause for a moment.
 
@@ -103,11 +103,11 @@ Every line has a purpose.
 
 ## Figure 16.2 – Login Request in Proxy
 
-![Figure 16.2 – Login Request in Proxy](../images/18-dvwa-login-page.png)
+![Figure 16.2 – Login Request in Proxy](../images/21-login-post-request.png)
 
-*Figure 16.2: Burp Suite intercepts the login request before it reaches the web server. The request contains the submitted credentials, HTTP method, headers, cookies, and other parameters that help explain how the authentication process works.*
+*Figure 16.2: Burp Suite intercepts the login request before it reaches the web server. The request contains the submitted credentials, HTTP method, headers, cookies, and other information your browser sends during authentication.*
 
-This is one of the most valuable screenshots in the book.
+This is one of the most important screenshots you've seen so far.
 
 Spend a few minutes studying it.
 
@@ -117,7 +117,7 @@ Focus on the bigger picture.
 
 Your browser is having a conversation with the server.
 
-Burp Suite simply lets you listen.
+Burp Suite simply allows you to watch that conversation.
 
 ---
 
@@ -140,8 +140,6 @@ That experience taught me something simple.
 Before looking for complicated explanations, always check the basics.
 
 Small details often explain big differences.
-
-— **Henry Uwaezuoke**
 
 ---
 
@@ -207,13 +205,12 @@ Repeat this exercise three times.
 
 Each time, write down one thing you noticed that you didn't notice before.
 
-It could be a new header.
+It could be:
 
-A cookie.
-
-A parameter.
-
-Or even the order in which the information appears.
+- A new header.
+- A cookie.
+- A parameter.
+- Or even the order in which the information appears.
 
 You'll be surprised how much your observation skills improve after just a few practice sessions.
 
@@ -241,7 +238,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
-**Learn. Practice. Secure.**
+**Learn. Practice.Secure.**
 

@@ -1,6 +1,6 @@
 # Chapter 11
 
-# Making Sense of Encoded Data with Decoder
+## Making Sense of Encoded Data with Decoder
 
 As I spent more time analysing HTTP requests, I began noticing something interesting.
 
@@ -40,7 +40,7 @@ Understanding what's happening is far more important than memorising the differe
 
 ![Figure 11.1 – Decoder Tool](../images/115-decoder-input.png)
 
-*Figure 11.1: The Decoder tool allows you to paste encoded or decoded data for analysis. It supports multiple encoding formats, making it useful when examining web requests, cookies, parameters, and other application data.*
+*Figure 11.1: The Decoder tool allows you to paste encoded or decoded data for analysis. It supports multiple encoding formats, making it useful when examining web requests and responses.*
 
 Spend a minute looking around the Decoder interface.
 
@@ -84,7 +84,7 @@ That's exactly what Decoder is designed to do.
 
 When I first started learning web application security, I spent far too much time trying to understand encoded values by looking at them.
 
-Eventually I realised I didn't have to guess.
+Eventually, I realised I didn't have to guess.
 
 Good security professionals use the right tools.
 
@@ -144,7 +144,7 @@ The goal is simply to become comfortable using the tool.
 
 ## Looking Ahead
 
-So far you've learned how to capture requests, replay them, automate repetitive tasks, and decode data.
+So far, you've learned how to capture requests, replay them, automate repetitive tasks, and decode data.
 
 Next, we'll explore another useful Burp Suite tool called **Comparer**, which helps you identify differences between requests and responses.
 
@@ -158,7 +158,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

@@ -1,6 +1,6 @@
 # Chapter 13
 
-# Seeing the Bigger Picture with the Target Tab
+## Seeing the Bigger Picture with the Target Tab
 
 As I became more comfortable using Burp Suite, I noticed something.
 
@@ -42,7 +42,7 @@ They simply answer different questions.
 
 ![Figure 13.1 – Target Site Map](../images/122-target-site-map.png)
 
-*Figure 13.1: The Target Site Map displays the application's discovered structure after browsing through DVWA. It helps testers understand the application's layout by organising pages, directories, and resources into a clear hierarchical view.*
+*Figure 13.1: The Target Site Map displays the application's discovered structure after browsing through DVWA. It helps testers understand the application's layout by organising pages, directories, and resources into a clear hierarchy.*
 
 Spend a few moments looking at the folders and pages.
 
@@ -68,7 +68,7 @@ Good organisation saves time.
 
 ![Figure 13.2 – Expanded Target Site Map](../images/123-target-site-map-expanded.png)
 
-*Figure 13.2: Expanding the Site Map reveals additional directories, pages, and endpoints, making it easier to identify areas that require further testing.*
+*Figure 13.2: Expanding the Site Map reveals additional directories, pages, and endpoints, making it easier to understand the application's structure and identify areas for further testing.*
 
 Notice how expanding the folders reveals more pages and resources.
 
@@ -156,7 +156,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
-**Learn. Practice. Secure.**
+**Learn. Practice.Secure.**
 

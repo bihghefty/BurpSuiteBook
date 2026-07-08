@@ -4,7 +4,7 @@
 >
 > — **Henry Uwaezuoke**
 
-# Where Burp Suite Fits into Ethical Hacking
+## Where Burp Suite Fits into Ethical Hacking
 
 One of the biggest misconceptions I hear from beginners is this:
 
@@ -221,7 +221,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 

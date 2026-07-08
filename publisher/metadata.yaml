@@ -1,0 +1,31 @@
+---
+title: "Mastering Burp Suite: A Beginner's Practical Guide to Web Application Security"
+author: "Henry Uwaezuoke"
+
+date: "2026"
+
+rights: "Copyright © 2026 Henry Uwaezuoke. All rights reserved."
+
+lang: en-US
+
+toc: true
+
+toc-depth: 2
+
+numbersections: false
+
+fontsize: 11pt
+
+geometry:
+- margin=1in
+
+documentclass: book
+
+colorlinks: true
+
+linkcolor: blue
+
+urlcolor: blue
+
+papersize: letter
+...

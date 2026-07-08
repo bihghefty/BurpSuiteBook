@@ -4,7 +4,7 @@
 >
 > — **Henry Uwaezuoke**
 
-# Building a Safe Practice Lab
+## Building a Safe Practice Lab
 
 One of the questions I receive most often from beginners is:
 
@@ -69,7 +69,7 @@ That's where real learning begins.
 
 ![Figure 20.1 – Example Practice Lab](../images/132-safe-practice-lab.png)
 
-*Figure 20.1: A safe practice environment consisting of Kali Linux, Burp Suite, and DVWA running locally. Using an isolated lab allows you to practise web application security without affecting real-world systems.*
+*Figure 20.1: A safe practice environment consisting of Kali Linux, Burp Suite, and DVWA running locally. Using an isolated lab allows you to practise web application security techniques responsibly without affecting real systems.*
 
 Don't worry if your setup doesn't look exactly like this.
 
@@ -221,7 +221,7 @@ I'll see you in the next chapter.
 
 ---
 
-# Henry Uwaezuoke Cybersecurity Series
+### Henry Uwaezuoke Cybersecurity Series
 
 **Learn. Practice. Secure.**
 
