@@ -40,7 +40,7 @@ This makes HTTP History incredibly useful when you're trying to understand how a
 
 ---
 
-![Figure 8.1 – HTTP History](../images/29-http-history.png)
+![Figure 8.1 – HTTP History](01_Manuscript/images/29-http-history.png)
 
 *The HTTP History tab records every HTTP request and response that passes through Burp Suite. Each entry represents a single interaction between your browser and the target application, making it easy to review your browsing activity and understand how the application communicates.*
 
@@ -82,7 +82,7 @@ You've just captured your first browsing session.
 
 ---
 
-![Figure 8.2 – Analysing a GET Request](../images/32-get-request-analysis.png)
+![Figure 8.2 – Analysing a GET Request](01_Manuscript/images/32-get-request-analysis.png)
 
 *Selecting an entry from HTTP History displays the complete HTTP request and response. This captured GET request shows how Burp Suite allows you to inspect the communication between your browser and the web server after the request has already been processed.*
 

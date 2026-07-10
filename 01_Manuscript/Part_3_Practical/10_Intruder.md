@@ -36,7 +36,7 @@ It simply gives you more time to focus on analysing the application's behaviour.
 
 ---
 
-![Figure 10.1 – Burp Suite Intruder Positions](../images/112-intruder-positions.png)
+![Figure 10.1 – Burp Suite Intruder Positions](01_Manuscript/images/112-intruder-positions.png)
 
 *The Burp Suite **Intruder** *interface after a captured request has been sent from Proxy. The request is loaded into the **Positions** *tab and is ready for you to choose which parts of the request will be tested during an Intruder attack.*
 
@@ -68,7 +68,7 @@ Learning how positions work is more important than memorising buttons.
 
 ---
 
-![Figure 10.2 – Burp Suite Intruder Payloads](../images/113-intruder-payloads.png)
+![Figure 10.2 – Burp Suite Intruder Payloads](01_Manuscript/images/113-intruder-payloads.png)
 
 *The **Payloads** *section of Burp Suite Intruder before any payloads have been added. After selecting attack positions, this is where you configure the values that Burp Suite will use during automated testing.*
 

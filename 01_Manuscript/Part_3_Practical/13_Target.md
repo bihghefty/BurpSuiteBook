@@ -38,7 +38,7 @@ They simply answer different questions.
 
 ---
 
-![Figure 13.1 – Burp Suite Target Site Map](../images/122-target-site-map.png)
+![Figure 13.1 – Burp Suite Target Site Map](01_Manuscript/images/122-target-site-map.png)
 
 *Burp Suite's Target → Site map showing the discovered hosts after browsing the application. At this stage, Burp Suite has identified multiple hosts, allowing you to organise and navigate the application's structure from a central location.*
 
@@ -64,7 +64,7 @@ Good organisation saves time.
 
 ---
 
-![Figure 13.2 – Expanded Target Site Map](../images/123-target-site-map-expanded.png)
+![Figure 13.2 – Expanded Target Site Map](01_Manuscript/images/123-target-site-map-expanded.png)
 
 *An expanded view of the Target → Site map displaying the pages and resources discovered under the selected host. Expanding the Site Map helps you understand how the application is organised and makes it easier to locate specific pages during testing.*
 

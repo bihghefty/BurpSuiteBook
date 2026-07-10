@@ -38,7 +38,7 @@ For anyone learning web application security, this is one of the most powerful f
 
 ---
 
-![Figure 6.1 – Burp Suite Proxy Tool](../images/34-intercept-off.png)
+![Figure 6.1 – Burp Suite Proxy Tool](01_Manuscript/images/34-intercept-off.png)
 
 *Figure 6.1: The Burp Suite Proxy tool with Intercept turned off. In this state, requests pass normally through Burp Suite while allowing you to observe browser traffic before learning how to pause and inspect individual requests.*
 

@@ -44,7 +44,7 @@ The more you observe, the more you'll understand.
 
 ---
 
-![Figure 5.1 – Burp Suite Dashboard](../images/12-burp-burp-dashboard.png)
+![Figure 5.1 – Burp Suite Dashboard](01_Manuscript/images/12-burp-burp-dashboard.png)
 
 *Figure 5.1: The Burp Suite Dashboard serves as the central workspace of the application. From here, you can monitor project activity, review issues, and access the various tools you'll use throughout this book.*
 

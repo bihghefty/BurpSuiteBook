@@ -32,7 +32,7 @@ Professional cybersecurity is built on responsibility.
 
 ---
 
-![Figure 4.1 – DVWA Login Page](../images/20-dvwa-credentials.png)
+![Figure 4.1 – DVWA Login Page](01_Manuscript/images/20-dvwa-credentials.png)
 
 *The DVWA login page confirms that your practice environment is running correctly. Before continuing, verify that DVWA is accessible in your browser and that you can sign in using the default credentials. Throughout this book, DVWA will serve as the safe practice environment for all hands-on exercises.*
 

@@ -79,7 +79,7 @@ That simple question has helped me grow far more than copying ever did.
 
 ---
 
-![Figure 21.1 – Taking Time to Understand](../images/133-taking-time-to-understand.png)
+![Figure 21.1 – Taking Time to Understand](01_Manuscript/images/133-taking-time-to-understand.png)
 
 *Careful observation and note-taking during Burp Suite practice sessions help build a deeper understanding of HTTP requests, responses, and application behaviour. Learning happens through thoughtful analysis, not speed.*
 

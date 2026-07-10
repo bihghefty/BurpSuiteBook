@@ -36,7 +36,7 @@ That makes your job much easier.
 
 ---
 
-![Figure 12.1 – Sending Items to Comparer](../images/120-comparer-items-loaded.png)
+![Figure 12.1 – Sending Items to Comparer](01_Manuscript/images/120-comparer-items-loaded.png)
 
 *Two HTTP requests have been loaded into Burp Suite's Comparer tool. By selecting similar requests or responses, you can quickly identify subtle differences that may affect how a web application behaves.*
 
@@ -70,7 +70,7 @@ That's the question that helps you understand how an application works.
 
 ---
 
-![Figure 12.2 – Comparer Results](../images/121-comparer-results.png)
+![Figure 12.2 – Comparer Results](01_Manuscript/images/121-comparer-results.png)
 
 *The Burp Suite Comparer results window after comparing two identical items. Because both requests are the same, Comparer reports **0 Differences**. This confirms that the tool has successfully compared the selected items and found no changes between them.*
 

@@ -72,7 +72,7 @@ The more these skills grow together, the more effective you become.
 
 ---
 
-![Figure 22.1 – Burp Suite Within the Ethical Hacking Process](../images/134-burp-suite-ethical-hacking-process.png)
+![Figure 22.1 – Burp Suite Within the Ethical Hacking Process](01_Manuscript/images/134-burp-suite-ethical-hacking-process.png)
 
 *Burp Suite is one component of the ethical hacking workflow. It is primarily used during web application testing to intercept, inspect, modify, and analyse HTTP requests and responses while working alongside other essential cybersecurity skills.*
 

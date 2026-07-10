@@ -108,7 +108,7 @@ Once that idea clicks, the Intercept feature starts to make much more sense.
 
 ---
 
-![Figure 7.1 – Burp Suite Intercept in Action](../images/17-first-request-intercepted.png)
+![Figure 7.1 – Burp Suite Intercept in Action](01_Manuscript/images/17-first-request-intercepted.png)
 
 *Figure 7.1: Burp Suite has intercepted an HTTP request before it reaches the target web application. The request is paused until you decide whether to forward it to the server, modify it, or drop it entirely.*
 

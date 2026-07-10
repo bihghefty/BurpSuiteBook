@@ -46,7 +46,7 @@ Instead of guessing how a web application behaves, you can see it for yourself.
 
 ---
 
-![Figure 9.1 – Sending a Request to Repeater](../images/23-send-to-repeater.png)
+![Figure 9.1 – Sending a Request to Repeater](01_Manuscript/images/23-send-to-repeater.png)
 
 *A captured HTTP request being sent from **Proxy** to **Repeater**. Repeater creates a separate working copy of the request, allowing you to modify and resend it without capturing the same request again from the browser.*
 
@@ -90,7 +90,7 @@ As you continue working through this book, these requests will gradually become 
 
 ---
 
-![Figure 9.2 – The Repeater Interface](../images/24-repeater-tab.png)
+![Figure 9.2 – The Repeater Interface](01_Manuscript/images/24-repeater-tab.png)
 
 *The **Repeater** *interface displaying the HTTP request on the left and the server's response on the right. This workspace allows you to edit a request, resend it, and immediately analyse how the application responds to each change.*
 
