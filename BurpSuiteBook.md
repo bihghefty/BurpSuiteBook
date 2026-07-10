@@ -359,7 +359,7 @@ Understanding this simple process is one of the most important lessons in web ap
 
 ---
 
-![Figure 2.1 – Browser and Web Server Communication](01_Manuscript/images/001-browser-server-communication.png)
+![Browser and Web Server Communication](01_Manuscript/images/001-browser-server-communication.png)
 
 *A simple illustration of how a web browser communicates with a web server. Every action you perform on a website begins with an HTTP request from the browser. The server processes that request and returns an HTTP response containing the requested page, data, or resource. This request-and-response cycle forms the foundation of everything you'll do with Burp Suite.*
 
@@ -487,7 +487,7 @@ Doing so helps ensure you're using authentic software, receiving the latest upda
 
 ---
 
-![Figure 3.1 – Downloading Burp Suite Community Edition](01_Manuscript/images/04-burp-download-page.png)
+![Downloading Burp Suite Community Edition](01_Manuscript/images/04-burp-download-page.png)
 
 *The official PortSwigger download page for Burp Suite Community Edition. Always download Burp Suite directly from the official website to ensure you're using a genuine, up-to-date, and trusted version of the software.*
 
@@ -507,7 +507,7 @@ That's perfectly normal.
 
 ---
 
-![Figure 3.2 – Burp Suite Installation Wizard](01_Manuscript/images/08-installation-wizard.png)
+![Burp Suite Installation Wizard](01_Manuscript/images/08-installation-wizard.png)
 
 *The Burp Suite installation wizard guides you through the setup process. For most users, the default installation options are recommended and require no additional configuration.*
 
@@ -593,7 +593,7 @@ Professional cybersecurity is built on responsibility.
 
 ---
 
-![Figure 4.1 – DVWA Login Page](01_Manuscript/images/20-dvwa-credentials.png)
+![DVWA Login Page](01_Manuscript/images/20-dvwa-credentials.png)
 
 *The DVWA login page confirms that your practice environment is running correctly. Before continuing, verify that DVWA is accessible in your browser and that you can sign in using the default credentials. Throughout this book, DVWA will serve as the safe practice environment for all hands-on exercises.*
 
@@ -718,7 +718,7 @@ The more you observe, the more you'll understand.
 
 ---
 
-![Figure 5.1 – Burp Suite Dashboard](01_Manuscript/images/12-burp-burp-dashboard.png)
+![Burp Suite Dashboard](01_Manuscript/images/12-burp-burp-dashboard.png)
 
 *Figure 5.1: The Burp Suite Dashboard serves as the central workspace of the application. From here, you can monitor project activity, review issues, and access the various tools you'll use throughout this book.*
 
@@ -872,7 +872,7 @@ For anyone learning web application security, this is one of the most powerful f
 
 ---
 
-![Figure 6.1 – Burp Suite Proxy Tool](01_Manuscript/images/34-intercept-off.png)
+![Burp Suite Proxy Tool](01_Manuscript/images/34-intercept-off.png)
 
 *Figure 6.1: The Burp Suite Proxy tool with Intercept turned off. In this state, requests pass normally through Burp Suite while allowing you to observe browser traffic before learning how to pause and inspect individual requests.*
 
@@ -1092,7 +1092,7 @@ Once that idea clicks, the Intercept feature starts to make much more sense.
 
 ---
 
-![Figure 7.1 – Burp Suite Intercept in Action](01_Manuscript/images/17-first-request-intercepted.png)
+![Burp Suite Intercept in Action](01_Manuscript/images/17-first-request-intercepted.png)
 
 *Figure 7.1: Burp Suite has intercepted an HTTP request before it reaches the target web application. The request is paused until you decide whether to forward it to the server, modify it, or drop it entirely.*
 
@@ -1315,7 +1315,7 @@ This makes HTTP History incredibly useful when you're trying to understand how a
 
 ---
 
-![Figure 8.1 – HTTP History](01_Manuscript/images/29-http-history.png)
+![HTTP History](01_Manuscript/images/29-http-history.png)
 
 *The HTTP History tab records every HTTP request and response that passes through Burp Suite. Each entry represents a single interaction between your browser and the target application, making it easy to review your browsing activity and understand how the application communicates.*
 
@@ -1357,7 +1357,7 @@ You've just captured your first browsing session.
 
 ---
 
-![Figure 8.2 – Analysing a GET Request](01_Manuscript/images/32-get-request-analysis.png)
+![Analysing a GET Request](01_Manuscript/images/32-get-request-analysis.png)
 
 *Selecting an entry from HTTP History displays the complete HTTP request and response. This captured GET request shows how Burp Suite allows you to inspect the communication between your browser and the web server after the request has already been processed.*
 
@@ -1501,7 +1501,7 @@ Instead of guessing how a web application behaves, you can see it for yourself.
 
 ---
 
-![Figure 9.1 – Sending a Request to Repeater](01_Manuscript/images/23-send-to-repeater.png)
+![Sending a Request to Repeater](01_Manuscript/images/23-send-to-repeater.png)
 
 *A captured HTTP request being sent from **Proxy** to **Repeater**. Repeater creates a separate working copy of the request, allowing you to modify and resend it without capturing the same request again from the browser.*
 
@@ -1545,7 +1545,7 @@ As you continue working through this book, these requests will gradually become 
 
 ---
 
-![Figure 9.2 – The Repeater Interface](01_Manuscript/images/24-repeater-tab.png)
+![The Repeater Interface](01_Manuscript/images/24-repeater-tab.png)
 
 *The **Repeater** *interface displaying the HTTP request on the left and the server's response on the right. This workspace allows you to edit a request, resend it, and immediately analyse how the application responds to each change.*
 
@@ -1716,7 +1716,7 @@ It simply gives you more time to focus on analysing the application's behaviour.
 
 ---
 
-![Figure 10.1 – Burp Suite Intruder Positions](01_Manuscript/images/112-intruder-positions.png)
+![Burp Suite Intruder Positions](01_Manuscript/images/112-intruder-positions.png)
 
 *The Burp Suite **Intruder** *interface after a captured request has been sent from Proxy. The request is loaded into the **Positions** *tab and is ready for you to choose which parts of the request will be tested during an Intruder attack.*
 
@@ -1748,7 +1748,7 @@ Learning how positions work is more important than memorising buttons.
 
 ---
 
-![Figure 10.2 – Burp Suite Intruder Payloads](01_Manuscript/images/113-intruder-payloads.png)
+![Burp Suite Intruder Payloads](01_Manuscript/images/113-intruder-payloads.png)
 
 *The **Payloads** *section of Burp Suite Intruder before any payloads have been added. After selecting attack positions, this is where you configure the values that Burp Suite will use during automated testing.*
 
@@ -1879,7 +1879,7 @@ The goal is to understand what the application is sending and receiving.
 
 ---
 
-![Figure 11.1 – Burp Suite Decoder Input](01_Manuscript/images/115-decoder-input.png)
+![Burp Suite Decoder Input](01_Manuscript/images/115-decoder-input.png)
 
 *The Burp Suite **Decoder** *tool with text entered into the input panel. Decoder allows you to paste encoded or plain text and apply different encoding or decoding operations to better understand how web applications process data.*
 
@@ -1911,7 +1911,7 @@ It takes information that looks confusing and turns it into something you can un
 
 ---
 
-![Figure 11.2 – Burp Suite Decoder Output](01_Manuscript/images/116-decoder-encoded.png)
+![Burp Suite Decoder Output](01_Manuscript/images/116-decoder-encoded.png)
 
 *Burp Suite Decoder displaying the result after applying a decoding operation. The output panel shows the converted value, making it easier to analyse information that would otherwise be difficult to interpret.*
 
@@ -2037,7 +2037,7 @@ That makes your job much easier.
 
 ---
 
-![Figure 12.1 – Sending Items to Comparer](01_Manuscript/images/120-comparer-items-loaded.png)
+![Sending Items to Comparer](01_Manuscript/images/120-comparer-items-loaded.png)
 
 *Two HTTP requests have been loaded into Burp Suite's Comparer tool. By selecting similar requests or responses, you can quickly identify subtle differences that may affect how a web application behaves.*
 
@@ -2071,7 +2071,7 @@ That's the question that helps you understand how an application works.
 
 ---
 
-![Figure 12.2 – Comparer Results](01_Manuscript/images/121-comparer-results.png)
+![Comparer Results](01_Manuscript/images/121-comparer-results.png)
 
 *The Burp Suite Comparer results window after comparing two identical items. Because both requests are the same, Comparer reports **0 Differences**. This confirms that the tool has successfully compared the selected items and found no changes between them.*
 
@@ -2201,7 +2201,7 @@ They simply answer different questions.
 
 ---
 
-![Figure 13.1 – Burp Suite Target Site Map](01_Manuscript/images/122-target-site-map.png)
+![Burp Suite Target Site Map](01_Manuscript/images/122-target-site-map.png)
 
 *Burp Suite's Target → Site map showing the discovered hosts after browsing the application. At this stage, Burp Suite has identified multiple hosts, allowing you to organise and navigate the application's structure from a central location.*
 
@@ -2227,7 +2227,7 @@ Good organisation saves time.
 
 ---
 
-![Figure 13.2 – Expanded Target Site Map](01_Manuscript/images/123-target-site-map-expanded.png)
+![Expanded Target Site Map](01_Manuscript/images/123-target-site-map-expanded.png)
 
 *An expanded view of the Target → Site map displaying the pages and resources discovered under the selected host. Expanding the Site Map helps you understand how the application is organised and makes it easier to locate specific pages during testing.*
 
@@ -2379,7 +2379,7 @@ Simply explore the application.
 
 ---
 
-![Figure 14.1 – DVWA Home Page](01_Manuscript/images/36-dvwa-home.png)
+![DVWA Home Page](01_Manuscript/images/36-dvwa-home.png)
 
 *DVWA is running and ready for testing. Before beginning the practical lab, verify that you can successfully access the application and log in using your practice credentials.*
 
@@ -2405,7 +2405,7 @@ Even if you forget where a request came from, Burp Suite remembers it for you.
 
 ---
 
-![Figure 14.2 – HTTP History After Browsing](01_Manuscript/images/45-http-history-sqli.png)
+![HTTP History After Browsing](01_Manuscript/images/45-http-history-sqli.png)
 
 *Burp Suite automatically records every request and response that passes through the proxy. HTTP History provides a complete record of your browsing activity, making it easy to review requests later.*
 
@@ -2429,7 +2429,7 @@ Learning to observe is just as important as learning to modify.
 
 ---
 
-![Figure 14.3 – Request in Repeater](01_Manuscript/images/128-comparing-responses.png)
+![Request in Repeater](01_Manuscript/images/128-comparing-responses.png)
 
 *The selected request has been copied into the Repeater tool, where it can be edited, resent, and analysed repeatedly without returning to the browser.*
 
@@ -2889,7 +2889,7 @@ That simple habit has helped me countless times.
 
 ---
 
-![Figure 16.1 – DVWA Login Page](01_Manuscript/images/21-login-post-request.png)
+![DVWA Login Page](01_Manuscript/images/21-login-post-request.png)
 
 *The DVWA login page before authentication. This is where users enter their credentials before Burp Suite captures the HTTP POST request sent to the server.*
 
@@ -2923,7 +2923,7 @@ Every line has a purpose.
 
 ---
 
-![Figure 16.2 – Login Request in Proxy](01_Manuscript/images/22-analyzing-request.png)
+![Login Request in Proxy](01_Manuscript/images/22-analyzing-request.png)
 
 *Burp Suite intercepts the HTTP POST login request before it reaches the server. The request includes the submitted form data, HTTP headers, cookies, and other information exchanged during authentication.*
 
@@ -3119,7 +3119,7 @@ That simple habit saves time, reduces confusion, and helps you build a much stro
 
 ---
 
-![Figure 17.1 – Editing a Single Parameter](01_Manuscript/images/127-editing-a-single-parameter.png)
+![Editing a Single Parameter](01_Manuscript/images/127-editing-a-single-parameter.png)
 
 *A single parameter in the HTTP request is modified inside Burp Suite Repeater before the request is sent. By changing only one value at a time, you can clearly observe how the application responds without introducing unnecessary variables.*
 
@@ -3161,7 +3161,7 @@ That's the foundation of professional web application testing.
 
 ---
 
-![Figure 17.2 – Comparing the Responses](01_Manuscript/images/128-comparing-responses.png)
+![Comparing the Responses](01_Manuscript/images/128-comparing-responses.png)
 
 *After sending the modified request, Burp Suite displays the updated server response. Comparing the original and modified responses helps you understand exactly how a single change affects the application's behaviour.*
 
@@ -3368,7 +3368,7 @@ Your future self will thank you for doing the same.
 
 ---
 
-![Figure 18.1 – Example Lab Notes](01_Manuscript/images/129-example-lab-notes.png)
+![Example Lab Notes](01_Manuscript/images/129-example-lab-notes.png)
 
 *Keeping organised notes during your Burp Suite practice sessions helps you record observations, testing steps, and important findings. Good documentation makes it easier to review your progress, repeat successful techniques, and continue improving over time.*
 
@@ -3570,7 +3570,7 @@ Before long, those confusing requests started making sense.
 
 ---
 
-![Figure 19.1 – Complete HTTP Request](01_Manuscript/images/130-complete-http-request.png)
+![Complete HTTP Request](01_Manuscript/images/130-complete-http-request.png)
 
 *Burp Suite intercepting a complete HTTP login request. The lower panel displays the full request sent by the browser, allowing you to examine the request line, headers, cookies, and submitted form data before it reaches the web server.*
 
@@ -3615,7 +3615,7 @@ These questions help you think like an analyst instead of simply reading text on
 
 ---
 
-![Figure 19.2 – Identifying Important Sections](01_Manuscript/images/131-http-request-sections.png)
+![Identifying Important Sections](01_Manuscript/images/131-http-request-sections.png)
 
 *Reading the intercepted request inside Burp Suite. By examining the request line, headers, cookies, and request body, you can understand exactly what information the browser is sending to the application.*
 
@@ -3808,7 +3808,7 @@ That's where real learning begins.
 
 ---
 
-![Figure 20.1 – Example Practice Lab](01_Manuscript/images/132-safe-practice-lab.png)
+![Example Practice Lab](01_Manuscript/images/132-safe-practice-lab.png)
 
 *A safe practice environment consisting of Kali Linux, Burp Suite, and DVWA running locally. Using an isolated lab allows you to practise web application security safely without affecting production systems.*
 
@@ -4041,7 +4041,7 @@ That simple question has helped me grow far more than copying ever did.
 
 ---
 
-![Figure 21.1 – Taking Time to Understand](01_Manuscript/images/133-taking-time-to-understand.png)
+![Taking Time to Understand](01_Manuscript/images/133-taking-time-to-understand.png)
 
 *Careful observation and note-taking during Burp Suite practice sessions help build a deeper understanding of HTTP requests, responses, and application behaviour. Learning happens through thoughtful analysis, not speed.*
 
@@ -4243,7 +4243,7 @@ The more these skills grow together, the more effective you become.
 
 ---
 
-![Figure 22.1 – Burp Suite Within the Ethical Hacking Process](01_Manuscript/images/134-burp-suite-ethical-hacking-process.png)
+![Burp Suite Within the Ethical Hacking Process](01_Manuscript/images/134-burp-suite-ethical-hacking-process.png)
 
 *Burp Suite is one component of the ethical hacking workflow. It is primarily used during web application testing to intercept, inspect, modify, and analyse HTTP requests and responses while working alongside other essential cybersecurity skills.*
 
@@ -4456,7 +4456,7 @@ It's a lifelong journey of learning.
 
 ---
 
-![Figure 23.1 – Planning Your Next Learning Steps](01_Manuscript/images/135-learning-roadmap.png)
+![Planning Your Next Learning Steps](01_Manuscript/images/135-learning-roadmap.png)
 
 *Burp Suite is an excellent starting point, but it is only one step in your cybersecurity journey. Continue building your skills in Linux, networking, Python, web security, and practical lab work to become a well-rounded cybersecurity professional.*
 
