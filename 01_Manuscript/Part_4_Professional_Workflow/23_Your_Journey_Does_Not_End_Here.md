@@ -64,7 +64,7 @@ It's a lifelong journey of learning.
 
 ![Figure 23.1 – Planning Your Next Learning Steps](../images/135-learning-roadmap.png)
 
-*Figure 23.1: Burp Suite is an excellent starting point, but it is only one step in your cybersecurity journey. Continue building your skills in Linux, networking, Python, web security, and practical lab work to become a well-rounded cybersecurity professional.*
+*Burp Suite is an excellent starting point, but it is only one step in your cybersecurity journey. Continue building your skills in Linux, networking, Python, web security, and practical lab work to become a well-rounded cybersecurity professional.*
 
 ---
 

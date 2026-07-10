@@ -81,7 +81,7 @@ Before long, those confusing requests started making sense.
 
 ![Figure 19.1 – Complete HTTP Request](../images/130-complete-http-request.png)
 
-*Figure 19.1: Burp Suite intercepting a complete HTTP login request. The lower panel displays the full request sent by the browser, allowing you to examine the request line, headers, cookies, and submitted form data before it reaches the web server.*
+*Burp Suite intercepting a complete HTTP login request. The lower panel displays the full request sent by the browser, allowing you to examine the request line, headers, cookies, and submitted form data before it reaches the web server.*
 
 ---
 
@@ -126,7 +126,7 @@ These questions help you think like an analyst instead of simply reading text on
 
 ![Figure 19.2 – Identifying Important Sections](../images/131-http-request-sections.png)
 
-*Figure 19.2: Reading the intercepted request inside Burp Suite. By examining the request line, headers, cookies, and request body, you can understand exactly what information the browser is sending to the application.*
+*Reading the intercepted request inside Burp Suite. By examining the request line, headers, cookies, and request body, you can understand exactly what information the browser is sending to the application.*
 
 ---
 

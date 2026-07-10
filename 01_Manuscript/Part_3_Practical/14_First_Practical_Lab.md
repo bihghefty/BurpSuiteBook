@@ -61,7 +61,7 @@ Simply explore the application.
 
 ![Figure 14.1 – DVWA Home Page](../images/20-dvwa-credentials.png)
 
-*Figure 14.1: DVWA is running and ready for testing. Before beginning the practical lab, verify that you can successfully access the application and log in using your practice credentials.*
+*DVWA is running and ready for testing. Before beginning the practical lab, verify that you can successfully access the application and log in using your practice credentials.*
 
 ---
 
@@ -87,7 +87,7 @@ Even if you forget where a request came from, Burp Suite remembers it for you.
 
 ![Figure 14.2 – HTTP History After Browsing](../images/29-http-history.png)
 
-*Figure 14.2: Burp Suite automatically records every request and response that passes through the proxy. HTTP History provides a complete record of your browsing activity, making it easy to review requests later.*
+*Burp Suite automatically records every request and response that passes through the proxy. HTTP History provides a complete record of your browsing activity, making it easy to review requests later.*
 
 ---
 
@@ -111,7 +111,7 @@ Learning to observe is just as important as learning to modify.
 
 ![Figure 14.3 – Request in Repeater](../images/24-repeater-tab.png)
 
-*Figure 14.3: The selected request has been copied into the Repeater tool, where it can be edited, resent, and analysed repeatedly without returning to the browser.*
+*The selected request has been copied into the Repeater tool, where it can be edited, resent, and analysed repeatedly without returning to the browser.*
 
 ---
 

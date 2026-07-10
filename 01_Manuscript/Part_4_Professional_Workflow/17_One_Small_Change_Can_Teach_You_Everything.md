@@ -63,7 +63,7 @@ That simple habit saves time, reduces confusion, and helps you build a much stro
 
 ![Figure 17.1 – Editing a Single Parameter](../images/127-editing-a-single-parameter.png)
 
-*Figure 17.1: A single parameter in the HTTP request is modified inside Burp Suite Repeater before the request is sent. By changing only one value at a time, you can clearly observe how the application responds without introducing unnecessary variables.*
+*A single parameter in the HTTP request is modified inside Burp Suite Repeater before the request is sent. By changing only one value at a time, you can clearly observe how the application responds without introducing unnecessary variables.*
 
 ---
 
@@ -105,7 +105,7 @@ That's the foundation of professional web application testing.
 
 ![Figure 17.2 – Comparing the Responses](../images/128-comparing-responses.png)
 
-*Figure 17.2: After sending the modified request, Burp Suite displays the updated server response. Comparing the original and modified responses helps you understand exactly how a single change affects the application's behaviour.*
+*After sending the modified request, Burp Suite displays the updated server response. Comparing the original and modified responses helps you understand exactly how a single change affects the application's behaviour.*
 
 ---
 

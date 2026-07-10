@@ -67,7 +67,7 @@ That's where real learning begins.
 
 ![Figure 20.1 – Example Practice Lab](../images/132-safe-practice-lab.png)
 
-*Figure 20.1: A safe practice environment consisting of Kali Linux, Burp Suite, and DVWA running locally. Using an isolated lab allows you to practise web application security safely without affecting production systems.*
+*A safe practice environment consisting of Kali Linux, Burp Suite, and DVWA running locally. Using an isolated lab allows you to practise web application security safely without affecting production systems.*
 
 ---
 

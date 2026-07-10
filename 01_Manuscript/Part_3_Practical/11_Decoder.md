@@ -40,7 +40,7 @@ The goal is to understand what the application is sending and receiving.
 
 ![Figure 11.1 – Burp Suite Decoder Input](../images/115-decoder-input.png)
 
-*Figure 11.1: The Burp Suite **Decoder** tool with text entered into the input panel. Decoder allows you to paste encoded or plain text and apply different encoding or decoding operations to better understand how web applications process data.*
+*The Burp Suite **Decoder** *tool with text entered into the input panel. Decoder allows you to paste encoded or plain text and apply different encoding or decoding operations to better understand how web applications process data.*
 
 Spend a minute looking around the Decoder interface.
 
@@ -72,7 +72,7 @@ It takes information that looks confusing and turns it into something you can un
 
 ![Figure 11.2 – Burp Suite Decoder Output](../images/116-decoder-encoded.png)
 
-*Figure 11.2: Burp Suite Decoder displaying the result after applying a decoding operation. The output panel shows the converted value, making it easier to analyse information that would otherwise be difficult to interpret.*
+*Burp Suite Decoder displaying the result after applying a decoding operation. The output panel shows the converted value, making it easier to analyse information that would otherwise be difficult to interpret.*
 
 Notice how quickly the output becomes easier to understand.
 

@@ -69,7 +69,7 @@ That simple habit has helped me countless times.
 
 ![Figure 16.1 – DVWA Login Page](../images/20-dvwa-credentials.png)
 
-*Figure 16.1: The DVWA login page before authentication. This is where users enter their credentials before Burp Suite captures the HTTP POST request sent to the server.*
+*The DVWA login page before authentication. This is where users enter their credentials before Burp Suite captures the HTTP POST request sent to the server.*
 
 ---
 
@@ -103,7 +103,7 @@ Every line has a purpose.
 
 ![Figure 16.2 – Login Request in Proxy](../images/21-login-post-request.png)
 
-*Figure 16.2: Burp Suite intercepts the HTTP POST login request before it reaches the server. The request includes the submitted form data, HTTP headers, cookies, and other information exchanged during authentication.*
+*Burp Suite intercepts the HTTP POST login request before it reaches the server. The request includes the submitted form data, HTTP headers, cookies, and other information exchanged during authentication.*
 
 ---
 

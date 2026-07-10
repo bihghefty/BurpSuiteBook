@@ -40,7 +40,7 @@ Doing so helps ensure you're using authentic software, receiving the latest upda
 
 ![Figure 3.1 – Downloading Burp Suite Community Edition](../images/04-burp-download-page.png)
 
-*Figure 3.1: The official PortSwigger download page for Burp Suite Community Edition. Always download Burp Suite directly from the official website to ensure you're using a genuine, up-to-date, and trusted version of the software.*
+*The official PortSwigger download page for Burp Suite Community Edition. Always download Burp Suite directly from the official website to ensure you're using a genuine, up-to-date, and trusted version of the software.*
 
 ---
 
@@ -60,7 +60,7 @@ That's perfectly normal.
 
 ![Figure 3.2 – Burp Suite Installation Wizard](../images/08-installation-wizard.png)
 
-*Figure 3.2: The Burp Suite installation wizard guides you through the setup process. For most users, the default installation options are recommended and require no additional configuration.*
+*The Burp Suite installation wizard guides you through the setup process. For most users, the default installation options are recommended and require no additional configuration.*
 
 ---
 

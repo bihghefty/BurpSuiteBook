@@ -81,7 +81,7 @@ Your future self will thank you for doing the same.
 
 ![Figure 18.1 – Example Lab Notes](../images/129-example-lab-notes.png)
 
-*Figure 18.1: Keeping organised notes during your Burp Suite practice sessions helps you record observations, testing steps, and important findings. Good documentation makes it easier to review your progress, repeat successful techniques, and continue improving over time.*
+*Keeping organised notes during your Burp Suite practice sessions helps you record observations, testing steps, and important findings. Good documentation makes it easier to review your progress, repeat successful techniques, and continue improving over time.*
 
 ---
 

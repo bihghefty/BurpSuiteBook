@@ -43,7 +43,7 @@ Understanding this simple process is one of the most important lessons in web ap
 
 ![Figure 2.1 – Browser and Web Server Communication](../images/001-browser-server-communication.png)
 
-*Figure 2.1: A simple illustration of how a web browser communicates with a web server. Every action you perform on a website begins with an HTTP request from the browser. The server processes that request and returns an HTTP response containing the requested page, data, or resource. This request-and-response cycle forms the foundation of everything you'll do with Burp Suite.*
+*A simple illustration of how a web browser communicates with a web server. Every action you perform on a website begins with an HTTP request from the browser. The server processes that request and returns an HTTP response containing the requested page, data, or resource. This request-and-response cycle forms the foundation of everything you'll do with Burp Suite.*
 
 ---
 
