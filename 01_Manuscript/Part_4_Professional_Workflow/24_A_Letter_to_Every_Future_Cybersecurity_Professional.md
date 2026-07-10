@@ -4,7 +4,7 @@
 >
 > — **Henry Uwaezuoke**
 
-## A Letter to Every Future Cybersecurity Professional
+**A Letter to Every Future Cybersecurity Professional**
 
 Dear Reader,
 
@@ -60,7 +60,7 @@ And that's something to be proud of.
 
 ---
 
-## Cybersecurity Needs People Like You
+**Cybersecurity Needs People Like You**
 
 The world doesn't just need skilled cybersecurity professionals.
 
@@ -86,7 +86,7 @@ It's one of the greatest strengths you'll ever have.
 
 ---
 
-## From My Heart
+**From My Heart**
 
 Writing this book has reminded me why I love teaching.
 
@@ -106,11 +106,9 @@ Thank you for allowing me to be part of your journey.
 
 It's an honour I don't take lightly.
 
-— **Henry Uwaezuoke**
-
 ---
 
-## Henry's Final Advice
+**Henry's Final Advice**
 
 Never stop building.
 
@@ -136,7 +134,7 @@ That's how we build a stronger cybersecurity community together.
 
 ---
 
-## Before We Say Goodbye
+**Before We Say Goodbye**
 
 This may be the final page of this book.
 
@@ -176,9 +174,38 @@ Keep building.
 
 — **Henry Uwaezuoke**
 
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
 **Learn. Practice. Secure.**
 
+────────────────────────────────
+
+# Thank You
+
+Thank you for taking the time to read this book.
+
+I truly hope it has helped you understand Burp Suite, build confidence in web application security, and take another step toward your cybersecurity goals.
+
+If you found this guide helpful, I'd really appreciate it if you could leave an honest review on Amazon.
+
+Your feedback not only helps me improve future books, but it also helps other aspiring cybersecurity professionals discover this guide.
+
+Every review, no matter how short, makes a difference.
+
+If you'd like to continue learning with me, keep an eye out for my upcoming cybersecurity books covering Linux, Nmap, web application security, SOC analysis, penetration testing, and many more practical topics.
+
+You can also connect with me here:
+
+GitHub:
+https://github.com/bihghefty
+
+LinkedIn:
+https://www.linkedin.com/in/henry-uwaezuoke-34681b411
+
+Thank you once again for allowing me to be part of your cybersecurity journey.
+
+I wish you success in your studies, your labs, and your future career.
+
+I'll see you in the next book.
+
+— **Henry Uwaezuoke**
+
+**Learn. Practice. Secure.**

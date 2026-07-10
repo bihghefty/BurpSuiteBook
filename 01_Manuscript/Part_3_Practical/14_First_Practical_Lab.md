@@ -1,6 +1,6 @@
 # Chapter 14
 
-## Your First Complete Burp Suite Lab
+**Your First Complete Burp Suite Lab**
 
 Congratulations.
 
@@ -22,7 +22,7 @@ By the end of this chapter, you'll have completed a simple Burp Suite workflow t
 
 ---
 
-## Our Goal
+**Our Goal**
 
 During this exercise, you'll:
 
@@ -43,7 +43,7 @@ Professional cybersecurity always begins with understanding.
 
 ---
 
-## Step 1 — Open DVWA
+**Step 1 — Open DVWA**
 
 Launch DVWA in Firefox.
 
@@ -59,15 +59,13 @@ Simply explore the application.
 
 ---
 
-## Figure 14.1 – DVWA Home Page
-
 ![Figure 14.1 – DVWA Home Page](../images/20-dvwa-credentials.png)
 
-*Figure 14.1: DVWA ready for testing. Before beginning the practical lab, verify that the application is running correctly and that you can successfully log in using your lab credentials.*
+*Figure 14.1: DVWA is running and ready for testing. Before beginning the practical lab, verify that you can successfully access the application and log in using your practice credentials.*
 
 ---
 
-## Step 2 — Watch HTTP History Grow
+**Step 2 — Watch HTTP History Grow**
 
 Return to Burp Suite.
 
@@ -87,23 +85,19 @@ Even if you forget where a request came from, Burp Suite remembers it for you.
 
 ---
 
-## Figure 14.2 – HTTP History After Browsing
-
 ![Figure 14.2 – HTTP History After Browsing](../images/29-http-history.png)
 
-*Figure 14.2: After browsing DVWA, Burp Suite records every request and response inside HTTP History, making it easy to review your activity later.*
+*Figure 14.2: Burp Suite automatically records every request and response that passes through the proxy. HTTP History provides a complete record of your browsing activity, making it easy to review requests later.*
 
 ---
 
-## Step 3 — Send a Request to Repeater
+**Step 3 — Send a Request to Repeater**
 
 Choose one request.
 
 Right-click it.
 
-Select:
-
-**Send to Repeater**
+Select **Send to Repeater**.
 
 Now open the Repeater tab.
 
@@ -115,15 +109,13 @@ Learning to observe is just as important as learning to modify.
 
 ---
 
-## Figure 14.3 – Request in Repeater
+![Figure 14.3 – Request in Repeater](../images/24-repeater-tab.png)
 
-![Figure 14.3 – Request in Repeater](../images/24-repeater-request.png)
-
-*Figure 14.3: The selected request has been copied into Repeater, where it can be edited and resent multiple times without returning to the browser.*
+*Figure 14.3: The selected request has been copied into the Repeater tool, where it can be edited, resent, and analysed repeatedly without returning to the browser.*
 
 ---
 
-## Step 4 — Make One Small Change
+**Step 4 — Make One Small Change**
 
 Now edit a single value.
 
@@ -149,7 +141,7 @@ Rather than looking for quick answers, they look for explanations.
 
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
 One mistake I made as a beginner was trying to use every Burp Suite tool at the same time.
 
@@ -167,7 +159,7 @@ I thought I was making fast progress.
 
 In reality, I was learning very little because I was moving too quickly.
 
-Eventually I changed my approach.
+Eventually, I changed my approach.
 
 One request.
 
@@ -181,7 +173,7 @@ That lesson has stayed with me ever since.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Imagine trying to understand how a car engine works while driving at full speed.
 
@@ -195,7 +187,7 @@ Instead of watching requests disappear in an instant, you can slow everything do
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 During this exercise, beginners often:
 
@@ -214,7 +206,7 @@ Quality always beats speed.
 
 ---
 
-## Lab Challenge
+**Lab Challenge**
 
 Repeat this exercise tomorrow.
 
@@ -230,7 +222,7 @@ But through consistent practice.
 
 ---
 
-## Looking Ahead
+**Looking Ahead**
 
 You've now completed your first complete Burp Suite workflow.
 
@@ -252,13 +244,5 @@ Never stop asking why an application behaves the way it does.
 
 Every lab you complete brings you one step closer to thinking like a cybersecurity professional.
 
-I'll see you in the next chapter.
-
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

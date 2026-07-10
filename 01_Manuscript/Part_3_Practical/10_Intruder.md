@@ -1,6 +1,6 @@
 # Chapter 10
 
-## Let Burp Suite Do the Repetitive Work
+**Let Burp Suite Do the Repetitive Work**
 
 When I first started testing web applications, I quickly realised that some tasks became repetitive.
 
@@ -24,7 +24,7 @@ Used correctly, it's a huge time saver.
 
 ---
 
-## What Is Intruder?
+**What Is Intruder?**
 
 Intruder is a tool that sends multiple versions of the same request while changing specific values that you choose.
 
@@ -36,11 +36,11 @@ It simply gives you more time to focus on analysing the application's behaviour.
 
 ---
 
-## Figure 10.1 – Sending a Request to Intruder
+![Figure 10.1 – Burp Suite Intruder Positions](../images/112-intruder-positions.png)
 
-![Figure 10.1 – Sending a Request to Intruder](../images/112-intruder-positions.png)
+*Figure 10.1: The Burp Suite **Intruder** interface after a captured request has been sent from Proxy. The request is loaded into the **Positions** tab and is ready for you to choose which parts of the request will be tested during an Intruder attack.*
 
-*Figure 10.1: After capturing a request, send it to Intruder to begin automated testing. Intruder allows you to identify which parts of the request will be modified during an attack.*
+---
 
 Start by capturing a request.
 
@@ -52,7 +52,7 @@ Burp Suite copies the request into the Intruder tab, ready for testing.
 
 ---
 
-## Understanding Positions
+**Understanding Positions**
 
 One of the first things you'll notice is that Intruder highlights parts of the request.
 
@@ -68,11 +68,11 @@ Learning how positions work is more important than memorising buttons.
 
 ---
 
-## Figure 10.2 – Configuring Intruder Payloads
+![Figure 10.2 – Burp Suite Intruder Payloads](../images/113-intruder-payloads.png)
 
-![Figure 10.2 – Configuring Intruder Payloads](../images/113-intruder-payloads.png)
+*Figure 10.2: The **Payloads** section of Burp Suite Intruder before any payloads have been added. After selecting attack positions, this is where you configure the values that Burp Suite will use during automated testing.*
 
-*Figure 10.2: After defining the attack positions, configure the payloads that Intruder will use. Burp Suite substitutes each payload into the selected positions, making repetitive testing much faster.*
+---
 
 Take your time exploring the highlighted positions.
 
@@ -82,7 +82,7 @@ One well-chosen position is often enough to understand how the application behav
 
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
 When I first used Intruder, I selected far too many positions.
 
@@ -100,7 +100,7 @@ That approach made my testing much more organised.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Imagine repeating the same request one hundred times by hand.
 
@@ -112,7 +112,7 @@ It reduces repetitive work so you can focus on learning from the results.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 As you begin using Intruder, avoid these common mistakes:
 
@@ -127,7 +127,7 @@ It supports it.
 
 ---
 
-## Before We Continue
+**Before We Continue**
 
 Open DVWA.
 
@@ -137,13 +137,15 @@ Send it to Intruder.
 
 Explore the **Positions** tab.
 
-Don't worry about running large automated tests yet.
+Then switch to the **Payloads** tab and look at how Burp Suite allows you to define the values that will be inserted into the selected positions.
 
-Today's goal is simply to understand how Intruder is organised.
+Don't worry about launching large automated attacks yet.
+
+Today's goal is simply to understand how Intruder is organised and how its workflow fits into your testing process.
 
 ---
 
-## Looking Ahead
+**Looking Ahead**
 
 You've now learned how Burp Suite can automate repetitive tasks.
 
@@ -156,10 +158,4 @@ The strongest cybersecurity skills are built through careful practice, not rushi
 I'll see you in the next chapter.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

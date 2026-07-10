@@ -1,8 +1,8 @@
 # Chapter 8
 
-## Looking Back with HTTP History
+**Looking Back with HTTP History**
 
-Have you ever visited a website, clicked several pages, and then wished you could go back and see exactly what happened?
+Have you ever visited a website, clicked through several pages, and then wished you could go back and see exactly what happened?
 
 That's exactly what HTTP History helps you do.
 
@@ -12,7 +12,7 @@ I was wrong.
 
 Sometimes the best way to understand an application is to let it work normally, then review everything afterwards.
 
-That's where HTTP History becomes one of your best friends.
+That's where HTTP History becomes one of your most valuable tools.
 
 Instead of stopping every request, it quietly records them for you.
 
@@ -20,11 +20,11 @@ Let's see how it works.
 
 ---
 
-## What Is HTTP History?
+**What Is HTTP History?**
 
-Every time your browser communicates with a website through Burp Suite, the conversation can be recorded.
+Every time your browser communicates with a website through Burp Suite, that conversation can be recorded.
 
-HTTP History is simply a list of those conversations.
+HTTP History is simply a chronological list of those conversations.
 
 Think of it as your browser's diary.
 
@@ -34,17 +34,17 @@ Every response.
 
 Every page you visited.
 
-Everything stays there until you decide to review it.
+Everything remains there until you decide to clear it.
 
 This makes HTTP History incredibly useful when you're trying to understand how an application behaves.
 
 ---
 
-## Figure 8.1 – HTTP History
-
 ![Figure 8.1 – HTTP History](../images/29-http-history.png)
 
-*Figure 8.1: The HTTP History tab records every request and response that passes through Burp Suite, providing a complete view of your interaction with the target application.*
+*Figure 8.1: The HTTP History tab records every HTTP request and response that passes through Burp Suite. Each entry represents a single interaction between your browser and the target application, making it easy to review your browsing activity and understand how the application communicates.*
+
+---
 
 Take a minute to look at the list of requests.
 
@@ -58,7 +58,7 @@ We'll learn how to read it together.
 
 ---
 
-## Let's Generate Some Traffic
+**Let's Generate Some Traffic**
 
 Open Firefox.
 
@@ -82,11 +82,11 @@ You've just captured your first browsing session.
 
 ---
 
-## Figure 8.2 – Analysing a GET Request in HTTP History
-
 ![Figure 8.2 – Analysing a GET Request](../images/32-get-request-analysis.png)
 
-*Figure 8.2: Selecting an entry from HTTP History allows you to inspect the complete HTTP request and response. This example shows a captured GET request, helping you understand how a browser communicates with a web application.*
+*Figure 8.2: Selecting an entry from HTTP History displays the complete HTTP request and response. This captured GET request shows how Burp Suite allows you to inspect the communication between your browser and the web server after the request has already been processed.*
+
+---
 
 Notice how every page you visited appears in the history.
 
@@ -96,7 +96,7 @@ Even if you didn't intercept a request, Burp Suite still remembers it.
 
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
 When I first discovered HTTP History, I ignored it.
 
@@ -104,7 +104,7 @@ I thought Intercept was the only feature that mattered.
 
 Later, while testing an application, I couldn't remember which page had submitted a request.
 
-Instead of repeating the whole process, I opened HTTP History.
+Instead of repeating the entire process, I opened HTTP History.
 
 Everything I needed was already there.
 
@@ -116,7 +116,7 @@ It's also about knowing how to find them again.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Imagine you're testing a website with twenty different pages.
 
@@ -124,11 +124,11 @@ Would it be easier to repeat every action...
 
 or simply open HTTP History and review what Burp Suite has already recorded?
 
-That's why experienced testers rely on HTTP History so often.
+That's one of the reasons experienced testers rely on HTTP History so often.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 Some beginners think HTTP History only records intercepted requests.
 
@@ -144,7 +144,7 @@ You never know which request you'll need later.
 
 ---
 
-## Before We Continue
+**Before We Continue**
 
 Spend five minutes browsing DVWA.
 
@@ -158,7 +158,7 @@ The more traffic you generate, the more comfortable you'll become reading reques
 
 ---
 
-## A Final Thought
+**A Final Thought**
 
 One lesson I've learned over the years is that good testers don't rely on memory.
 
@@ -170,15 +170,11 @@ It records your journey through an application and allows you to retrace your st
 
 Get into the habit of checking it often.
 
-Future you will be glad you did.
+In the future, you'll be glad you did.
+
+The more comfortable you become reading HTTP History, the easier it will be to understand how web applications really work.
 
 I'll see you in the next chapter.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

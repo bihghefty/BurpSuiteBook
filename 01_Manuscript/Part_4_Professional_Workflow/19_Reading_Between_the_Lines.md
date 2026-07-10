@@ -4,7 +4,7 @@
 >
 > — **Henry Uwaezuoke**
 
-## Reading Between the Lines
+**Reading Between the Lines**
 
 When I first started using Burp Suite, I believed that understanding an HTTP request meant memorising every header and every line.
 
@@ -36,7 +36,7 @@ That's what this chapter is all about.
 
 ---
 
-## What You'll Learn
+**What You'll Learn**
 
 By the end of this chapter, you'll be able to:
 
@@ -47,7 +47,7 @@ By the end of this chapter, you'll be able to:
 
 ---
 
-## Looking Beyond the Obvious
+**Looking Beyond the Obvious**
 
 The first time you intercept a request, it can feel overwhelming.
 
@@ -79,11 +79,11 @@ Before long, those confusing requests started making sense.
 
 ---
 
-## Figure 19.1 – Complete HTTP Request
-
 ![Figure 19.1 – Complete HTTP Request](../images/130-complete-http-request.png)
 
-*Figure 19.1: A complete HTTP request captured by Burp Suite. Every request contains valuable information that helps security testers understand how a web application communicates with the server.*
+*Figure 19.1: Burp Suite intercepting a complete HTTP login request. The lower panel displays the full request sent by the browser, allowing you to examine the request line, headers, cookies, and submitted form data before it reaches the web server.*
+
+---
 
 Take a few minutes to study the request.
 
@@ -103,7 +103,7 @@ Just begin noticing what's there.
 
 ---
 
-## Reading with Purpose
+**Reading with Purpose**
 
 A beginner often looks at an HTTP request and sees text.
 
@@ -124,11 +124,11 @@ These questions help you think like an analyst instead of simply reading text on
 
 ---
 
-## Figure 19.2 – Identifying Important Sections
-
 ![Figure 19.2 – Identifying Important Sections](../images/131-http-request-sections.png)
 
-*Figure 19.2: A typical HTTP request consists of four key components: the request line, HTTP headers, cookies, and the request body. Learning to identify each section makes reading web traffic much easier.*
+*Figure 19.2: Reading the intercepted request inside Burp Suite. By examining the request line, headers, cookies, and request body, you can understand exactly what information the browser is sending to the application.*
+
+---
 
 Focus on understanding the purpose of each section.
 
@@ -138,7 +138,7 @@ Understanding the structure is far more important.
 
 ---
 
-## From My Lab
+**From My Lab**
 
 One evening, I challenged myself to read the same HTTP request five different times.
 
@@ -164,7 +164,7 @@ That's when I realised observation is a skill that grows with practice.
 
 ---
 
-## Henry's Pro Tip
+**Henry's Pro Tip**
 
 Don't try to memorise HTTP.
 
@@ -174,7 +174,7 @@ Confidence comes from repeated exposure, not perfect memory.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Open any intercepted request.
 
@@ -192,7 +192,7 @@ Every request teaches you something.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 Some beginners:
 
@@ -207,7 +207,7 @@ Understanding always comes before testing.
 
 ---
 
-## Lab Challenge
+**Lab Challenge**
 
 Capture three different requests.
 
@@ -224,7 +224,7 @@ Over time, you'll begin recognising patterns without even thinking about them.
 
 ---
 
-## Before You Close Burp Suite
+**Before You Close Burp Suite**
 
 Today's lesson wasn't really about HTTP.
 
@@ -240,21 +240,13 @@ That's how progress happens.
 
 ---
 
-## Looking Ahead
+**Looking Ahead**
 
-In the next chapter, we'll shift our attention from reading requests to building the environment where real learning happens.
+In the next chapter, we'll shift our attention from reading requests to building the habits that help cybersecurity professionals continue improving over time.
 
-A safe practice lab is one of the greatest investments you can make in your cybersecurity journey.
+You'll discover that becoming better isn't about learning more tools—it's about learning how to think, observe, and practise more effectively.
 
-When you have a place to experiment without fear of breaking anything important, you'll learn faster, practise more confidently, and develop skills that last.
-
-I'll see you in the next chapter.
+Those habits will stay with you long after you've finished this book.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

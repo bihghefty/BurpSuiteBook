@@ -1,6 +1,6 @@
 # Chapter 16
 
-## Every Login Tells a Story
+**Every Login Tells a Story**
 
 There was a time when a login page looked ordinary to me.
 
@@ -38,7 +38,7 @@ And that's exactly what I want you to see after reading this chapter.
 
 ---
 
-## What You'll Learn
+**What You'll Learn**
 
 By the end of this chapter, you'll be able to:
 
@@ -53,7 +53,7 @@ We're learning together, one step at a time.
 
 ---
 
-## Before We Touch Burp Suite
+**Before We Touch Burp Suite**
 
 Here's something I wish someone had told me when I was learning.
 
@@ -67,11 +67,11 @@ That simple habit has helped me countless times.
 
 ---
 
-## Figure 16.1 – DVWA Login Page
-
 ![Figure 16.1 – DVWA Login Page](../images/20-dvwa-credentials.png)
 
-*Figure 16.1: The DVWA login page before authentication. When the login form is submitted, Burp Suite can capture the resulting HTTP request, making this page an excellent starting point for understanding how login requests work.*
+*Figure 16.1: The DVWA login page before authentication. This is where users enter their credentials before Burp Suite captures the HTTP POST request sent to the server.*
+
+---
 
 Before clicking **Login**, pause for a moment.
 
@@ -83,7 +83,7 @@ Even if your answer isn't perfect, asking the question will help you think more 
 
 ---
 
-## Capturing the Request
+**Capturing the Request**
 
 Turn **Intercept** on.
 
@@ -101,11 +101,11 @@ Every line has a purpose.
 
 ---
 
-## Figure 16.2 – Login Request in Proxy
-
 ![Figure 16.2 – Login Request in Proxy](../images/21-login-post-request.png)
 
-*Figure 16.2: Burp Suite intercepts the login request before it reaches the web server. The request contains the submitted credentials, HTTP method, headers, cookies, and other information your browser sends during authentication.*
+*Figure 16.2: Burp Suite intercepts the HTTP POST login request before it reaches the server. The request includes the submitted form data, HTTP headers, cookies, and other information exchanged during authentication.*
+
+---
 
 This is one of the most important screenshots you've seen so far.
 
@@ -121,7 +121,7 @@ Burp Suite simply allows you to watch that conversation.
 
 ---
 
-## From My Lab
+**From My Lab**
 
 One evening I spent almost fifteen minutes trying to understand why a request looked different from the previous one.
 
@@ -143,7 +143,7 @@ Small details often explain big differences.
 
 ---
 
-## Henry's Pro Tip
+**Henry's Pro Tip**
 
 When you're learning Burp Suite, don't ask:
 
@@ -159,7 +159,7 @@ The better you understand normal behaviour, the easier it becomes to recognise s
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Close your eyes for a moment.
 
@@ -175,7 +175,7 @@ You're reading that conversation for yourself.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 One mistake I made early on was trying to understand every header in one sitting.
 
@@ -199,7 +199,7 @@ Progress comes from consistency, not speed.
 
 ---
 
-## Lab Challenge
+**Lab Challenge**
 
 Repeat this exercise three times.
 
@@ -216,7 +216,7 @@ You'll be surprised how much your observation skills improve after just a few pr
 
 ---
 
-## Before You Close Burp Suite
+**Before You Close Burp Suite**
 
 Take one last look at the login request.
 
@@ -230,15 +230,7 @@ Become familiar with it.
 
 The more comfortable you become reading HTTP requests, the more confident you'll become as a cybersecurity professional.
 
-Every expert started exactly where you are today—by learning to understand one request at a time.
-
-I'll see you in the next chapter.
+Every expert started exactly where you are today—learning to understand one request at a time.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice.Secure.**
 

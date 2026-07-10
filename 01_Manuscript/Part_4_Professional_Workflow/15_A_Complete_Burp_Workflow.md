@@ -1,6 +1,6 @@
 # Chapter 15
 
-## From Individual Tools to a Professional Workflow
+**From Individual Tools to a Professional Workflow**
 
 I still remember the day Burp Suite finally started making sense to me.
 
@@ -36,15 +36,13 @@ Everything became easier after that.
 
 If there's one lesson I hope you take from this chapter, it's this:
 
-**Burp Suite isn't a collection of tools.**
-
-**It's a workflow.**
+**Burp Suite isn't just a collection of tools. It's a complete workflow.**
 
 Once you understand that workflow, every tool begins to make sense.
 
 ---
 
-## What You'll Learn
+**What You'll Learn**
 
 By the end of this chapter, you'll understand how Burp Suite's tools work together during a typical web application assessment.
 
@@ -57,7 +55,7 @@ You'll learn:
 
 ---
 
-## What Does a Typical Workflow Look Like?
+**What Does a Typical Workflow Look Like?**
 
 A professional Burp Suite workflow often follows a simple pattern.
 
@@ -91,9 +89,29 @@ Instead, you choose the right tool for the question you're trying to answer.
 
 That's what makes Burp Suite so powerful.
 
+As you look back over the chapters you've completed, you'll notice that every Burp Suite tool builds on the previous one.
+
+**Proxy** captures the request.
+
+**HTTP History** records it.
+
+**Repeater** allows you to experiment with it.
+
+**Intruder** automates repetitive testing.
+
+**Decoder** helps you understand encoded data.
+
+**Comparer** highlights differences.
+
+And the **Target** tab helps you understand the application's overall structure.
+
+When these tools work together, Burp Suite becomes far more than a collection of features.
+
+It becomes a complete workflow for understanding how web applications behave.
+
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
 For a long time, I believed becoming good at Burp Suite meant mastering every feature.
 
@@ -117,7 +135,7 @@ Once that happened, Burp Suite became much easier to use.
 
 ---
 
-## Henry's Pro Tip
+**Henry's Pro Tip**
 
 Don't try to become an expert in every Burp Suite tool overnight.
 
@@ -129,7 +147,7 @@ Always let the problem guide the tool—not the other way around.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Imagine you're testing a login page.
 
@@ -153,7 +171,7 @@ Understanding always comes before automation.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 When learning Burp Suite, beginners often:
 
@@ -170,7 +188,7 @@ The important thing is recognising that Burp Suite works best when its tools wor
 
 ---
 
-## Before We Continue
+**Before We Continue**
 
 Take a few minutes to think back over everything you've learned so far.
 
@@ -190,7 +208,7 @@ The goal is understanding.
 
 ---
 
-## Looking Ahead
+**Looking Ahead**
 
 From this point onward, we'll move beyond learning individual Burp Suite tools and begin thinking more like professional web application security testers.
 
@@ -202,7 +220,7 @@ Now it's time to put those skills together.
 
 ---
 
-## A Final Thought
+**A Final Thought**
 
 Take a moment before moving on.
 
@@ -222,7 +240,7 @@ It's a journey built on curiosity, careful observation, and consistent practice.
 
 Every request you capture teaches you something.
 
-Every response you read improves your understanding.
+Every response you analyse deepens your understanding.
 
 Every lab you complete brings you one step closer to thinking like a professional security tester.
 
@@ -232,13 +250,5 @@ Stay curious.
 
 And trust the process.
 
-I'll meet you in the next chapter.
-
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

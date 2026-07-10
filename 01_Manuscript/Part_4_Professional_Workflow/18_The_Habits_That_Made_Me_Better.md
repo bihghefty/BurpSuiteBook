@@ -1,6 +1,6 @@
 # Chapter 18
 
-## The Habits That Made Me Better
+**The Habits That Made Me Better**
 
 People sometimes ask me how I became comfortable using Burp Suite.
 
@@ -34,7 +34,7 @@ Just the habits that genuinely helped me become a better cybersecurity learner.
 
 ---
 
-## What You'll Learn
+**What You'll Learn**
 
 By the end of this chapter, you'll understand:
 
@@ -45,7 +45,7 @@ By the end of this chapter, you'll understand:
 
 ---
 
-## Habit 1: Never Rush Through a Request
+**Habit 1: Never Rush Through a Request**
 
 When I first started practising, I thought sending more requests meant I was learning faster.
 
@@ -63,7 +63,7 @@ That simple question keeps me focused.
 
 ---
 
-## Habit 2: Keep Notes
+**Habit 2: Keep Notes**
 
 One of the best decisions I ever made was keeping a notebook beside my computer.
 
@@ -79,15 +79,13 @@ Your future self will thank you for doing the same.
 
 ---
 
-## Figure 18.1 – Example Lab Notes
-
 ![Figure 18.1 – Example Lab Notes](../images/129-example-lab-notes.png)
 
-*Figure 18.1: Keeping structured notes during a Burp Suite session helps document observations, testing steps, and important findings. Organised notes make it easier to review previous exercises and monitor your progress over time.*
+*Figure 18.1: Keeping organised notes during your Burp Suite practice sessions helps you record observations, testing steps, and important findings. Good documentation makes it easier to review your progress, repeat successful techniques, and continue improving over time.*
 
 ---
 
-## Habit 3: Be Curious
+**Habit 3: Be Curious**
 
 Curiosity has taught me more than any tool.
 
@@ -107,7 +105,7 @@ Over time, you'll discover that asking good questions is often more valuable tha
 
 ---
 
-## From My Lab
+**From My Lab**
 
 One evening, I spent almost half an hour reading the same HTTP request.
 
@@ -123,11 +121,9 @@ Later, I realised that half hour had taught me more than several rushed practice
 
 That experience reminded me that understanding always comes before speed.
 
-— **Henry Uwaezuoke**
-
 ---
 
-## Henry's Pro Tip
+**Henry's Pro Tip**
 
 Don't compare your beginning with someone else's experience.
 
@@ -139,7 +135,7 @@ That's what builds confidence.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Imagine practising for thirty minutes every day for the next six months.
 
@@ -151,7 +147,7 @@ Small, consistent effort almost always wins.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 As you continue learning, try to avoid these habits:
 
@@ -164,7 +160,7 @@ Remember, confidence grows from understanding, not from rushing.
 
 ---
 
-## Lab Challenge
+**Lab Challenge**
 
 During your next practice session:
 
@@ -178,7 +174,7 @@ Repeat this exercise until careful observation becomes a habit.
 
 ---
 
-## Before You Close Burp Suite
+**Before You Close Burp Suite**
 
 Before ending today's session, ask yourself one simple question:
 
@@ -192,7 +188,7 @@ It's measured by how much you learn while you're there.
 
 ---
 
-## Looking Ahead
+**Looking Ahead**
 
 The habits you've built so far will help you far beyond Burp Suite.
 
@@ -202,13 +198,5 @@ You'll discover that understanding an application's behaviour often depends not 
 
 Sometimes the smallest detail reveals the biggest lesson.
 
-I'll see you in the next chapter.
-
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

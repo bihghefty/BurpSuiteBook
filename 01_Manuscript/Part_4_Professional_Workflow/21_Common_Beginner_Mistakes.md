@@ -4,7 +4,7 @@
 >
 > — **Henry Uwaezuoke**
 
-## Common Beginner Mistakes (and How I Overcame Them)
+**Common Beginner Mistakes (and How I Overcame Them)**
 
 When I look back at the beginning of my cybersecurity journey, I smile.
 
@@ -36,7 +36,7 @@ The goal is to avoid making the same mistake over and over again.
 
 ---
 
-## What You'll Learn
+**What You'll Learn**
 
 By the end of this chapter, you'll be able to:
 
@@ -47,7 +47,7 @@ By the end of this chapter, you'll be able to:
 
 ---
 
-## Mistake 1: Rushing Through Labs
+**Mistake 1: Rushing Through Labs**
 
 One of my biggest mistakes was trying to finish labs as quickly as possible.
 
@@ -63,7 +63,7 @@ Your understanding matters more than your pace.
 
 ---
 
-## Mistake 2: Depending on Copy and Paste
+**Mistake 2: Depending on Copy and Paste**
 
 There were times when I copied commands without fully understanding what they did.
 
@@ -79,15 +79,13 @@ That simple question has helped me grow far more than copying ever did.
 
 ---
 
-## Figure 21.1 – Taking Time to Understand
-
 ![Figure 21.1 – Taking Time to Understand](../images/133-taking-time-to-understand.png)
 
-*Figure 21.1: Effective security testing is more than clicking buttons. Keeping detailed notes while analysing requests in Burp Suite encourages careful observation, helping you understand each step instead of simply following instructions.*
+*Figure 21.1: Careful observation and note-taking during Burp Suite practice sessions help build a deeper understanding of HTTP requests, responses, and application behaviour. Learning happens through thoughtful analysis, not speed.*
 
 ---
 
-## Mistake 3: Ignoring the Basics
+**Mistake 3: Ignoring the Basics**
 
 It's tempting to skip the fundamentals because they seem too simple.
 
@@ -101,7 +99,7 @@ Never underestimate the value of mastering the fundamentals.
 
 ---
 
-## From My Lab
+**From My Lab**
 
 One day I spent nearly an hour trying to figure out why something wasn't working.
 
@@ -113,11 +111,9 @@ That experience reminded me that paying attention to the basics often solves pro
 
 It's a lesson I still carry into every lab.
 
-— **Henry Uwaezuoke**
-
 ---
 
-## Henry's Pro Tip
+**Henry's Pro Tip**
 
 Don't be embarrassed by beginner mistakes.
 
@@ -127,7 +123,7 @@ The difference is that they learned from those mistakes instead of giving up.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Think about the last mistake you made while practising.
 
@@ -141,7 +137,7 @@ Every mistake contains a lesson if you're willing to look for it.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 Here are a few habits worth avoiding:
 
@@ -155,7 +151,7 @@ Focus on becoming a better version of yourself each week.
 
 ---
 
-## Lab Challenge
+**Lab Challenge**
 
 Go back to one of your earlier Burp Suite exercises.
 
@@ -169,7 +165,7 @@ That's one of the best ways to measure real progress.
 
 ---
 
-## Before You Close Burp Suite
+**Before You Close Burp Suite**
 
 Mistakes are part of learning.
 
@@ -189,7 +185,7 @@ Keep moving forward.
 
 ---
 
-## A Final Thought
+**A Final Thought**
 
 One of the biggest changes in my own journey wasn't becoming someone who never made mistakes.
 
@@ -209,13 +205,5 @@ Every mistake you correct...
 
 Brings you one step closer to becoming the cybersecurity professional you want to be.
 
-I'll see you in the next chapter.
-
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

@@ -1,6 +1,6 @@
 # Chapter 7
 
-## Taking Control of HTTP Requests with Intercept
+**Taking Control of HTTP Requests with Intercept**
 
 There comes a point when every Burp Suite beginner asks the same question:
 
@@ -24,11 +24,11 @@ Instead of watching requests pass by, I was able to stop them, inspect them, and
 
 That's exactly what you'll learn in this chapter.
 
-By the time you finish, you'll understand why Intercept is such an important part of Burp Suite, and you'll be comfortable using it in your own practice lab.
+By the time you finish, you'll understand why Intercept is such an important part of Burp Suite, and you'll be comfortable using it with confidence.
 
 ---
 
-## What You'll Learn
+**What You'll Learn**
 
 In this chapter, you'll learn how to:
 
@@ -40,7 +40,7 @@ In this chapter, you'll learn how to:
 
 ---
 
-## Why Intercept Matters
+**Why Intercept Matters**
 
 When you first open Burp Suite, it's easy to think the Proxy tool is doing all the work.
 
@@ -52,7 +52,7 @@ Everything happens so quickly that you never see what's being exchanged.
 
 With Intercept turned on, Burp Suite pauses that request before it reaches the server.
 
-That pause gives you a chance to inspect what the browser is sending, understand how the request is structured, and decide what happens next.
+That pause gives you a chance to inspect what the browser is sending, understand how the request is structured, and decide exactly what happens next.
 
 The first few times you use it, the browser may appear to freeze.
 
@@ -64,7 +64,7 @@ Once you understand that, Intercept becomes much less intimidating—and much mo
 
 ---
 
-## Let's See It in Action
+**Let's See It in Action**
 
 Open Burp Suite and make sure the **Proxy** tab is selected.
 
@@ -94,23 +94,23 @@ Congratulations!
 
 You've just intercepted and released your first HTTP request.
 
-> ### Stop and Think
->
-> Before reading any further, ask yourself one question:
->
-> **What would have happened if you had never clicked _Forward_?**
->
-> Your browser would still be waiting because Burp Suite was holding the request.
->
-> Once that idea clicks, the Intercept feature starts to make much more sense.
+---
+
+**Stop and Think**
+
+Before reading any further, ask yourself one question:
+
+**What would have happened if you had never clicked _Forward_?**
+
+Your browser would still be waiting because Burp Suite was holding the request.
+
+Once that idea clicks, the Intercept feature starts to make much more sense.
 
 ---
 
-## Figure 7.1 – Intercept Waiting for a Request
+![Figure 7.1 – Burp Suite Intercept in Action](../images/17-first-request-intercepted.png)
 
-![Figure 7.1 – Intercept Waiting for a Request](../images/17-first-request-intercepted.png)
-
-*Figure 7.1: Burp Suite has intercepted an HTTP request before it reaches the target web application. At this point, the request is paused, allowing you to inspect it before deciding whether to forward or drop it.*
+*Figure 7.1: Burp Suite has intercepted an HTTP request before it reaches the target web application. The request is paused until you decide whether to forward it to the server, modify it, or drop it entirely.*
 
 ---
 
@@ -127,7 +127,7 @@ For now, focus on understanding what Burp Suite is doing rather than every detai
 
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
 While writing this book, I ran into a problem that almost every beginner experiences.
 
@@ -151,7 +151,7 @@ That one habit will save you a lot of frustration as you continue learning.
 
 ---
 
-## A Few Mistakes You'll Probably Make
+**A Few Mistakes You'll Probably Make**
 
 Don't worry if you make these mistakes—I made some of them too while preparing this guide.
 
@@ -166,9 +166,9 @@ The more you practise, the more natural the workflow becomes.
 
 ---
 
-## Troubleshooting
+**Troubleshooting**
 
-### The Browser Has Stopped Loading
+**The Browser Has Stopped Loading**
 
 This is usually the first issue beginners encounter.
 
@@ -182,11 +182,11 @@ In most cases, the page will load immediately.
 
 If no request appears, confirm that Firefox is still configured to send traffic through Burp Suite.
 
-Small checks like these often solve the problem within seconds.
+More often than not, the solution is much simpler than it first appears.
 
 ---
 
-## Why This Matters Beyond Burp Suite
+**Why This Matters Beyond Burp Suite**
 
 It's easy to think that Intercept is only useful when you're learning Burp Suite, but that's not the case.
 
@@ -196,7 +196,7 @@ You're seeing information that browsers normally hide from users.
 
 That understanding becomes valuable long after you've finished this book.
 
-Whether you decide to become a penetration tester, a SOC analyst, an application security engineer, or a bug bounty hunter, you'll keep coming back to the same skill—understanding HTTP requests and responses.
+Whether you decide to become a penetration tester, a SOC analyst, an application security engineer, or a bug bounty hunter, you'll keep coming back to the same skill: understanding how applications communicate.
 
 That's why I encourage you not to rush through this chapter.
 
@@ -206,7 +206,7 @@ The confidence you build now will make the rest of Burp Suite much easier to und
 
 ---
 
-## Before You Move On
+**Before You Move On**
 
 Before continuing, open DVWA one more time and practise with Intercept.
 
@@ -228,7 +228,7 @@ When you can confidently explain why the browser pauses and what happens after c
 
 ---
 
-## Quick Challenge
+**Quick Challenge**
 
 Without looking back through this chapter, answer these questions:
 
@@ -241,13 +241,13 @@ If you can answer those questions in your own words, you've understood the main 
 
 ---
 
-## Wrapping Up
+**Wrapping Up**
 
 When I first started learning Burp Suite, I thought Intercept was there to slow me down.
 
 Now I see it differently.
 
-Intercept gives you something that browsers never do—it gives you time to stop, observe, and understand what's really happening between the client and the server.
+Intercept gives you something browsers normally don't: the opportunity to slow down, observe each request, and understand exactly what's happening between the client and the server.
 
 That simple pause is one of the reasons Burp Suite has become one of the most trusted tools in web application security.
 
@@ -257,17 +257,17 @@ The better you understand Intercept, the easier the rest of Burp Suite will beco
 
 ---
 
-## Coming Up Next
+**Coming Up Next**
 
 So far you've seen how to stop a request before it reaches the server.
 
-In the next chapter, we'll explore **HTTP History** and learn how Burp Suite keeps a record of every request and response that passes through the proxy.
+In the next chapter, we'll explore **HTTP History** and learn how Burp Suite keeps a record of every request and response that passes through the Proxy.
 
 By the end of that chapter, you'll know how to revisit previous requests, compare responses, and retrace your testing activity with confidence.
 
 ---
 
-## A Final Thought
+**A Final Thought**
 
 One of the biggest lessons I've learned is that good security testing isn't about clicking as many buttons as possible.
 
@@ -277,7 +277,7 @@ Burp Suite gives you that opportunity.
 
 Every request tells a story.
 
-Every response teaches you something about how an application works.
+Every response reveals something new about how an application behaves.
 
 The more curious you are, the more you'll learn.
 
@@ -287,13 +287,5 @@ Open your lab, repeat the exercises, and ask yourself why each step works the wa
 
 That's how real understanding is built.
 
-I'll meet you in the next chapter.
-
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

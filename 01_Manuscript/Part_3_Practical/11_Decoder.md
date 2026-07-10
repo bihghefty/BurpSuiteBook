@@ -1,6 +1,6 @@
 # Chapter 11
 
-## Making Sense of Encoded Data with Decoder
+**Making Sense of Encoded Data with Decoder**
 
 As I spent more time analysing HTTP requests, I began noticing something interesting.
 
@@ -22,75 +22,75 @@ Once you learn how it works, you'll wonder how you managed without it.
 
 ---
 
-## What Is Decoder?
+**What Is Decoder?**
 
-Decoder is a tool that helps you convert data from one format into another.
+Decoder is a Burp Suite tool that converts data from one format into another.
 
-For example, you might come across information that's encoded using Base64, URL encoding, or another common format.
+During web application testing, you'll often come across information that's been encoded before being sent between the browser and the server.
 
-Instead of guessing what it means, Burp Suite can help you decode it into something you can read.
+Instead of trying to interpret that data manually, Decoder helps you transform it into something you can understand.
 
-It can also perform the reverse operation by encoding data before you send it.
+It can also perform the reverse operation by encoding information before it's sent back to the application.
 
-Understanding what's happening is far more important than memorising the different encoding formats.
+The goal isn't to memorise every encoding method.
+
+The goal is to understand what the application is sending and receiving.
 
 ---
 
-## Figure 11.1 – Decoder Tool
+![Figure 11.1 – Burp Suite Decoder Input](../images/115-decoder-input.png)
 
-![Figure 11.1 – Decoder Tool](../images/115-decoder-input.png)
-
-*Figure 11.1: The Decoder tool allows you to paste encoded or decoded data for analysis. It supports multiple encoding formats, making it useful when examining web requests and responses.*
+*Figure 11.1: The Burp Suite **Decoder** tool with text entered into the input panel. Decoder allows you to paste encoded or plain text and apply different encoding or decoding operations to better understand how web applications process data.*
 
 Spend a minute looking around the Decoder interface.
 
-Notice how simple it is compared to some of the other Burp Suite tools.
+Compared to many of Burp Suite's other tools, it looks surprisingly simple.
 
-Sometimes the simplest tools become the most useful.
+Don't let that simplicity fool you.
+
+You'll find yourself returning to Decoder whenever you encounter unfamiliar values during your testing.
 
 ---
 
-## Your First Decode
+**Your First Decode**
 
 Copy a piece of encoded text.
 
 Paste it into Decoder.
 
-Select the appropriate decoding option.
+Choose the appropriate decoding option.
 
 Watch the output change.
 
-The first time you do this, it almost feels like solving a puzzle.
+The first time you see seemingly meaningless characters transformed into readable information, it feels a little like solving a puzzle.
 
 That's one of the reasons I enjoy using Decoder.
 
-It takes information that looks confusing and makes it understandable.
+It takes information that looks confusing and turns it into something you can understand.
 
 ---
 
-## Figure 11.2 – Decoding Base64 Data
+![Figure 11.2 – Burp Suite Decoder Output](../images/116-decoder-encoded.png)
 
-![Figure 11.2 – Decoding Base64 Data](../images/116-decoder-encoded.png)
+*Figure 11.2: Burp Suite Decoder displaying the result after applying a decoding operation. The output panel shows the converted value, making it easier to analyse information that would otherwise be difficult to interpret.*
 
-*Figure 11.2: Burp Suite Decoder converts Base64-encoded data into its original readable form. This helps you understand how applications encode information and inspect values that would otherwise be difficult to interpret.*
-
-Notice how the output immediately becomes easier to understand.
+Notice how quickly the output becomes easier to understand.
 
 That's exactly what Decoder is designed to do.
 
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
-When I first started learning web application security, I spent far too much time trying to understand encoded values by looking at them.
+When I first started learning web application security, I spent far too much time staring at encoded values, hoping they would somehow make sense.
 
 Eventually, I realised I didn't have to guess.
 
-Good security professionals use the right tools.
+Good security professionals don't waste time trying to decode information manually when the right tool can do it accurately in seconds.
 
-Decoder quickly became one of those tools I reached for whenever something didn't look familiar.
+Decoder quickly became one of the tools I reached for whenever something looked unfamiliar.
 
-One lesson stayed with me:
+One lesson has stayed with me ever since:
 
 **If you don't understand the data, don't ignore it.**
 
@@ -98,7 +98,7 @@ One lesson stayed with me:
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Imagine receiving a message written in a language you don't understand.
 
@@ -108,57 +108,53 @@ Or would you translate it first?
 
 That's exactly what Decoder helps you do.
 
-It translates information into a format that's easier to understand.
+It translates information into a format that's easier to understand, allowing you to focus on analysing the application's behaviour instead of struggling with the data itself.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 Many beginners assume that encoded data is encrypted.
 
 It usually isn't.
 
-Encoding and encryption are two very different things.
+Encoding and encryption serve very different purposes.
 
 Another common mistake is trying every decoding option without first thinking about what kind of data they're looking at.
 
 Take a moment to observe before experimenting.
 
-Understanding always comes before automation.
+Understanding should always come before automation.
 
 ---
 
-## Before We Continue
+**Before We Continue**
 
 Open Decoder.
 
 Paste a few sample values into it.
 
-Try different encoding and decoding options.
+Experiment with different encoding and decoding options.
 
 Don't worry about memorising every format today.
 
-The goal is simply to become comfortable using the tool.
+Your objective is simply to become comfortable using the tool and recognise when it can help you during a web application assessment.
 
 ---
 
-## Looking Ahead
+**Looking Ahead**
 
 So far, you've learned how to capture requests, replay them, automate repetitive tasks, and decode data.
 
-Next, we'll explore another useful Burp Suite tool called **Comparer**, which helps you identify differences between requests and responses.
+In the next chapter, we'll explore another valuable Burp Suite feature called **Comparer**.
 
-Small details often make a big difference in cybersecurity.
+Comparer makes it much easier to identify differences between requests and responses—differences that are often too small to spot manually but can reveal important information about how an application behaves.
 
-Comparer helps you find them.
+Take your time with this chapter.
+
+The more comfortable you become with Decoder, the more confident you'll feel when analysing web traffic throughout the rest of this book.
 
 I'll see you in the next chapter.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

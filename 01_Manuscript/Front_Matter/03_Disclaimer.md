@@ -1,32 +1,38 @@
 # Disclaimer
 
-This book has been written for educational and ethical purposes.
+This book has been written for **educational purposes only**.
 
-The techniques, tools, demonstrations, and practical exercises presented throughout this book are intended to help readers understand web application security, penetration testing, and defensive security in safe and authorized environments.
+The information, demonstrations, screenshots, tools, techniques, and practical exercises presented throughout this book are intended to help readers learn web application security testing in a safe, legal, and ethical manner.
 
-Always obtain explicit permission before testing any system, application, or network that you do not own or have authorization to assess.
+Every practical example in this book was performed in a controlled laboratory environment using intentionally vulnerable applications or systems specifically designed for cybersecurity training.
 
-Unauthorized access to computer systems is illegal, unethical, and may result in civil or criminal penalties.
+Always obtain **explicit written authorization** before testing any application, website, server, network, or computer system that you do not own or manage.
 
-Every demonstration and example presented in this book was performed in a controlled laboratory environment created specifically for learning, research, and professional development.
+Unauthorized access to computer systems is illegal in many countries and may result in criminal prosecution, civil liability, or both.
 
-Neither the author nor the publisher accepts responsibility for any misuse of the information provided in this publication or for any consequences resulting from its improper application.
-
-Cybersecurity is more than technical skill—it is a profession built on trust, integrity, responsibility, and respect for the law. As you continue your learning journey, I encourage you to use the knowledge gained from this book to strengthen security, protect systems, and contribute positively to the cybersecurity community.
-
-Remember:
-
-> **Knowledge gives you capability.**
->
-> **Integrity determines how you use it.**
-
-Thank you for choosing to learn cybersecurity the right way.
-
-— **Henry Uwaezuoke**
+The author and publisher accept no responsibility for any misuse of the information contained in this book or for any loss, damage, or legal consequences resulting from the improper or unlawful use of the techniques described.
 
 ---
 
-### Henry Uwaezuoke Cybersecurity Series
+**A Word on Ethics**
 
-**Learn. Practice. Secure.**
+One of the things I love most about cybersecurity is that it gives us the opportunity to make technology safer for everyone.
+
+The knowledge you gain from this book should never be used to harm others.
+
+As you work through the practical exercises, always remember these principles:
+
+- Respect the law.
+- Respect privacy.
+- Respect authorization.
+- Use your skills to protect, not to exploit.
+- Never stop learning.
+
+The best cybersecurity professionals are not remembered because they know the most.
+
+They're respected because they use their knowledge responsibly.
+
+I hope you'll become one of them.
+
+— **Henry Uwaezuoke**
 

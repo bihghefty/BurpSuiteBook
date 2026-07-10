@@ -1,6 +1,6 @@
 # Chapter 9
 
-## Working Smarter with Repeater
+**Working Smarter with Repeater**
 
 One of the habits that helped me improve my web application testing was learning not to repeat the same actions in my browser over and over again.
 
@@ -24,7 +24,7 @@ If the Proxy helps you capture requests, Repeater helps you understand them.
 
 ---
 
-## What Is Repeater?
+**What Is Repeater?**
 
 Repeater is one of Burp Suite's most valuable tools.
 
@@ -46,11 +46,11 @@ Instead of guessing how a web application behaves, you can see it for yourself.
 
 ---
 
-## Figure 9.1 – Sending a Request to Repeater
-
 ![Figure 9.1 – Sending a Request to Repeater](../images/23-send-to-repeater.png)
 
-*Figure 9.1: After capturing a request, right-click it and choose **Send to Repeater**. Burp Suite copies the request into the Repeater tab, allowing you to modify and resend it as many times as needed.*
+*Figure 9.1: A captured HTTP request being sent from **Proxy** to **Repeater**. Repeater creates a separate working copy of the request, allowing you to modify and resend it without capturing the same request again from the browser.*
+
+---
 
 Once you've captured a request in **Proxy** or **HTTP History**, right-click it and select **Send to Repeater**.
 
@@ -62,7 +62,7 @@ Everything you need is now waiting inside Burp Suite.
 
 ---
 
-## Exploring Your First Request
+**Exploring Your First Request**
 
 When you first open Repeater, you'll notice that the request looks exactly the same as the one Burp Suite captured.
 
@@ -90,11 +90,11 @@ As you continue working through this book, these requests will gradually become 
 
 ---
 
-## Figure 9.2 – The Repeater Interface
-
 ![Figure 9.2 – The Repeater Interface](../images/24-repeater-tab.png)
 
-*Figure 9.2: Burp Suite Repeater displays the HTTP request on one side and the server's response on the other. This allows you to edit, resend, and analyse requests without repeatedly using the browser.*
+*Figure 9.2: The **Repeater** *interface displaying the HTTP request on the left and the server's response on the right. This workspace allows you to edit a request, resend it, and immediately analyse how the application responds to each change.*
+
+---
 
 One feature I immediately appreciated was seeing the request and response side by side.
 
@@ -104,7 +104,7 @@ That simple layout makes learning much easier.
 
 ---
 
-## Why Repeater Matters
+**Why Repeater Matters**
 
 Imagine you're testing a login request.
 
@@ -122,13 +122,13 @@ With Repeater, you simply edit the request and click **Send**.
 
 The response appears instantly.
 
-That's why experienced penetration testers spend so much time inside Repeater.
+That's why Repeater is one of the most frequently used tools in Burp Suite.
 
-It saves time and encourages careful analysis.
+It encourages careful observation and helps you understand how small changes affect an application's behaviour.
 
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
 One mistake I made when I first started using Repeater was changing too many things at once.
 
@@ -158,7 +158,7 @@ Even today, it's still one of the ways I approach testing.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Imagine trying to solve a puzzle.
 
@@ -174,7 +174,7 @@ Small changes often teach you more than large ones.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 As you begin using Repeater, it's completely normal to make a few mistakes.
 
@@ -191,7 +191,7 @@ It's designed for understanding.
 
 ---
 
-## Before We Continue
+**Before We Continue**
 
 Open DVWA.
 
@@ -211,7 +211,7 @@ The more you practise, the more natural this workflow will become.
 
 ---
 
-## Looking Ahead
+**Looking Ahead**
 
 You've now learned how to capture requests, review them in HTTP History, and manually replay them using Repeater.
 
@@ -221,13 +221,5 @@ Take your time with Repeater.
 
 It's one of the tools you'll continue using throughout your cybersecurity journey.
 
-I'll see you in the next chapter.
-
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

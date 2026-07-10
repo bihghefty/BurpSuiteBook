@@ -4,7 +4,7 @@
 >
 > — **Henry Uwaezuoke**
 
-## Where Burp Suite Fits into Ethical Hacking
+**Where Burp Suite Fits into Ethical Hacking**
 
 One of the biggest misconceptions I hear from beginners is this:
 
@@ -34,7 +34,7 @@ That's why I always encourage beginners to see Burp Suite as a foundation rather
 
 ---
 
-## What You'll Learn
+**What You'll Learn**
 
 By the end of this chapter, you'll understand:
 
@@ -45,7 +45,7 @@ By the end of this chapter, you'll understand:
 
 ---
 
-## Burp Suite Is Part of the Journey
+**Burp Suite Is Part of the Journey**
 
 Imagine a carpenter.
 
@@ -72,15 +72,13 @@ The more these skills grow together, the more effective you become.
 
 ---
 
-## Figure 22.1 – Burp Suite Within the Ethical Hacking Process
-
 ![Figure 22.1 – Burp Suite Within the Ethical Hacking Process](../images/134-burp-suite-ethical-hacking-process.png)
 
-*Figure 22.1: Burp Suite is one component of the ethical hacking workflow. It is primarily used during web application testing to intercept, inspect, and modify HTTP requests and responses while working alongside other essential cybersecurity skills.*
+*Figure 22.1: Burp Suite is one component of the ethical hacking workflow. It is primarily used during web application testing to intercept, inspect, modify, and analyse HTTP requests and responses while working alongside other essential cybersecurity skills.*
 
 ---
 
-## Ethics Always Comes First
+**Ethics Always Comes First**
 
 One lesson I hope every reader remembers is this:
 
@@ -100,7 +98,7 @@ Never sacrifice one for the other.
 
 ---
 
-## From My Lab
+**From My Lab**
 
 As I continued learning, I realised something that changed my perspective.
 
@@ -120,7 +118,7 @@ It's about connecting many different skills together.
 
 ---
 
-## Henry's Pro Tip
+**Henry's Pro Tip**
 
 Don't measure your progress by the number of tools you've installed.
 
@@ -130,7 +128,7 @@ Depth will always serve you better than collecting tools you barely know.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Imagine someone gives you every cybersecurity tool available today.
 
@@ -146,7 +144,7 @@ Wisdom grows through experience.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 Some beginners believe:
 
@@ -161,7 +159,7 @@ The best cybersecurity professionals never stop learning.
 
 ---
 
-## Lab Challenge
+**Lab Challenge**
 
 Create a learning roadmap for yourself.
 
@@ -179,7 +177,7 @@ Building a roadmap helps you stay focused on long-term growth.
 
 ---
 
-## Before You Close Burp Suite
+**Before You Close Burp Suite**
 
 Today isn't the end of your learning journey.
 
@@ -199,7 +197,7 @@ Every new skill you develop will strengthen the others and make you a more capab
 
 ---
 
-## A Final Thought
+**A Final Thought**
 
 As you close Burp Suite today, remember this:
 
@@ -215,13 +213,11 @@ The journey doesn't end here.
 
 In many ways, it's only just beginning.
 
-I'll see you in the next chapter.
+Thank you for allowing me to be part of your cybersecurity journey.
+
+I hope this book has not only taught you how to use Burp Suite but has also inspired you to keep learning, keep practising, and keep growing.
+
+I'll see you in the next guide.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

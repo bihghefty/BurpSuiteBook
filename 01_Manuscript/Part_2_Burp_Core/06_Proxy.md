@@ -1,20 +1,22 @@
 # Chapter 6
 
-## Meeting the Proxy Tool
+**Meeting the Proxy Tool**
 
 This is the chapter where Burp Suite truly starts to come alive.
 
-Up to this point, we've prepared our lab, explored the interface, and learned how web applications communicate. Now it's time to begin using one of the most important features in Burp Suite.
+Up to this point, we've prepared our lab, explored the interface, and learned how web applications communicate. Now it's time to begin using the tool that makes Burp Suite so powerful.
 
 The Proxy tool is the heart of Burp Suite.
 
-Every request your browser sends and every response the server returns can pass through it. Once you understand how the Proxy works, the rest of Burp Suite becomes much easier to understand.
+Every request your browser sends and every response the server returns can pass through the Proxy tool.
 
-Let's take our first real look at it together.
+Once you understand how the Proxy works, you'll understand how Burp Suite works.
+
+Let's take our first real look inside the Proxy tool together.
 
 ---
 
-## What Is the Proxy Tool?
+**What Is the Proxy Tool?**
 
 Imagine sending a letter to a friend.
 
@@ -26,21 +28,23 @@ That person can read it, check it, or even hand it back to you before sending it
 
 That's exactly what the Proxy tool does.
 
-Instead of allowing your browser to communicate directly with a web server, Burp Suite places itself in the middle so you can observe that conversation.
+Instead of allowing your browser to communicate directly with the web server, Burp Suite quietly places itself between the two.
 
-For anyone learning web application security, this is one of the most valuable things Burp Suite can do.
+Every request passes through Burp Suite before reaching the server, and every response passes back through Burp Suite before reaching your browser.
 
----
+That gives you the opportunity to observe, analyse, and eventually modify the traffic.
 
-## Figure 6.1 – Burp Suite Proxy Tab
-
-![Figure 6.1 – Burp Suite Proxy Tab](../images/13-burp-intercept-on.png)
-
-*Figure 6.1: The Proxy tab captures and displays HTTP requests between your browser and the target web application. This is the starting point for observing and analysing web traffic.*
+For anyone learning web application security, this is one of the most powerful features Burp Suite offers.
 
 ---
 
-## Why the Proxy Matters
+![Figure 6.1 – Burp Suite Proxy Tool](../images/34-intercept-off.png)
+
+*Figure 6.1: The Burp Suite Proxy tool with Intercept turned off. In this state, requests pass normally through Burp Suite while allowing you to observe browser traffic before learning how to pause and inspect individual requests.*
+
+---
+
+**Why the Proxy Matters**
 
 Every time you:
 
@@ -53,13 +57,15 @@ your browser sends a request to the server.
 
 The server processes that request and sends a response back.
 
-The Proxy allows you to watch that exchange happen.
+The Proxy allows you to watch that conversation happen.
 
-Later, you'll even learn how to pause those requests before they reach the server.
+Later, you'll learn how to pause those requests before they reach the server, inspect them, and even modify them.
+
+Understanding this process is one of the biggest steps towards thinking like a web application security tester.
 
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
 When I first opened the Proxy tab, I expected something dramatic to happen.
 
@@ -75,7 +81,7 @@ Once I understood that, everything started to make sense.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Before moving on, ask yourself this question:
 
@@ -87,7 +93,7 @@ That's why configuring your browser to send traffic through Burp Suite is such a
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 When people first begin using Burp Suite, they often:
 
@@ -102,41 +108,43 @@ They're all part of the learning process.
 
 ---
 
-## Before We Continue
+**Before We Continue**
 
 Open Burp Suite.
 
 Click the **Proxy** tab.
 
-Spend a minute looking around.
+Spend a few minutes looking around.
 
-You don't need to click every option.
+Notice where the **Intercept** button is.
 
-Simply become familiar with where everything is.
+Notice the **HTTP History** tab.
 
-In the next chapter, we'll take the next step by intercepting our very first request.
+Notice the **Forward** and **Drop** buttons.
+
+You don't need to understand them yet.
+
+For now, simply become comfortable with the layout.
+
+In the next chapter, we'll begin using these features for the first time.
 
 ---
 
-## Looking Ahead
+**Looking Ahead**
 
 The Proxy lets you observe web traffic.
 
 The next chapter introduces the feature that gives you control over it.
 
-We'll turn on **Intercept**, pause requests before they reach the server, and begin interacting with web applications in a completely new way.
+We'll turn on **Intercept**, pause requests before they reach the server, and begin interacting with web applications in a completely different way.
 
 Take your time.
 
 The stronger your understanding of the Proxy, the easier the rest of Burp Suite will become.
 
-I'll see you in the next chapter.
+Every chapter builds on the one before it, and you're making steady progress.
+
+I'll be right here with you.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

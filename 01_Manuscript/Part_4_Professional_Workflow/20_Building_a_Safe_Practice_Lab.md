@@ -4,7 +4,7 @@
 >
 > — **Henry Uwaezuoke**
 
-## Building a Safe Practice Lab
+**Building a Safe Practice Lab**
 
 One of the questions I receive most often from beginners is:
 
@@ -36,7 +36,7 @@ If you develop the habit of practising safely today, you'll carry that professio
 
 ---
 
-## What You'll Learn
+**What You'll Learn**
 
 By the end of this chapter, you'll be able to:
 
@@ -47,7 +47,7 @@ By the end of this chapter, you'll be able to:
 
 ---
 
-## Why Every Cybersecurity Student Needs a Lab
+**Why Every Cybersecurity Student Needs a Lab**
 
 Imagine trying to learn to drive without a safe place to practise.
 
@@ -65,11 +65,11 @@ That's where real learning begins.
 
 ---
 
-## Figure 20.1 – Example Practice Lab
-
 ![Figure 20.1 – Example Practice Lab](../images/132-safe-practice-lab.png)
 
-*Figure 20.1: A safe practice environment consisting of Kali Linux, Burp Suite, and DVWA running locally. Using an isolated lab allows you to practise web application security techniques responsibly without affecting real systems.*
+*Figure 20.1: A safe practice environment consisting of Kali Linux, Burp Suite, and DVWA running locally. Using an isolated lab allows you to practise web application security safely without affecting production systems.*
+
+---
 
 Don't worry if your setup doesn't look exactly like this.
 
@@ -77,7 +77,7 @@ A simple lab that you use consistently is far more valuable than an advanced set
 
 ---
 
-## Safe Places to Practise
+**Safe Places to Practise**
 
 As your skills grow, you'll discover many excellent platforms designed specifically for learning.
 
@@ -96,7 +96,7 @@ The more time you spend practising in authorised environments, the more confiden
 
 ---
 
-## From My Lab
+**From My Lab**
 
 I still remember building my first practice lab.
 
@@ -124,7 +124,7 @@ Sometimes it's in solving the problem that stopped you from doing the exercise.
 
 ---
 
-## Henry's Pro Tip
+**Henry's Pro Tip**
 
 Don't wait until your lab is perfect before you begin practising.
 
@@ -136,7 +136,7 @@ Learning and building can happen at the same time.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Ask yourself this question:
 
@@ -148,7 +148,7 @@ Small improvements, repeated over time, create remarkable results.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 Avoid these habits:
 
@@ -161,7 +161,7 @@ Your mindset matters far more than your setup.
 
 ---
 
-## Lab Challenge
+**Lab Challenge**
 
 Before your next study session:
 
@@ -177,7 +177,7 @@ Consistency will become one of your greatest strengths.
 
 ---
 
-## Before You Close Burp Suite
+**Before You Close Burp Suite**
 
 Before ending today's session, take a moment to appreciate your progress.
 
@@ -201,7 +201,7 @@ Keep building.
 
 ---
 
-## A Final Thought
+**A Final Thought**
 
 The cybersecurity professionals you admire didn't begin with perfect labs or unlimited knowledge.
 
@@ -215,13 +215,5 @@ It's where experience begins.
 
 And one day, you'll look back and realise that the hours you spent practising here became the foundation of your career.
 
-I'll see you in the next chapter.
-
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

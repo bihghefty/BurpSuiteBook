@@ -34,17 +34,13 @@ Keep going.
 
 Every page you read, every lab you complete, and every question you ask is another step forward.
 
-By the time you reach the final chapter, my hope is that Burp Suite will no longer feel like an intimidating application, but a familiar tool that you can confidently use as part of your cybersecurity journey.
+By the time you reach the final chapter, my hope is that Burp Suite will no longer feel like an intimidating application, but a familiar tool that helps you think like a cybersecurity professional.
 
 Thank you for placing your trust in me.
+
+I'll do my best to make every chapter practical, clear, and worth your time.
 
 Now, let's begin.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

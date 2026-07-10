@@ -1,6 +1,6 @@
 # Chapter 4
 
-## Before You Begin
+**Before You Begin**
 
 Before we start working with Burp Suite, I'd like us to spend a few minutes preparing our lab.
 
@@ -14,7 +14,7 @@ Think of this chapter as laying the foundation for everything that follows.
 
 ---
 
-## Learning in a Safe Environment
+**Learning in a Safe Environment**
 
 Throughout this book, we'll use **Damn Vulnerable Web Application (DVWA)** as our practice target.
 
@@ -32,15 +32,13 @@ Professional cybersecurity is built on responsibility.
 
 ---
 
-## Figure 4.1 – DVWA Login Page
-
 ![Figure 4.1 – DVWA Login Page](../images/20-dvwa-credentials.png)
 
-*Figure 4.1: The DVWA login page confirms that your practice environment is running correctly. Throughout this book, we'll use DVWA as our primary target application for hands-on exercises.*
+*Figure 4.1: The DVWA login page confirms that your practice environment is running correctly. Before continuing, verify that DVWA is accessible in your browser and that you can sign in using the default credentials. Throughout this book, DVWA will serve as the safe practice environment for all hands-on exercises.*
 
 ---
 
-## Organising Your Workspace
+**Organising Your Workspace**
 
 Before opening Burp Suite, make sure you have:
 
@@ -55,7 +53,7 @@ I still keep notes from my own practice sessions because every experiment teache
 
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
 When I first started building cybersecurity labs, I was always eager to jump straight into testing.
 
@@ -73,7 +71,7 @@ Preparation is part of the learning process.
 
 ---
 
-## Before We Move Forward
+**Before We Move Forward**
 
 Take a few minutes to confirm that everything is working.
 
@@ -91,7 +89,7 @@ We'll build your confidence one exercise at a time.
 
 ---
 
-## One Last Thought
+**One Last Thought**
 
 One of the habits that has helped me most in cybersecurity is taking my time.
 
@@ -105,13 +103,11 @@ If a chapter takes an extra day because you repeated the lab several times, that
 
 That's learning.
 
-I'll see you in the next chapter.
+Take your time.
+
+A well-prepared lab makes every lesson that follows much easier.
+
+I'll meet you in the next chapter.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

@@ -1,6 +1,6 @@
 # Chapter 12
 
-## Spotting Small Differences with Comparer
+**Spotting Small Differences with Comparer**
 
 One lesson cybersecurity has taught me is that the smallest difference can sometimes explain the biggest problem.
 
@@ -10,7 +10,7 @@ Two responses may appear the same at first glance.
 
 But hidden somewhere inside could be a small change that completely changes how an application behaves.
 
-Trying to find those differences by reading line after line can be frustrating.
+Trying to find those differences by reading line after line can quickly become frustrating.
 
 That's where Burp Suite's **Comparer** becomes incredibly useful.
 
@@ -18,9 +18,9 @@ Instead of searching manually, Comparer highlights the differences for you.
 
 ---
 
-## What Is Comparer?
+**What Is Comparer?**
 
-Comparer is a Burp Suite tool that compares two pieces of information.
+Comparer is a Burp Suite tool designed to compare two pieces of information.
 
 Those could be:
 
@@ -30,19 +30,19 @@ Those could be:
 - Two encoded values.
 - Or any other text you want to compare.
 
-Rather than making you read everything line by line, Burp Suite highlights exactly where the differences appear.
+Rather than forcing you to read everything line by line, Burp Suite immediately highlights where the differences appear.
 
 That makes your job much easier.
 
 ---
 
-## Figure 12.1 – Sending Items to Comparer
-
 ![Figure 12.1 – Sending Items to Comparer](../images/120-comparer-items-loaded.png)
 
-*Figure 12.1: Burp Suite Comparer allows you to load two or more requests or responses for comparison. This is useful when identifying subtle differences in application behaviour.*
+*Figure 12.1: Two HTTP requests have been loaded into Burp Suite's Comparer tool. By selecting similar requests or responses, you can quickly identify subtle differences that may affect how a web application behaves.*
 
-Choose two requests from HTTP History.
+---
+
+Choose two similar requests from HTTP History.
 
 Right-click each one and send them to Comparer.
 
@@ -50,7 +50,7 @@ We'll compare them together.
 
 ---
 
-## Reading the Results
+**Reading the Results**
 
 Once both items are loaded, Burp Suite displays them side by side.
 
@@ -70,19 +70,17 @@ That's the question that helps you understand how an application works.
 
 ---
 
-## Figure 12.2 – Comparer Results
-
 ![Figure 12.2 – Comparer Results](../images/121-comparer-results.png)
 
-*Figure 12.2: Comparer highlights the differences between the selected items, making it easier to identify changes that might be difficult to notice during manual inspection.*
-
-Spend a few minutes studying the highlighted areas.
-
-Even small differences can tell an important story.
+*Figure 12.2: The Burp Suite Comparer results window after comparing two identical items. Because both requests are the same, Comparer reports **0 Differences**. This confirms that the tool has successfully compared the selected items and found no changes between them.*
 
 ---
 
-## Lessons I Learned
+In this example, we intentionally compared two identical requests. Burp Suite reports 0 Differences, confirming that both items are exactly the same. If the requests contained different values—such as parameters, cookies, headers, or responses—Comparer would highlight those changes automatically, making them much easier to identify.
+
+---
+
+**Lessons I Learned**
 
 I used to compare requests by opening two windows and reading them one line at a time.
 
@@ -92,7 +90,7 @@ It was simply inefficient.
 
 The first time I used Comparer, I realised Burp Suite could do that work much faster than I could.
 
-That experience reminded me of something I still believe today:
+That experience reminded me of something I still believe today.
 
 A good cybersecurity professional doesn't avoid hard work.
 
@@ -100,7 +98,7 @@ They learn to use good tools wisely.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Imagine receiving two login requests.
 
@@ -114,7 +112,7 @@ That's exactly why Comparer exists.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 Many beginners overlook Comparer because it looks simple.
 
@@ -130,7 +128,7 @@ The differences will make much more sense.
 
 ---
 
-## Before We Continue
+**Before We Continue**
 
 Open HTTP History.
 
@@ -142,11 +140,11 @@ Spend a few minutes examining the highlighted differences.
 
 Ask yourself what changed and why.
 
-Curiosity is one of your greatest tools.
+Curiosity is one of your greatest tools as a security tester.
 
 ---
 
-## Looking Ahead
+**Looking Ahead**
 
 You've now explored many of Burp Suite's core tools.
 
@@ -161,10 +159,4 @@ The more you practise, the more natural that workflow will become.
 I'll see you in the next chapter.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

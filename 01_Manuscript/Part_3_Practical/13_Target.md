@@ -1,6 +1,6 @@
 # Chapter 13
 
-## Seeing the Bigger Picture with the Target Tab
+**Seeing the Bigger Picture with the Target Tab**
 
 As I became more comfortable using Burp Suite, I noticed something.
 
@@ -24,7 +24,7 @@ Sometimes that's exactly what you need.
 
 ---
 
-## What Is the Target Tab?
+**What Is the Target Tab?**
 
 The Target tab gives you an organised view of the application you're exploring.
 
@@ -38,23 +38,23 @@ They simply answer different questions.
 
 ---
 
-## Figure 13.1 – Target Site Map
+![Figure 13.1 – Burp Suite Target Site Map](../images/122-target-site-map.png)
 
-![Figure 13.1 – Target Site Map](../images/122-target-site-map.png)
+*Figure 13.1: Burp Suite's Target → Site map showing the discovered hosts after browsing the application. At this stage, Burp Suite has identified multiple hosts, allowing you to organise and navigate the application's structure from a central location.*
 
-*Figure 13.1: The Target Site Map displays the application's discovered structure after browsing through DVWA. It helps testers understand the application's layout by organising pages, directories, and resources into a clear hierarchy.*
+---
 
-Spend a few moments looking at the folders and pages.
+Spend a few moments looking through the folders and pages.
 
 Even if you don't recognise everything yet, you're beginning to see how Burp Suite organises information.
 
 ---
 
-## Why It Matters
+**Why It Matters**
 
 Imagine you're testing a website with dozens of pages.
 
-Without organisation, finding a specific request could become frustrating.
+Without organisation, finding a specific request could quickly become frustrating.
 
 The Target tab solves that problem by grouping related resources together.
 
@@ -64,19 +64,19 @@ Good organisation saves time.
 
 ---
 
-## Figure 13.2 – Expanded Target Site Map
-
 ![Figure 13.2 – Expanded Target Site Map](../images/123-target-site-map-expanded.png)
 
-*Figure 13.2: Expanding the Site Map reveals additional directories, pages, and endpoints, making it easier to understand the application's structure and identify areas for further testing.*
-
-Notice how expanding the folders reveals more pages and resources.
-
-This gives you a clearer understanding of how the application is structured.
+*Figure 13.2: An expanded view of the Target → Site map displaying the pages and resources discovered under the selected host. Expanding the Site Map helps you understand how the application is organised and makes it easier to locate specific pages during testing.*
 
 ---
 
-## Lessons I Learned
+Notice how expanding the folders reveals additional pages and resources.
+
+This gives you a clearer understanding of how the application is structured and helps you navigate larger web applications more efficiently.
+
+---
+
+**Lessons I Learned**
 
 When I first discovered the Target tab, I didn't pay much attention to it.
 
@@ -92,7 +92,7 @@ The better organised your tools are, the more organised your testing becomes.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Imagine trying to explore a large shopping mall without a directory.
 
@@ -106,19 +106,20 @@ It helps you understand where everything belongs.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 As you begin using the Target tab, remember these tips:
 
 - Don't assume every folder contains important functionality.
 - Take time to explore the application's structure before rushing into testing.
-- Use the Site Map as a guide, not as a shortcut.
+- Use the Site Map as a guide rather than a shortcut.
+- Remember that discovering a page doesn't automatically mean it's vulnerable.
 
 Understanding the application is one of the most valuable parts of any security assessment.
 
 ---
 
-## Before We Continue
+**Before We Continue**
 
 Browse around DVWA for a few minutes.
 
@@ -136,27 +137,21 @@ Simply become familiar with the layout.
 
 ---
 
-## Looking Ahead
+**Looking Ahead**
 
 You've now explored the core tools that make Burp Suite such a powerful platform.
 
 In the next chapter, we'll begin putting these tools together in practical DVWA exercises.
 
-This is where everything you've learned starts working together.
+That's where everything you've learned starts working together.
 
 Take your time.
 
-The goal isn't just to know the tools.
+The goal isn't simply to know the tools.
 
-The goal is to know when to use them.
+The goal is to understand when and why to use them.
 
 I'll see you in the next chapter.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice.Secure.**
 

@@ -1,6 +1,6 @@
 # Chapter 2
 
-## Understanding How Web Applications Communicate
+**Understanding How Web Applications Communicate**
 
 Before we dive deeper into Burp Suite, I'd like you to understand something that completely changed the way I look at web applications.
 
@@ -14,7 +14,7 @@ Once you understand how that communication works, the rest of Burp Suite becomes
 
 ---
 
-## Imagine You're Ordering Food
+**Imagine You're Ordering Food**
 
 Let's make this simple.
 
@@ -41,27 +41,27 @@ Understanding this simple process is one of the most important lessons in web ap
 
 ---
 
-## Figure 2.1 – How a Browser Communicates with a Web Server
+![Figure 2.1 – Browser and Web Server Communication](../images/001-browser-server-communication.png)
 
-![Figure 2.1 – How a Browser Communicates with a Web Server](../images/001-browser-server-communication.png)
-
-*Figure 2.1: A web browser sends an HTTP request to a web server. The server processes the request and returns an HTTP response containing the requested content, such as a web page, image, or other resource.*
+*Figure 2.1: A simple illustration of how a web browser communicates with a web server. Every action you perform on a website begins with an HTTP request from the browser. The server processes that request and returns an HTTP response containing the requested page, data, or resource. This request-and-response cycle forms the foundation of everything you'll do with Burp Suite.*
 
 ---
 
-As you study this diagram, notice the direction of the request and the response.
+As you study this diagram, notice the direction of the communication.
 
 The browser sends a request.
 
-The server processes it.
+The server processes that request.
 
 The server sends back a response.
 
-That conversation happens every time you interact with a website.
+That conversation happens every single time you interact with a website.
+
+Whether you're logging in, searching for information, or submitting a form, the same process takes place.
 
 ---
 
-## Where Burp Suite Fits In
+**Where Burp Suite Fits In**
 
 Now imagine placing someone between the waiter and the kitchen.
 
@@ -75,15 +75,15 @@ They can even stop it from moving.
 
 That's exactly what Burp Suite does.
 
-Instead of allowing requests to travel directly between your browser and the web server, Burp Suite places itself in the middle.
+Instead of allowing requests to travel directly between your browser and the web server, Burp Suite quietly places itself in the middle.
 
-This gives you the opportunity to understand what the browser is sending and what the server sends back.
+This gives you the opportunity to observe what the browser is sending and understand what the server sends back.
 
 That's why Burp Suite is called an **intercepting proxy**.
 
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
 When I first started learning Burp Suite, I focused too much on the buttons and menus.
 
@@ -91,43 +91,41 @@ Everything felt complicated.
 
 What finally helped me was understanding the conversation between the browser and the server.
 
-Once that clicked, every Burp Suite tool started to make sense because I understood what the software was actually showing me.
+Once that idea clicked, every Burp Suite tool started to make sense because I understood what the software was actually showing me.
 
-Sometimes learning one simple idea changes everything that comes after it.
+Sometimes one simple idea changes everything that comes after it.
 
 ---
 
-## Before We Continue
+**Before We Continue**
 
 Don't worry about remembering every technical term in this chapter.
 
-Right now, I simply want you to remember one idea:
+Right now, I simply want you to remember one important idea:
 
-**Every action you perform on a website creates a request and a response.**
+**Every action you perform on a website creates an HTTP request and an HTTP response.**
 
 Burp Suite helps you see that conversation.
 
-Everything else in this book builds on that idea.
+Everything else in this book builds upon that foundation.
 
 ---
 
-## A Final Thought
+**A Final Thought**
 
 The best cybersecurity professionals don't just know how to use tools.
 
-They understand what the tools are showing them.
+They understand what those tools are showing them.
 
 That's the mindset I want you to develop throughout this book.
 
 We'll keep building that understanding together, one chapter at a time.
 
-See you in the next chapter.
+Take your time with these fundamentals.
+
+The stronger your foundation becomes, the easier every practical exercise will feel.
+
+I'll see you in the next chapter.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

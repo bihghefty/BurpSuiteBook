@@ -4,7 +4,7 @@
 >
 > — **Henry Uwaezuoke**
 
-## Your Journey Doesn't End Here
+**Your Journey Doesn't End Here**
 
 If you've made it this far, take a moment to appreciate how much you've learned.
 
@@ -34,7 +34,7 @@ Those qualities matter far more than any single tool you'll ever learn.
 
 ---
 
-## What Comes Next?
+**What Comes Next?**
 
 One of the questions readers often ask me is,
 
@@ -62,15 +62,13 @@ It's a lifelong journey of learning.
 
 ---
 
-## Figure 23.1 – Planning Your Next Learning Steps
-
 ![Figure 23.1 – Planning Your Next Learning Steps](../images/135-learning-roadmap.png)
 
-*Figure 23.1: Burp Suite is an excellent starting point, but it is only one step in a broader cybersecurity journey. Expanding your knowledge of Linux, networking, Python, and web security will help you grow into a well-rounded cybersecurity professional.*
+*Figure 23.1: Burp Suite is an excellent starting point, but it is only one step in your cybersecurity journey. Continue building your skills in Linux, networking, Python, web security, and practical lab work to become a well-rounded cybersecurity professional.*
 
 ---
 
-## From My Lab
+**From My Lab**
 
 One thing I've noticed throughout my career is that every new skill makes the previous one more valuable.
 
@@ -88,11 +86,9 @@ That's why I encourage every beginner to keep learning, even after finishing thi
 
 The journey only becomes more rewarding from here.
 
-— **Henry Uwaezuoke**
-
 ---
 
-## Henry's Pro Tip
+**Henry's Pro Tip**
 
 Don't rush to learn every cybersecurity tool you hear about.
 
@@ -108,7 +104,7 @@ Depth will always be more valuable than collecting tools you barely know how to 
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Take a notebook and answer these questions:
 
@@ -120,7 +116,7 @@ Your answers will help shape your personal learning roadmap.
 
 ---
 
-## Lab Challenge
+**Lab Challenge**
 
 Create a six-month learning plan.
 
@@ -139,7 +135,7 @@ Small, consistent progress will take you much further than occasional bursts of 
 
 ---
 
-## Before the Final Chapter
+**Before the Final Chapter**
 
 You've completed the technical journey this book was designed to take you through.
 
@@ -156,10 +152,4 @@ It's about you, your future, and the kind of cybersecurity professional you're b
 I'll meet you there.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

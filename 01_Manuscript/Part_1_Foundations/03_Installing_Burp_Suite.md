@@ -1,6 +1,6 @@
 # Chapter 3
 
-## Installing Burp Suite
+**Installing Burp Suite**
 
 Before we can explore Burp Suite, we need to get it running on our computer.
 
@@ -12,7 +12,7 @@ By the end of this chapter, you'll have Burp Suite installed and ready for the p
 
 ---
 
-## Choosing the Right Edition
+**Choosing the Right Edition**
 
 One of the first questions beginners ask is:
 
@@ -28,25 +28,23 @@ Learning the fundamentals is far more important than owning every feature.
 
 ---
 
-## Downloading Burp Suite
+**Downloading Burp Suite**
 
 Visit PortSwigger's official website and download the latest version of **Burp Suite Community Edition** for your operating system.
 
 Always download security tools from their official source.
 
-Doing so helps ensure you're using authentic software and receiving the latest updates.
+Doing so helps ensure you're using authentic software, receiving the latest updates, and avoiding modified or malicious downloads.
 
 ---
-
-## Figure 3.1 – Downloading Burp Suite Community Edition
 
 ![Figure 3.1 – Downloading Burp Suite Community Edition](../images/04-burp-download-page.png)
 
-*Figure 3.1: Download the latest Burp Suite Community Edition from the official PortSwigger website before beginning the installation.*
+*Figure 3.1: The official PortSwigger download page for Burp Suite Community Edition. Always download Burp Suite directly from the official website to ensure you're using a genuine, up-to-date, and trusted version of the software.*
 
 ---
 
-## Installing the Application
+**Installing the Application**
 
 Run the installer and follow the installation steps for your operating system.
 
@@ -60,21 +58,19 @@ That's perfectly normal.
 
 ---
 
-## Figure 3.2 – Burp Suite Installer
+![Figure 3.2 – Burp Suite Installation Wizard](../images/08-installation-wizard.png)
 
-![Figure 3.2 – Burp Suite Installer](../images/08-installation-wizard.png)
-
-*Figure 3.2: Launch the installer and follow the setup wizard.*
+*Figure 3.2: The Burp Suite installation wizard guides you through the setup process. For most users, the default installation options are recommended and require no additional configuration.*
 
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
 The first time I installed Burp Suite, I spent more time worrying about whether I had installed it correctly than actually using it.
 
 Looking back, I realised something important.
 
-The best way to learn a tool isn't by staring at the installation screen—it's by opening the application and starting to explore.
+The best way to learn a tool isn't by staring at the installation screen—it's by opening the application and beginning to explore.
 
 Don't wait until you feel "ready."
 
@@ -84,7 +80,7 @@ Confidence comes through practice.
 
 ---
 
-## Before We Continue
+**Before We Continue**
 
 Before moving to the next chapter, make sure:
 
@@ -96,25 +92,21 @@ If everything looks good, you're ready for the next step.
 
 ---
 
-## A Final Thought
+**A Final Thought**
 
-Every cybersecurity professional remembers the first tool they learned to use with confidence.
+Every cybersecurity professional remembers the first security tool they learned to use with confidence.
 
 For many people, Burp Suite becomes one of those tools.
 
-You're taking the first step today.
+You're taking that first step today.
 
 Keep going.
 
-I'll be right here with you.
+Every expert you admire once stood exactly where you are now.
 
-See you in the next chapter.
+Master this tool one lesson at a time, because you'll continue using it throughout your cybersecurity journey.
+
+I'll see you in the next chapter.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

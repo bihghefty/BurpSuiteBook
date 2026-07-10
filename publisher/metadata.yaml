@@ -1,5 +1,6 @@
 ---
 title: "Mastering Burp Suite: A Beginner's Practical Guide to Web Application Security"
+
 author: "Henry Uwaezuoke"
 
 date: "2026"
@@ -14,18 +15,19 @@ toc-depth: 2
 
 numbersections: false
 
-fontsize: 11pt
+fontsize: 12pt
 
 geometry:
-- margin=1in
+  - margin=1in
 
-documentclass: book
+documentclass: report
 
-colorlinks: true
+classoption:
+  - oneside
+  - openany
 
-linkcolor: blue
-
-urlcolor: blue
+colorlinks: false
 
 papersize: letter
 ...
+

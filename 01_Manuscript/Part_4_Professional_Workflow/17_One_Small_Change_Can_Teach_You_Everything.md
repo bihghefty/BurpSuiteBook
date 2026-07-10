@@ -1,6 +1,6 @@
 # Chapter 17
 
-## One Small Change Can Teach You Everything
+**One Small Change Can Teach You Everything**
 
 When I first started practising with Burp Suite, I made a mistake that many beginners make.
 
@@ -36,7 +36,7 @@ If you remember only one thing from this chapter, let it be this:
 
 ---
 
-## What You'll Learn
+**What You'll Learn**
 
 By the end of this chapter, you'll be able to:
 
@@ -47,7 +47,7 @@ By the end of this chapter, you'll be able to:
 
 ---
 
-## Why Small Changes Matter
+**Why Small Changes Matter**
 
 Imagine you're trying to improve a recipe.
 
@@ -61,11 +61,11 @@ That simple habit saves time, reduces confusion, and helps you build a much stro
 
 ---
 
-## Figure 17.1 – Editing a Single Parameter
-
 ![Figure 17.1 – Editing a Single Parameter](../images/127-editing-a-single-parameter.png)
 
-*Figure 17.1: A single parameter in the HTTP request is modified before the request is sent. Changing one value at a time makes it much easier to understand how the application responds.*
+*Figure 17.1: A single parameter in the HTTP request is modified inside Burp Suite Repeater before the request is sent. By changing only one value at a time, you can clearly observe how the application responds without introducing unnecessary variables.*
+
+---
 
 Notice that only one value has changed.
 
@@ -77,7 +77,7 @@ By limiting your changes, you also limit the number of possible explanations for
 
 ---
 
-## Try It Yourself
+**Try It Yourself**
 
 Open a request in **Repeater**.
 
@@ -103,11 +103,11 @@ That's the foundation of professional web application testing.
 
 ---
 
-## Figure 17.2 – Comparing the Responses
-
 ![Figure 17.2 – Comparing the Responses](../images/128-comparing-responses.png)
 
-*Figure 17.2: After sending the modified request, Burp Suite displays the updated server response. Comparing the original and modified responses helps you understand how a single change affects application behaviour.*
+*Figure 17.2: After sending the modified request, Burp Suite displays the updated server response. Comparing the original and modified responses helps you understand exactly how a single change affects the application's behaviour.*
+
+---
 
 Take your time.
 
@@ -117,7 +117,7 @@ Sometimes the smallest difference teaches the biggest lesson.
 
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
 One evening, I spent almost twenty minutes trying to understand why an application behaved differently after I modified a request.
 
@@ -141,7 +141,7 @@ That simple habit has taught me far more than rushing through dozens of requests
 
 ---
 
-## Henry's Pro Tip
+**Henry's Pro Tip**
 
 Don't measure your progress by how many requests you send.
 
@@ -155,7 +155,7 @@ The strongest testers are usually the most patient ones.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Before sending your next request, pause for a moment.
 
@@ -169,7 +169,7 @@ Learning becomes much easier when you remove unnecessary variables.
 
 ---
 
-## Common Beginner Mistakes
+**Common Beginner Mistakes**
 
 When practising with Repeater, beginners often:
 
@@ -184,7 +184,7 @@ Patience is one of the most valuable skills you'll develop in cybersecurity.
 
 ---
 
-## Lab Challenge
+**Lab Challenge**
 
 Open three different requests in **Repeater**.
 
@@ -201,7 +201,7 @@ That's how real learning happens.
 
 ---
 
-## Before You Close Burp Suite
+**Before You Close Burp Suite**
 
 Replay one request from the beginning.
 
@@ -217,7 +217,7 @@ They're the ones who observe the most carefully.
 
 ---
 
-## Looking Ahead
+**Looking Ahead**
 
 You've now seen how a single change can reveal valuable information about an application's behaviour.
 
@@ -227,13 +227,5 @@ Sometimes the biggest improvements don't come from learning a new feature.
 
 They come from improving the way you think.
 
-I'll see you in the next chapter.
-
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 

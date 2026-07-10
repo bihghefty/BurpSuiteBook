@@ -1,6 +1,6 @@
 # Chapter 5
 
-## Exploring the Burp Suite Dashboard
+**Exploring the Burp Suite Dashboard**
 
 Congratulations.
 
@@ -20,13 +20,13 @@ Let's take a tour of the interface together.
 
 ---
 
-## Your First Look
+**Your First Look**
 
 When Burp Suite opens, the interface can appear busy.
 
 That's perfectly normal.
 
-Remember, Burp Suite isn't one tool.
+Remember, Burp Suite isn't just one tool.
 
 It's a collection of tools designed to work together.
 
@@ -38,49 +38,51 @@ Don't click everything.
 
 Observe first.
 
-Curiosity is one of the most valuable skills in cybersecurity.
+One lesson I've learned over the years is that curiosity is one of the most valuable skills in cybersecurity.
+
+The more you observe, the more you'll understand.
 
 ---
 
-## Figure 5.1 – Burp Suite Dashboard
+![Figure 5.1 – Burp Suite Dashboard](../images/12-burp-burp-dashboard.png)
 
-![Figure 5.1 – Burp Suite Dashboard](../images/12-burp-dashboard.png)
-
-*Figure 5.1: The Burp Suite Dashboard serves as the central workspace of the application. From here, you can monitor project activity, review issues, and access the various tools available throughout Burp Suite.*
+*Figure 5.1: The Burp Suite Dashboard serves as the central workspace of the application. From here, you can monitor project activity, review issues, and access the various tools you'll use throughout this book.*
 
 ---
 
-## The Main Tabs
+**The Main Tabs**
 
 Let's briefly introduce the tools you'll be using throughout this book.
 
-### Dashboard
+**Dashboard**
 
 The Dashboard gives you an overview of what Burp Suite is doing.
 
 Think of it as your control centre.
 
+It's where you'll monitor activity and quickly see what's happening inside your project.
+
 ---
 
-### Proxy
+**Proxy**
 
 The Proxy tool allows Burp Suite to sit between your browser and the web server.
 
 This is where you'll intercept, inspect, and forward HTTP requests.
 
-We'll spend a lot of time here because it's one of the most important tools in Burp Suite.
+We'll spend a lot of time here because it's the foundation of almost everything you'll do with Burp Suite.
 
 ---
 
-### Repeater
+**Repeater**
 
 Repeater lets you send the same request again and again while making small changes each time.
 
-It's perfect for learning how web applications respond to different inputs.
+It's one of the best tools for understanding how applications respond to different inputs.
 
 ---
 
-### Intruder
+**Intruder**
 
 Intruder automates repetitive testing.
 
@@ -90,15 +92,15 @@ Later in this book, we'll practise using Intruder safely inside DVWA.
 
 ---
 
-### Logger
+**Logger**
 
 Logger records the traffic passing through Burp Suite.
 
-It's useful when you want to review activity or troubleshoot something that happened earlier.
+It's useful when you want to review previous activity or troubleshoot something that happened earlier during testing.
 
 ---
 
-## Lessons I Learned
+**Lessons I Learned**
 
 When I first discovered Burp Suite, I believed I needed to master every tool before I could begin testing.
 
@@ -112,11 +114,11 @@ Then Intruder started to make sense.
 
 Don't put pressure on yourself to learn everything today.
 
-Small, consistent progress will always beat trying to learn everything at once.
+Small, consistent progress will always take you further than trying to learn everything at once.
 
 ---
 
-## Stop and Think
+**Stop and Think**
 
 Take another look at the Burp Suite window.
 
@@ -128,7 +130,7 @@ If your answer is **Proxy**, you're already beginning to understand how Burp Sui
 
 ---
 
-## Before We Continue
+**Before We Continue**
 
 You don't need to memorise every tab in this chapter.
 
@@ -136,11 +138,11 @@ The goal is simply to become familiar with the interface.
 
 Over the next few chapters, we'll open each tool together and learn what it does through practical exercises.
 
-By the end of the book, these tabs will feel as familiar as the menus in your web browser.
+By the end of this book, these tabs will feel as familiar as the menus in your web browser.
 
 ---
 
-## Looking Ahead
+**Looking Ahead**
 
 Now that you've seen the Burp Suite interface, it's time to start using it.
 
@@ -152,13 +154,7 @@ Take your time.
 
 Enjoy the process.
 
-I'll see you in the next chapter.
+You're building a solid foundation that everything else in this book will build upon.
 
 — **Henry Uwaezuoke**
-
----
-
-### Henry Uwaezuoke Cybersecurity Series
-
-**Learn. Practice. Secure.**
 
