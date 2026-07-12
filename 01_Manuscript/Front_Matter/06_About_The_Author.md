@@ -1,22 +1,24 @@
 # About the Author
 
-Henry Uwaezuoke is a cybersecurity educator, SOC analyst, penetration tester, and technical author with a passion for helping beginners build practical, real-world cybersecurity skills.
+![Henry Uwaezuoke](01_Manuscript/images/henry-headshot.png)
+
+Henry Uwaezuoke is a cybersecurity educator, SOC analyst, penetration tester, and technical author passionate about helping beginners build practical, real-world cybersecurity skills.
 
 His teaching philosophy is simple:
 
-**Cybersecurity is best learned by doing.**
+> **Cybersecurity is best learned by doing.**
 
-Rather than relying only on theory, Henry believes real confidence is built by working through practical labs, analysing real-world scenarios, making mistakes, and learning from them.
+Rather than relying solely on theory, Henry believes lasting confidence is built through hands-on practice, analysing real-world scenarios, making mistakes, and learning how to solve problems like a security professional.
 
-His work focuses on Linux, web application security, network security, ethical hacking, defensive security, and helping aspiring cybersecurity professionals build successful careers.
+His work focuses on Linux, web application security, network security, ethical hacking, defensive security, and helping aspiring cybersecurity professionals develop skills that employers value.
 
-The **Henry Uwaezuoke Cybersecurity Series** was created to bridge the gap between theory and practice. Every book is written with one goal in mind: to make complex cybersecurity topics easier to understand through clear explanations, practical demonstrations, and hands-on exercises that readers can follow at their own pace.
+The **Henry Uwaezuoke Cybersecurity Series** was created to bridge the gap between theory and practice. Every book is designed to make complex cybersecurity concepts simple, practical, and accessible through real examples, guided labs, and step-by-step explanations.
 
-When he isn't writing or researching cybersecurity topics, Henry enjoys building practical labs, developing educational resources, and sharing knowledge that helps others grow in the cybersecurity community.
+When he isn't writing or researching cybersecurity topics, Henry enjoys building practical labs, developing educational resources, and creating learning experiences that help others grow in the cybersecurity field.
 
 His mission is simple:
 
-**To make cybersecurity education practical, accessible, ethical, and inspiring for anyone willing to learn.**
+> **To make cybersecurity education practical, accessible, ethical, and inspiring for anyone willing to learn.**
 
 ---
 

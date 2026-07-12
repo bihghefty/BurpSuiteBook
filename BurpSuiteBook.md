@@ -163,9 +163,11 @@ Now, let's open Burp Suite and get to work.
 
 # About the Author
 
-Henry Uwaezuoke is a cybersecurity educator, SOC analyst, penetration tester, and technical author with a passion for helping beginners build practical, real-world cybersecurity skills.
+\begin{center}
+\includegraphics[width=0.25\textwidth]{01_Manuscript/images/author-headshot.png}
+\end{center}
 
-His teaching philosophy is simple:
+Henry Uwaezuoke is a cybersecurity educator, SOC analyst, penetration tester, and technical author passionate about helping beginners build practical, real-world cybersecurity skills.
 
 **Cybersecurity is best learned by doing.**
 
